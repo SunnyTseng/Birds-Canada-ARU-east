@@ -17,7 +17,7 @@ Working notes
 
 - Organize recordings by site, by ARU
 
-- There are some “un-categorized” recordings:
+- There are some “un-categorized” recordings (can’t set the location):
 
   - ARU \#6, date from 20200604 - 20200715
 
@@ -32,6 +32,18 @@ Working notes
 - Questions:
 
   - Holden Meadow only have 5 days of data instead of 10
+  - There are some data can’t be opened! The data was damaged
 
 - Processed 3 sites, and got contacted by Birds Canada as the contract
   budget is not approved - stopped working on this project at the moment
+
+### Dec. 18, 2023
+
+- Next steps:
+
+  - Finish running the rest of the recordings, site by site (need the
+    location)
+
+  - Communicate the questions with Ghram
+
+  - Combine output from each site, each ARU
