@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170704_210000.wav,1941.0,1944.0,Larus delawarensis,Ring-billed Gull,0.6170,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

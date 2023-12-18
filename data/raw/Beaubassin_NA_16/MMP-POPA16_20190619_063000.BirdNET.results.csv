@@ -1,0 +1,9 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Beaubassin_NA_16\MMP-POPA16_20190619_063000.wav,126.0,129.0,Tachycineta bicolor,Tree Swallow,0.8071,46.0000,-64.0000,25,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NA_16\MMP-POPA16_20190619_063000.wav,222.0,225.0,Hirundo rustica,Barn Swallow,0.6570,46.0000,-64.0000,25,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NA_16\MMP-POPA16_20190619_063000.wav,258.0,261.0,Agelaius phoeniceus,Red-winged Blackbird,0.6712,46.0000,-64.0000,25,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NA_16\MMP-POPA16_20190619_063000.wav,273.0,276.0,Melospiza georgiana,Swamp Sparrow,0.7462,46.0000,-64.0000,25,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NA_16\MMP-POPA16_20190619_063000.wav,276.0,279.0,Melospiza georgiana,Swamp Sparrow,0.7048,46.0000,-64.0000,25,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NA_16\MMP-POPA16_20190619_063000.wav,372.0,375.0,Hirundo rustica,Barn Swallow,0.5661,46.0000,-64.0000,25,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NA_16\MMP-POPA16_20190619_063000.wav,537.0,540.0,Tachycineta bicolor,Tree Swallow,0.5562,46.0000,-64.0000,25,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NA_16\MMP-POPA16_20190619_063000.wav,609.0,612.0,Tachycineta bicolor,Tree Swallow,0.7460,46.0000,-64.0000,25,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

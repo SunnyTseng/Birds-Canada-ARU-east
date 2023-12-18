@@ -1,0 +1,5 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170705_060000.wav,51.0,54.0,Gavia immer,Common Loon,0.8183,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170705_060000.wav,84.0,87.0,Gavia immer,Common Loon,0.9178,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170705_060000.wav,87.0,90.0,Gavia immer,Common Loon,0.6019,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170705_060000.wav,363.0,366.0,Corvus corax,Common Raven,0.8047,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

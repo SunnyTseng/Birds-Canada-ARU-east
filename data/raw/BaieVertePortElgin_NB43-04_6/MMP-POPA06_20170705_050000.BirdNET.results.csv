@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170705_050000.wav,669.0,672.0,Corvus brachyrhynchos,American Crow,0.6067,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170705_050000.wav,1227.0,1230.0,Gavia immer,Common Loon,0.6624,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170705_050000.wav,1245.0,1248.0,Gavia immer,Common Loon,0.8437,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170705_050000.wav,1665.0,1668.0,Corvus brachyrhynchos,American Crow,0.6863,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170705_050000.wav,2637.0,2640.0,Corvus brachyrhynchos,American Crow,0.6124,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170705_050000.wav,2649.0,2652.0,Corvus brachyrhynchos,American Crow,0.6170,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

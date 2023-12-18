@@ -1,0 +1,4 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170706_050000.wav,114.0,117.0,Empidonax alnorum,Alder Flycatcher,0.5997,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170706_050000.wav,2460.0,2463.0,Corvus brachyrhynchos,American Crow,0.9816,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170706_050000.wav,3423.0,3426.0,Corvus brachyrhynchos,American Crow,0.6101,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

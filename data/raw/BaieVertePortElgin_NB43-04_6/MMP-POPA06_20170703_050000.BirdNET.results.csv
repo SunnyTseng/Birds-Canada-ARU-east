@@ -1,0 +1,9 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170703_050000.wav,66.0,69.0,Empidonax alnorum,Alder Flycatcher,0.7809,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170703_050000.wav,117.0,120.0,Empidonax alnorum,Alder Flycatcher,0.9184,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170703_050000.wav,195.0,198.0,Empidonax alnorum,Alder Flycatcher,0.9146,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170703_050000.wav,219.0,222.0,Empidonax alnorum,Alder Flycatcher,0.8733,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170703_050000.wav,306.0,309.0,Empidonax alnorum,Alder Flycatcher,0.8598,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170703_050000.wav,378.0,381.0,Empidonax alnorum,Alder Flycatcher,0.7312,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170703_050000.wav,2178.0,2181.0,Corvus brachyrhynchos,American Crow,0.7186,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170703_050000.wav,3000.0,3003.0,Gavia immer,Common Loon,0.6035,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,0 +1,6 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170701_050000.wav,84.0,87.0,Empidonax alnorum,Alder Flycatcher,0.5032,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170701_050000.wav,912.0,915.0,Empidonax alnorum,Alder Flycatcher,0.6968,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170701_050000.wav,1026.0,1029.0,Ardea herodias,Great Blue Heron,0.7644,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170701_050000.wav,1035.0,1038.0,Ardea herodias,Great Blue Heron,0.8070,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170701_050000.wav,3156.0,3159.0,Corvus brachyrhynchos,American Crow,0.5125,46.0000,-64.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
