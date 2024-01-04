@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170522_010000.wav,210.0,213.0,Actitis macularius,Spotted Sandpiper,0.6562,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170522_010000.wav,249.0,252.0,Catharus guttatus,Hermit Thrush,0.5155,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170522_010000.wav,420.0,423.0,Branta canadensis,Canada Goose,0.5746,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170522_010000.wav,423.0,426.0,Branta canadensis,Canada Goose,0.6655,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170522_010000.wav,837.0,840.0,Anas platyrhynchos,Mallard,0.6681,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170522_010000.wav,861.0,864.0,Anas platyrhynchos,Mallard,0.6631,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

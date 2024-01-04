@@ -1,0 +1,11 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170518_070000.wav,12.0,15.0,Agelaius phoeniceus,Red-winged Blackbird,0.5785,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170518_070000.wav,15.0,18.0,Agelaius phoeniceus,Red-winged Blackbird,0.5083,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170518_070000.wav,96.0,99.0,Melospiza georgiana,Swamp Sparrow,0.9642,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170518_070000.wav,123.0,126.0,Melospiza georgiana,Swamp Sparrow,0.9113,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170518_070000.wav,213.0,216.0,Agelaius phoeniceus,Red-winged Blackbird,0.5937,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170518_070000.wav,339.0,342.0,Branta canadensis,Canada Goose,0.5055,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170518_070000.wav,405.0,408.0,Melospiza georgiana,Swamp Sparrow,0.9364,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170518_070000.wav,408.0,411.0,Melospiza georgiana,Swamp Sparrow,0.5399,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170518_070000.wav,762.0,765.0,Agelaius phoeniceus,Red-winged Blackbird,0.5059,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170518_070000.wav,810.0,813.0,Agelaius phoeniceus,Red-winged Blackbird,0.5672,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

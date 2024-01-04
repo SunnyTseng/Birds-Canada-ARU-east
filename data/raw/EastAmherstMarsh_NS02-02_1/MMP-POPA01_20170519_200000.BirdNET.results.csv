@@ -1,0 +1,20 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,147.0,150.0,Junco hyemalis,Dark-eyed Junco,0.7491,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,408.0,411.0,Melospiza georgiana,Swamp Sparrow,0.7978,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,543.0,546.0,Setophaga petechia,Yellow Warbler,0.6641,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,657.0,660.0,Branta canadensis,Canada Goose,0.7419,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,750.0,753.0,Setophaga petechia,Yellow Warbler,0.6652,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,1107.0,1110.0,Branta canadensis,Canada Goose,0.6592,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,1110.0,1113.0,Branta canadensis,Canada Goose,0.5440,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,1497.0,1500.0,Setophaga petechia,Yellow Warbler,0.8582,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,1821.0,1824.0,Agelaius phoeniceus,Red-winged Blackbird,0.5560,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,1932.0,1935.0,Branta canadensis,Canada Goose,0.7377,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,1935.0,1938.0,Branta canadensis,Canada Goose,0.8727,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,1938.0,1941.0,Branta canadensis,Canada Goose,0.7895,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,1941.0,1944.0,Branta canadensis,Canada Goose,0.9161,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,1944.0,1947.0,Branta canadensis,Canada Goose,0.7225,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,1947.0,1950.0,Branta canadensis,Canada Goose,0.7156,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,2436.0,2439.0,Agelaius phoeniceus,Red-winged Blackbird,0.6925,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,2439.0,2442.0,Agelaius phoeniceus,Red-winged Blackbird,0.5538,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,2808.0,2811.0,Branta canadensis,Canada Goose,0.5102,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170519_200000.wav,3435.0,3438.0,Branta canadensis,Canada Goose,0.7179,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

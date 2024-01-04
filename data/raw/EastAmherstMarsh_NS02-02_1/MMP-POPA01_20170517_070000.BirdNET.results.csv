@@ -1,0 +1,22 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,66.0,69.0,Gallinago delicata,Wilson's Snipe,0.7380,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,72.0,75.0,Gallinago delicata,Wilson's Snipe,0.8694,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,123.0,126.0,Gallinago delicata,Wilson's Snipe,0.5277,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,159.0,162.0,Melospiza georgiana,Swamp Sparrow,0.7194,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,219.0,222.0,Gallinago delicata,Wilson's Snipe,0.5237,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,222.0,225.0,Gallinago delicata,Wilson's Snipe,0.6971,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,237.0,240.0,Gallinago delicata,Wilson's Snipe,0.8435,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,249.0,252.0,Melospiza georgiana,Swamp Sparrow,0.7730,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,252.0,255.0,Melospiza georgiana,Swamp Sparrow,0.6677,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,258.0,261.0,Gallinago delicata,Wilson's Snipe,0.6918,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,273.0,276.0,Gallinago delicata,Wilson's Snipe,0.6487,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,330.0,333.0,Gallinago delicata,Wilson's Snipe,0.6330,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,360.0,363.0,Gallinago delicata,Wilson's Snipe,0.8554,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,369.0,372.0,Gallinago delicata,Wilson's Snipe,0.6726,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,384.0,387.0,Gallinago delicata,Wilson's Snipe,0.7087,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,420.0,423.0,Gallinago delicata,Wilson's Snipe,0.8151,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,441.0,444.0,Gallinago delicata,Wilson's Snipe,0.5032,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,444.0,447.0,Gallinago delicata,Wilson's Snipe,0.5104,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,741.0,744.0,Agelaius phoeniceus,Red-winged Blackbird,0.5222,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,816.0,819.0,Branta canadensis,Canada Goose,0.6339,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170517_070000.wav,831.0,834.0,Melospiza georgiana,Swamp Sparrow,0.5742,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

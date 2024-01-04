@@ -1,0 +1,19 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,330.0,333.0,Anas platyrhynchos,Mallard,0.8824,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,501.0,504.0,Agelaius phoeniceus,Red-winged Blackbird,0.5277,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,1713.0,1716.0,Melospiza georgiana,Swamp Sparrow,0.5931,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,1800.0,1803.0,Agelaius phoeniceus,Red-winged Blackbird,0.5687,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,1839.0,1842.0,Melospiza georgiana,Swamp Sparrow,0.7023,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,1842.0,1845.0,Melospiza georgiana,Swamp Sparrow,0.8143,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,2070.0,2073.0,Melospiza georgiana,Swamp Sparrow,0.7700,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,2073.0,2076.0,Melospiza georgiana,Swamp Sparrow,0.7496,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,2301.0,2304.0,Geothlypis trichas,Common Yellowthroat,0.5118,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,2358.0,2361.0,Geothlypis trichas,Common Yellowthroat,0.7574,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,2463.0,2466.0,Geothlypis trichas,Common Yellowthroat,0.7893,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,2511.0,2514.0,Melospiza georgiana,Swamp Sparrow,0.6962,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,3234.0,3237.0,Aythya collaris,Ring-necked Duck,0.9171,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,3396.0,3399.0,Tachycineta bicolor,Tree Swallow,0.9452,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,3399.0,3402.0,Tachycineta bicolor,Tree Swallow,0.7854,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,3405.0,3408.0,Tachycineta bicolor,Tree Swallow,0.8354,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,3420.0,3423.0,Setophaga petechia,Yellow Warbler,0.5073,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\EastAmherstMarsh_NS02-02_1\MMP-POPA01_20170523_050000.wav,3435.0,3438.0,Setophaga petechia,Yellow Warbler,0.6389,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

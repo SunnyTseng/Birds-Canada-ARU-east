@@ -75,4 +75,12 @@ model version that used in the GUI is
 | Beaubassin            | NA          | 16     | Dec.15          | 15:37 - 17:19 |        |                         |
 | Beaubassin            | NB35-01     | 4      | Jan.04          | 10:28 - 11:01 |        |                         |
 | Beaubassin            | NB35-04     | 4      | Jan.04          | 11:23 - 12:05 |        |                         |
-| East Amherst Marsh    | NS02-02     | 1      | Jan.04          | 12:31 -       |        | processing              |
+| East Amherst Marsh    | NS02-02     | 1      | Jan.04          | 12:31 - 13:07 |        |                         |
+|                       |             |        |                 |               |        |                         |
+|                       |             |        |                 |               |        |                         |
+|                       |             |        |                 |               |        |                         |
+|                       |             |        |                 |               |        |                         |
+|                       |             |        |                 |               |        |                         |
+|                       |             |        |                 |               |        |                         |
+|                       |             |        |                 |               |        |                         |
+|                       |             |        |                 |               |        |                         |
