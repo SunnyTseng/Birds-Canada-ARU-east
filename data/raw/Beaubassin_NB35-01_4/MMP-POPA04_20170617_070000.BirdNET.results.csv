@@ -1,0 +1,4 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170617_070000.wav,180.0,183.0,Tachycineta bicolor,Tree Swallow,0.6872,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170617_070000.wav,237.0,240.0,Agelaius phoeniceus,Red-winged Blackbird,0.6296,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170617_070000.wav,381.0,384.0,Tachycineta bicolor,Tree Swallow,0.6651,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,0 +1,12 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_060000.wav,18.0,21.0,Agelaius phoeniceus,Red-winged Blackbird,0.5889,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_060000.wav,33.0,36.0,Tachycineta bicolor,Tree Swallow,0.7616,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_060000.wav,105.0,108.0,Melospiza georgiana,Swamp Sparrow,0.7509,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_060000.wav,150.0,153.0,Melospiza georgiana,Swamp Sparrow,0.6669,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_060000.wav,240.0,243.0,Melospiza georgiana,Swamp Sparrow,0.6255,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_060000.wav,249.0,252.0,Melospiza georgiana,Swamp Sparrow,0.8443,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_060000.wav,273.0,276.0,Melospiza georgiana,Swamp Sparrow,0.5023,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_060000.wav,297.0,300.0,Tachycineta bicolor,Tree Swallow,0.7845,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_060000.wav,369.0,372.0,Melospiza georgiana,Swamp Sparrow,0.5552,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_060000.wav,405.0,408.0,Melospiza georgiana,Swamp Sparrow,0.7317,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_060000.wav,459.0,462.0,Melospiza georgiana,Swamp Sparrow,0.7691,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

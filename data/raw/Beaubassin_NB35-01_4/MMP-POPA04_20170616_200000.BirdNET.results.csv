@@ -1,0 +1,17 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,822.0,825.0,Anas platyrhynchos,Mallard,0.5773,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,915.0,918.0,Anas platyrhynchos,Mallard,0.6623,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,1143.0,1146.0,Agelaius phoeniceus,Red-winged Blackbird,0.7377,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,1158.0,1161.0,Agelaius phoeniceus,Red-winged Blackbird,0.7415,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,1188.0,1191.0,Agelaius phoeniceus,Red-winged Blackbird,0.7144,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,1605.0,1608.0,Tachycineta bicolor,Tree Swallow,0.9879,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,1608.0,1611.0,Tachycineta bicolor,Tree Swallow,0.8015,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,1611.0,1614.0,Tachycineta bicolor,Tree Swallow,0.9667,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,1614.0,1617.0,Tachycineta bicolor,Tree Swallow,0.9091,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,1617.0,1620.0,Tachycineta bicolor,Tree Swallow,0.9165,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,1620.0,1623.0,Tachycineta bicolor,Tree Swallow,0.9500,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,1728.0,1731.0,Agelaius phoeniceus,Red-winged Blackbird,0.5091,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,2826.0,2829.0,Melospiza georgiana,Swamp Sparrow,0.9596,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,2940.0,2943.0,Junco hyemalis,Dark-eyed Junco,0.5001,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,3141.0,3144.0,Tachycineta bicolor,Tree Swallow,0.8248,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170616_200000.wav,3207.0,3210.0,Agelaius phoeniceus,Red-winged Blackbird,0.5194,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,0 +1,15 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,18.0,21.0,Agelaius phoeniceus,Red-winged Blackbird,0.7429,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,489.0,492.0,Agelaius phoeniceus,Red-winged Blackbird,0.6740,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,903.0,906.0,Agelaius phoeniceus,Red-winged Blackbird,0.7301,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,927.0,930.0,Agelaius phoeniceus,Red-winged Blackbird,0.5838,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,1155.0,1158.0,Agelaius phoeniceus,Red-winged Blackbird,0.5333,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,1170.0,1173.0,Agelaius phoeniceus,Red-winged Blackbird,0.7719,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,1188.0,1191.0,Agelaius phoeniceus,Red-winged Blackbird,0.7490,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,1194.0,1197.0,Agelaius phoeniceus,Red-winged Blackbird,0.7258,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,2415.0,2418.0,Agelaius phoeniceus,Red-winged Blackbird,0.7773,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,2661.0,2664.0,Agelaius phoeniceus,Red-winged Blackbird,0.5758,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,2682.0,2685.0,Agelaius phoeniceus,Red-winged Blackbird,0.5625,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,2733.0,2736.0,Agelaius phoeniceus,Red-winged Blackbird,0.7650,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,2748.0,2751.0,Agelaius phoeniceus,Red-winged Blackbird,0.6977,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170522_200000.wav,2766.0,2769.0,Agelaius phoeniceus,Red-winged Blackbird,0.5220,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

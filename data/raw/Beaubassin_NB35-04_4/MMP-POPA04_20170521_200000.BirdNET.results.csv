@@ -1,0 +1,10 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170521_200000.wav,465.0,468.0,Dolichonyx oryzivorus,Bobolink,0.5573,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170521_200000.wav,1296.0,1299.0,Branta canadensis,Canada Goose,0.6559,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170521_200000.wav,2076.0,2079.0,Agelaius phoeniceus,Red-winged Blackbird,0.8383,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170521_200000.wav,2079.0,2082.0,Agelaius phoeniceus,Red-winged Blackbird,0.8590,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170521_200000.wav,2082.0,2085.0,Agelaius phoeniceus,Red-winged Blackbird,0.7103,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170521_200000.wav,2094.0,2097.0,Agelaius phoeniceus,Red-winged Blackbird,0.5059,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170521_200000.wav,2109.0,2112.0,Haliaeetus leucocephalus,Bald Eagle,0.5425,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170521_200000.wav,3033.0,3036.0,Passerculus sandwichensis,Savannah Sparrow,0.7774,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-04_4\MMP-POPA04_20170521_200000.wav,3354.0,3357.0,Agelaius phoeniceus,Red-winged Blackbird,0.6070,46.0000,-64.0000,20,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
