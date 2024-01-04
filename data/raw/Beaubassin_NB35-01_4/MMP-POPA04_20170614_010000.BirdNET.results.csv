@@ -1,0 +1,3 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170614_010000.wav,219.0,222.0,Actitis macularius,Spotted Sandpiper,0.5764,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Beaubassin_NB35-01_4\MMP-POPA04_20170614_010000.wav,240.0,243.0,Dryocopus pileatus,Pileated Woodpecker,0.5017,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
