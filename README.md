@@ -66,8 +66,11 @@ model version that used in the GUI is
 
 ## Processing schedule
 
-| Site                  | Location ID | ARU ID | Date   | Time          | Output | Note |
-|-----------------------|-------------|--------|--------|---------------|--------|------|
-| Baie Verte Port Elgin | NB43-04     | 6      | Dec.15 | 11:47 - 12:19 |        |      |
-| Baie Verte WFP        | NB44-01     | 7      | Dec.15 | 14:52 - 15:33 |        |      |
-| Beaubassin            | NA          | 16     | Dec.15 | 15:37 - 17:19 |        |      |
+| Site                  | Location ID | ARU ID | Date   | Time          | Output | Note  |
+|-----------------------|-------------|--------|--------|---------------|--------|-------|
+| Baie Verte Port Elgin | NB43-03     | 20     | Jan.04 | 10:28         |        | error |
+| Baie Verte Port Elgin | NB43-04     | 6      | Dec.15 | 11:47 - 12:19 |        |       |
+| Baie Verte WFP        | NB44-01     | 7      | Dec.15 | 14:52 - 15:33 |        |       |
+| Baie Verte WFP        | NB44-09     | 1      | Jan.04 | 10:28         |        | error |
+| Beaubassin            | NA          | 16     | Dec.15 | 15:37 - 17:19 |        |       |
+| Beaubassin            | NB35-01     | 4      | Jan.04 | 10:28 -       |        |       |
