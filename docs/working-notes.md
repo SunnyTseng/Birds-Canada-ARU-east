@@ -1,6 +1,6 @@
 Working notes
 ================
-2023-12-18
+2024-01-05
 
 ### Dec. 14, 2023
 
@@ -47,3 +47,7 @@ Working notes
   - Communicate the questions with Ghram
 
   - Combine output from each site, each ARU
+
+## Jan. 03, 2024
+
+- Got a message from David saying that the funding is available now!

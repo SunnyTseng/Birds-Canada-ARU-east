@@ -50,3 +50,7 @@ knitr::opts_chunk$set(echo = TRUE)
     -   Communicate the questions with Ghram
 
     -   Combine output from each site, each ARU
+
+## Jan. 03, 2024
+
+-   Got a message from David saying that the funding is available now!
