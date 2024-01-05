@@ -1,0 +1,18 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,126.0,129.0,Junco hyemalis,Dark-eyed Junco,0.5039,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,132.0,135.0,Junco hyemalis,Dark-eyed Junco,0.5847,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,201.0,204.0,Junco hyemalis,Dark-eyed Junco,0.5545,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,255.0,258.0,Corthylio calendula,Ruby-crowned Kinglet,0.6269,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,300.0,303.0,Corthylio calendula,Ruby-crowned Kinglet,0.9213,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,303.0,306.0,Vireo gilvus,Warbling Vireo,0.8666,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,330.0,333.0,Corthylio calendula,Ruby-crowned Kinglet,0.9352,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,348.0,351.0,Corthylio calendula,Ruby-crowned Kinglet,0.6050,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,696.0,699.0,Junco hyemalis,Dark-eyed Junco,0.6677,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,714.0,717.0,Junco hyemalis,Dark-eyed Junco,0.7285,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,762.0,765.0,Junco hyemalis,Dark-eyed Junco,0.6446,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,780.0,783.0,Junco hyemalis,Dark-eyed Junco,0.6977,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,783.0,786.0,Junco hyemalis,Dark-eyed Junco,0.6141,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,804.0,807.0,Junco hyemalis,Dark-eyed Junco,0.9325,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,822.0,825.0,Junco hyemalis,Dark-eyed Junco,0.6753,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,846.0,849.0,Junco hyemalis,Dark-eyed Junco,0.9262,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170527_070000.wav,897.0,900.0,Junco hyemalis,Dark-eyed Junco,0.5862,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

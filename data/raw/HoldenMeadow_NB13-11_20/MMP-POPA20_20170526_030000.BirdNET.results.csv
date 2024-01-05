@@ -1,0 +1,6 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_030000.wav,225.0,228.0,Junco hyemalis,Dark-eyed Junco,0.5048,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_030000.wav,549.0,552.0,Junco hyemalis,Dark-eyed Junco,0.5390,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_030000.wav,561.0,564.0,Junco hyemalis,Dark-eyed Junco,0.5151,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_030000.wav,789.0,792.0,Junco hyemalis,Dark-eyed Junco,0.5036,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_030000.wav,831.0,834.0,Junco hyemalis,Dark-eyed Junco,0.6094,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

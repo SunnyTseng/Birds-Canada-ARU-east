@@ -1,0 +1,13 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_070000.wav,21.0,24.0,Regulus satrapa,Golden-crowned Kinglet,0.7178,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_070000.wav,30.0,33.0,Regulus satrapa,Golden-crowned Kinglet,0.5607,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_070000.wav,42.0,45.0,Regulus satrapa,Golden-crowned Kinglet,0.6976,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_070000.wav,48.0,51.0,Regulus satrapa,Golden-crowned Kinglet,0.7678,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_070000.wav,90.0,93.0,Regulus satrapa,Golden-crowned Kinglet,0.5483,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_070000.wav,105.0,108.0,Regulus satrapa,Golden-crowned Kinglet,0.6790,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_070000.wav,111.0,114.0,Regulus satrapa,Golden-crowned Kinglet,0.5592,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_070000.wav,120.0,123.0,Regulus satrapa,Golden-crowned Kinglet,0.7635,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_070000.wav,129.0,132.0,Regulus satrapa,Golden-crowned Kinglet,0.7305,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_070000.wav,144.0,147.0,Regulus satrapa,Golden-crowned Kinglet,0.5449,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_070000.wav,180.0,183.0,Regulus satrapa,Golden-crowned Kinglet,0.6472,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170526_070000.wav,852.0,855.0,Zonotrichia albicollis,White-throated Sparrow,0.6880,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

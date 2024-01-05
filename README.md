@@ -76,19 +76,19 @@ model version that used in the GUI is
 | Beaubassin            | NB35-01     | 4      | Jan.04          | 10:28 - 11:01 |        |                         |
 | Beaubassin            | NB35-04     | 4      | Jan.04          | 11:23 - 12:05 |        |                         |
 | East Amherst Marsh    | NS02-02     | 1      | Jan.04          | 12:31 - 13:07 |        |                         |
-| East Amherst Marsh    | NS02-05     | 7      |                 |               |        |                         |
-| Fredericton           | NB05-04     | 15     |                 |               |        |                         |
+| East Amherst Marsh    | NS02-05     | 7      | Jan.05          |               |        | processing              |
+| Fredericton           | NB05-04     | 15     | Jan.05          | 10:39         |        | error - file encryption |
 | Fredericton           | NB05-1-2    | 15     |                 |               |        |                         |
 | Gagetown Island       | NB11-06     | 23     |                 |               |        |                         |
-| Holden Meadow         | NB13-11     | 20     |                 |               |        |                         |
-| Midgic                | NB38-02     | 3      |                 |               |        |                         |
-| Midgic                | NB38-06     | 12     |                 |               |        |                         |
+| Holden Meadow         | NB13-11     | 20     | Jan.05          | 10:51 - 11:14 |        |                         |
+| Midgic                | NB38-02     | 3      | Jan.05          |               |        | processing              |
+| Midgic                | NB38-06     | 12     | Jan.05          |               |        | processing              |
 | Musquash              | NB51-02     | 11     |                 |               |        |                         |
 | Petitcodiac           | NB41-02     | 3      |                 |               |        |                         |
 | Portobello Center     | NB20-03     | 18     |                 |               |        |                         |
 | St George             | NB32-04     | 20     |                 |               |        |                         |
-| Tintamarre            | NB34-01     | 2      |                 |               |        |                         |
-| Tintamarre            | NB34-05     | 1      |                 |               |        |                         |
-| Titamarre             | NB34-8-9    | 14     | Jan.04          |               |        |                         |
-| Ward                  | NB36-03     | 13     | Jan.04          |               |        |                         |
+| Tintamarre            | NB34-01     | 2      | Jan.05          |               |        | processing              |
+| Tintamarre            | NB34-05     | 1      | Jan.04          | 14:16         |        | error - file encryption |
+| Titamarre             | NB34-8-9    | 14     | Jan.04          | 14:08 - 14:26 |        |                         |
+| Ward                  | NB36-03     | 13     | Jan.04          | 14:52 - 15:59 |        |                         |
 | Westcock              | NB37-01     | 21     | Jan.04          | 14:16         |        | error - file encryption |

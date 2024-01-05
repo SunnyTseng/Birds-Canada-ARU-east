@@ -1,0 +1,16 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,45.0,48.0,Catharus guttatus,Hermit Thrush,0.7364,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1347.0,1350.0,Catharus guttatus,Hermit Thrush,0.9056,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1434.0,1437.0,Catharus guttatus,Hermit Thrush,0.7186,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1458.0,1461.0,Catharus guttatus,Hermit Thrush,0.7780,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1518.0,1521.0,Catharus guttatus,Hermit Thrush,0.6079,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1521.0,1524.0,Catharus guttatus,Hermit Thrush,0.5118,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1590.0,1593.0,Catharus guttatus,Hermit Thrush,0.5303,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1611.0,1614.0,Catharus guttatus,Hermit Thrush,0.6705,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1647.0,1650.0,Catharus guttatus,Hermit Thrush,0.6001,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1650.0,1653.0,Catharus guttatus,Hermit Thrush,0.6555,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1674.0,1677.0,Catharus ustulatus,Swainson's Thrush,0.6711,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1737.0,1740.0,Catharus guttatus,Hermit Thrush,0.6850,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1761.0,1764.0,Catharus guttatus,Hermit Thrush,0.5710,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1779.0,1782.0,Catharus guttatus,Hermit Thrush,0.5297,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\HoldenMeadow_NB13-11_20\MMP-POPA20_20170528_210000.wav,1908.0,1911.0,Catharus guttatus,Hermit Thrush,0.8272,46.0000,-67.0000,21,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
