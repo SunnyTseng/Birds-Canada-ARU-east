@@ -1,0 +1,21 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,0,3.0,Setophaga petechia,Yellow Warbler,0.8695,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,9.0,12.0,Setophaga petechia,Yellow Warbler,0.7502,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,54.0,57.0,Setophaga petechia,Yellow Warbler,0.5179,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,69.0,72.0,Setophaga petechia,Yellow Warbler,0.5185,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,99.0,102.0,Setophaga petechia,Yellow Warbler,0.7841,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,132.0,135.0,Setophaga petechia,Yellow Warbler,0.7705,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,147.0,150.0,Setophaga petechia,Yellow Warbler,0.5054,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,210.0,213.0,Actitis macularius,Spotted Sandpiper,0.5372,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,255.0,258.0,Melospiza georgiana,Swamp Sparrow,0.7560,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,285.0,288.0,Dolichonyx oryzivorus,Bobolink,0.7216,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,384.0,387.0,Dolichonyx oryzivorus,Bobolink,0.6108,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,429.0,432.0,Branta canadensis,Canada Goose,0.5308,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,432.0,435.0,Branta canadensis,Canada Goose,0.5889,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,465.0,468.0,Branta canadensis,Canada Goose,0.5356,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,693.0,696.0,Dolichonyx oryzivorus,Bobolink,0.6905,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,705.0,708.0,Dolichonyx oryzivorus,Bobolink,0.8833,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,711.0,714.0,Dolichonyx oryzivorus,Bobolink,0.9353,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,714.0,717.0,Dolichonyx oryzivorus,Bobolink,0.8229,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,750.0,753.0,Dolichonyx oryzivorus,Bobolink,0.7705,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_070000.wav,873.0,876.0,Dolichonyx oryzivorus,Bobolink,0.8641,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

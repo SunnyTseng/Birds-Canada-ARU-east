@@ -1,0 +1,6 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170613_040000.wav,279.0,282.0,Actitis macularius,Spotted Sandpiper,0.6303,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170613_040000.wav,354.0,357.0,Empidonax alnorum,Alder Flycatcher,0.5779,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170613_040000.wav,486.0,489.0,Melospiza georgiana,Swamp Sparrow,0.6564,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170613_040000.wav,894.0,897.0,Junco hyemalis,Dark-eyed Junco,0.5705,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170613_040000.wav,897.0,900.0,Melospiza georgiana,Swamp Sparrow,0.8012,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,0 +1,11 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170524_070000.wav,12.0,15.0,Dolichonyx oryzivorus,Bobolink,0.6159,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170524_070000.wav,15.0,18.0,Dolichonyx oryzivorus,Bobolink,0.9216,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170524_070000.wav,468.0,471.0,Melospiza georgiana,Swamp Sparrow,0.5785,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170524_070000.wav,519.0,522.0,Dolichonyx oryzivorus,Bobolink,0.7988,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170524_070000.wav,600.0,603.0,Melospiza georgiana,Swamp Sparrow,0.7588,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170524_070000.wav,645.0,648.0,Melospiza melodia,Song Sparrow,0.8152,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170524_070000.wav,819.0,822.0,Dolichonyx oryzivorus,Bobolink,0.5353,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170524_070000.wav,867.0,870.0,Melospiza georgiana,Swamp Sparrow,0.5737,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170524_070000.wav,879.0,882.0,Melospiza georgiana,Swamp Sparrow,0.8740,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170524_070000.wav,891.0,894.0,Melospiza georgiana,Swamp Sparrow,0.5753,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

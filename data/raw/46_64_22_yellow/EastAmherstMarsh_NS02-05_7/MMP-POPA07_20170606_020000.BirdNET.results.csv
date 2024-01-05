@@ -1,0 +1,3 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\EastAmherstMarsh_NS02-05_7\MMP-POPA07_20170606_020000.wav,45.0,48.0,Junco hyemalis,Dark-eyed Junco,0.6694,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\EastAmherstMarsh_NS02-05_7\MMP-POPA07_20170606_020000.wav,342.0,345.0,Branta canadensis,Canada Goose,0.5963,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

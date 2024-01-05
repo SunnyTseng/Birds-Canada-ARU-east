@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170522_040000.wav,501.0,504.0,Junco hyemalis,Dark-eyed Junco,0.5782,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,0 +1,11 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170520_200000.wav,1149.0,1152.0,Branta canadensis,Canada Goose,0.7660,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170520_200000.wav,1362.0,1365.0,Agelaius phoeniceus,Red-winged Blackbird,0.6443,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170520_200000.wav,1515.0,1518.0,Branta canadensis,Canada Goose,0.5752,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170520_200000.wav,2325.0,2328.0,Branta canadensis,Canada Goose,0.8429,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170520_200000.wav,2328.0,2331.0,Branta canadensis,Canada Goose,0.5324,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170520_200000.wav,3141.0,3144.0,Branta canadensis,Canada Goose,0.5461,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170520_200000.wav,3147.0,3150.0,Branta canadensis,Canada Goose,0.5561,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170520_200000.wav,3150.0,3153.0,Branta canadensis,Canada Goose,0.5518,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170520_200000.wav,3153.0,3156.0,Branta canadensis,Canada Goose,0.7223,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170520_200000.wav,3156.0,3159.0,Branta canadensis,Canada Goose,0.6214,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

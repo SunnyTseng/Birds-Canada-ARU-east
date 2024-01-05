@@ -1,0 +1,15 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,183.0,186.0,Setophaga petechia,Yellow Warbler,0.6050,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,189.0,192.0,Setophaga petechia,Yellow Warbler,0.6479,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,201.0,204.0,Setophaga petechia,Yellow Warbler,0.7799,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,204.0,207.0,Branta canadensis,Canada Goose,0.6905,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,213.0,216.0,Branta canadensis,Canada Goose,0.5319,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,216.0,219.0,Branta canadensis,Canada Goose,0.5051,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,456.0,459.0,Setophaga petechia,Yellow Warbler,0.7003,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,522.0,525.0,Setophaga petechia,Yellow Warbler,0.6092,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,711.0,714.0,Setophaga petechia,Yellow Warbler,0.6753,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,717.0,720.0,Dolichonyx oryzivorus,Bobolink,0.9016,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,795.0,798.0,Branta canadensis,Canada Goose,0.5456,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,846.0,849.0,Branta canadensis,Canada Goose,0.6008,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,930.0,933.0,Dolichonyx oryzivorus,Bobolink,0.5329,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170519_054024.wav,1095.0,1098.0,Setophaga petechia,Yellow Warbler,0.5115,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

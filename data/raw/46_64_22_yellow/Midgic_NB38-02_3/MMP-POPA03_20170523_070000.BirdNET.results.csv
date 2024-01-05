@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170523_070000.wav,96.0,99.0,Melospiza georgiana,Swamp Sparrow,0.9614,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170523_070000.wav,99.0,102.0,Melospiza georgiana,Swamp Sparrow,0.9598,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170523_070000.wav,132.0,135.0,Melospiza georgiana,Swamp Sparrow,0.8483,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170523_070000.wav,141.0,144.0,Dolichonyx oryzivorus,Bobolink,0.5635,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170523_070000.wav,156.0,159.0,Dolichonyx oryzivorus,Bobolink,0.6321,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170523_070000.wav,306.0,309.0,Melospiza georgiana,Swamp Sparrow,0.6107,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

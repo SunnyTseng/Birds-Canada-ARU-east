@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170610_070000.wav,78.0,81.0,Melospiza georgiana,Swamp Sparrow,0.9729,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170610_070000.wav,81.0,84.0,Melospiza georgiana,Swamp Sparrow,0.8577,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170610_070000.wav,228.0,231.0,Setophaga petechia,Yellow Warbler,0.8655,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170610_070000.wav,234.0,237.0,Melospiza georgiana,Swamp Sparrow,0.8531,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170610_070000.wav,237.0,240.0,Setophaga petechia,Yellow Warbler,0.8932,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170610_070000.wav,849.0,852.0,Melospiza georgiana,Swamp Sparrow,0.6772,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

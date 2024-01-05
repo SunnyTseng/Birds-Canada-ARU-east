@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170608_210000.wav,39.0,42.0,Melospiza georgiana,Swamp Sparrow,0.5312,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170608_210000.wav,144.0,147.0,Melospiza georgiana,Swamp Sparrow,0.7672,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170608_210000.wav,237.0,240.0,Melospiza georgiana,Swamp Sparrow,0.7876,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170608_210000.wav,309.0,312.0,Melospiza georgiana,Swamp Sparrow,0.8208,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170608_210000.wav,357.0,360.0,Melospiza georgiana,Swamp Sparrow,0.8721,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170608_210000.wav,2658.0,2661.0,Pandion haliaetus,Osprey,0.5206,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

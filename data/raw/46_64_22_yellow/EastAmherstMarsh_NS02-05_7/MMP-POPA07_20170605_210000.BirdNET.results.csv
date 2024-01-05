@@ -1,0 +1,8 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\EastAmherstMarsh_NS02-05_7\MMP-POPA07_20170605_210000.wav,843.0,846.0,Melospiza georgiana,Swamp Sparrow,0.8107,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\EastAmherstMarsh_NS02-05_7\MMP-POPA07_20170605_210000.wav,942.0,945.0,Anas platyrhynchos,Mallard,0.5886,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\EastAmherstMarsh_NS02-05_7\MMP-POPA07_20170605_210000.wav,948.0,951.0,Anas platyrhynchos,Mallard,0.9388,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\EastAmherstMarsh_NS02-05_7\MMP-POPA07_20170605_210000.wav,1254.0,1257.0,Melospiza georgiana,Swamp Sparrow,0.8673,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\EastAmherstMarsh_NS02-05_7\MMP-POPA07_20170605_210000.wav,1587.0,1590.0,Melospiza georgiana,Swamp Sparrow,0.8253,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\EastAmherstMarsh_NS02-05_7\MMP-POPA07_20170605_210000.wav,1680.0,1683.0,Melospiza georgiana,Swamp Sparrow,0.5312,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\EastAmherstMarsh_NS02-05_7\MMP-POPA07_20170605_210000.wav,1863.0,1866.0,Melospiza georgiana,Swamp Sparrow,0.9032,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

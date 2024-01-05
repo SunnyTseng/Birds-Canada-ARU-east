@@ -1,0 +1,4 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_030000.wav,795.0,798.0,Branta canadensis,Canada Goose,0.6477,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_030000.wav,798.0,801.0,Branta canadensis,Canada Goose,0.7326,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-02_3\MMP-POPA03_20170522_030000.wav,855.0,858.0,Branta canadensis,Canada Goose,0.8349,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

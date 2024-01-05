@@ -1,0 +1,4 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170616_040000.wav,507.0,510.0,Junco hyemalis,Dark-eyed Junco,0.6977,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170616_040000.wav,828.0,831.0,Melospiza georgiana,Swamp Sparrow,0.9671,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Midgic_NB38-06_12\MMP-POPA12_20170616_040000.wav,831.0,834.0,Melospiza georgiana,Swamp Sparrow,0.5914,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

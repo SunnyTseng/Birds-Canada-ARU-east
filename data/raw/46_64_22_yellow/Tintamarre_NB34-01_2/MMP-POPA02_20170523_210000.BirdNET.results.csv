@@ -1,0 +1,12 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170523_210000.wav,216.0,219.0,Junco hyemalis,Dark-eyed Junco,0.5658,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170523_210000.wav,672.0,675.0,Melospiza georgiana,Swamp Sparrow,0.5701,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170523_210000.wav,987.0,990.0,Branta canadensis,Canada Goose,0.5994,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170523_210000.wav,1029.0,1032.0,Melospiza georgiana,Swamp Sparrow,0.7370,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170523_210000.wav,1419.0,1422.0,Melospiza georgiana,Swamp Sparrow,0.5868,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170523_210000.wav,1449.0,1452.0,Branta canadensis,Canada Goose,0.6103,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170523_210000.wav,1734.0,1737.0,Melospiza georgiana,Swamp Sparrow,0.6086,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170523_210000.wav,1860.0,1863.0,Anas platyrhynchos,Mallard,0.5406,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170523_210000.wav,2487.0,2490.0,Branta canadensis,Canada Goose,0.5000,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170523_210000.wav,2490.0,2493.0,Branta canadensis,Canada Goose,0.5767,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_22_yellow\Tintamarre_NB34-01_2\MMP-POPA02_20170523_210000.wav,2493.0,2496.0,Branta canadensis,Canada Goose,0.5869,46.0000,-64.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
