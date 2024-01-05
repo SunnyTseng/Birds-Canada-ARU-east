@@ -1,0 +1,14 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,15.0,18.0,Empidonax alnorum,Alder Flycatcher,0.6568,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,21.0,24.0,Empidonax alnorum,Alder Flycatcher,0.7329,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,30.0,33.0,Empidonax alnorum,Alder Flycatcher,0.6669,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,30.0,33.0,Melospiza georgiana,Swamp Sparrow,0.5594,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,33.0,36.0,Melospiza georgiana,Swamp Sparrow,0.6903,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,57.0,60.0,Melospiza georgiana,Swamp Sparrow,0.8066,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,126.0,129.0,Melospiza georgiana,Swamp Sparrow,0.9844,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,141.0,144.0,Melospiza georgiana,Swamp Sparrow,0.9852,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,144.0,147.0,Melospiza georgiana,Swamp Sparrow,0.9878,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,150.0,153.0,Melospiza georgiana,Swamp Sparrow,0.7278,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,192.0,195.0,Empidonax alnorum,Alder Flycatcher,0.5005,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,198.0,201.0,Empidonax alnorum,Alder Flycatcher,0.7559,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav,261.0,264.0,Junco hyemalis,Dark-eyed Junco,0.5344,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

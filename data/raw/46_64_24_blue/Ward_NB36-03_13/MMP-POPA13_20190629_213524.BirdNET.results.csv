@@ -1,0 +1,11 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190629_213524.wav,24.0,27.0,Melospiza georgiana,Swamp Sparrow,0.6439,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190629_213524.wav,48.0,51.0,Catharus guttatus,Hermit Thrush,0.5033,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190629_213524.wav,57.0,60.0,Melospiza georgiana,Swamp Sparrow,0.5028,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190629_213524.wav,93.0,96.0,Melospiza georgiana,Swamp Sparrow,0.9727,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190629_213524.wav,96.0,99.0,Melospiza georgiana,Swamp Sparrow,0.9765,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190629_213524.wav,198.0,201.0,Catharus guttatus,Hermit Thrush,0.5171,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190629_213524.wav,234.0,237.0,Catharus guttatus,Hermit Thrush,0.7488,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190629_213524.wav,249.0,252.0,Catharus guttatus,Hermit Thrush,0.8788,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190629_213524.wav,399.0,402.0,Actitis macularius,Spotted Sandpiper,0.5269,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190629_213524.wav,570.0,573.0,Empidonax alnorum,Alder Flycatcher,0.5120,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

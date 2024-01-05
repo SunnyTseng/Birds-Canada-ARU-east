@@ -1,0 +1,19 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,177.0,180.0,Empidonax alnorum,Alder Flycatcher,0.9776,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,207.0,210.0,Empidonax alnorum,Alder Flycatcher,0.7601,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,234.0,237.0,Bombycilla cedrorum,Cedar Waxwing,0.8572,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,243.0,246.0,Bombycilla cedrorum,Cedar Waxwing,0.9352,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,252.0,255.0,Empidonax alnorum,Alder Flycatcher,0.6187,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,255.0,258.0,Empidonax alnorum,Alder Flycatcher,0.8373,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,324.0,327.0,Empidonax alnorum,Alder Flycatcher,0.5442,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,345.0,348.0,Empidonax alnorum,Alder Flycatcher,0.7518,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,357.0,360.0,Empidonax alnorum,Alder Flycatcher,0.7584,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,372.0,375.0,Empidonax alnorum,Alder Flycatcher,0.5534,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,378.0,381.0,Empidonax alnorum,Alder Flycatcher,0.6168,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,423.0,426.0,Empidonax alnorum,Alder Flycatcher,0.5787,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,432.0,435.0,Empidonax alnorum,Alder Flycatcher,0.5125,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,480.0,483.0,Empidonax alnorum,Alder Flycatcher,0.7956,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,489.0,492.0,Empidonax alnorum,Alder Flycatcher,0.7446,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,498.0,501.0,Empidonax alnorum,Alder Flycatcher,0.6243,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,504.0,507.0,Empidonax alnorum,Alder Flycatcher,0.7986,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav,537.0,540.0,Setophaga petechia,Yellow Warbler,0.5031,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

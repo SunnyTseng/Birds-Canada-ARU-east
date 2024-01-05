@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190616_030527.wav,39.0,42.0,Empidonax alnorum,Alder Flycatcher,0.7243,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190616_030527.wav,69.0,72.0,Actitis macularius,Spotted Sandpiper,0.5148,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190616_030527.wav,129.0,132.0,Actitis macularius,Spotted Sandpiper,0.5071,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190616_030527.wav,198.0,201.0,Actitis macularius,Spotted Sandpiper,0.5100,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190616_030527.wav,285.0,288.0,Actitis macularius,Spotted Sandpiper,0.7117,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Ward_NB36-03_13\MMP-POPA13_20190616_030527.wav,429.0,432.0,Junco hyemalis,Dark-eyed Junco,0.5092,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

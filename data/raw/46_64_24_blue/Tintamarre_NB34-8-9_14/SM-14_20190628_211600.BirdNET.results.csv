@@ -1,0 +1,10 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav,0,3.0,Melospiza georgiana,Swamp Sparrow,0.6420,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav,90.0,93.0,Melospiza georgiana,Swamp Sparrow,0.6492,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav,93.0,96.0,Passerculus sandwichensis,Savannah Sparrow,0.5384,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav,132.0,135.0,Passerculus sandwichensis,Savannah Sparrow,0.6068,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav,141.0,144.0,Passerculus sandwichensis,Savannah Sparrow,0.7211,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav,162.0,165.0,Melospiza georgiana,Swamp Sparrow,0.6755,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav,177.0,180.0,Melospiza georgiana,Swamp Sparrow,0.6695,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav,216.0,219.0,Melospiza georgiana,Swamp Sparrow,0.7533,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav,258.0,261.0,Melospiza georgiana,Swamp Sparrow,0.5276,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

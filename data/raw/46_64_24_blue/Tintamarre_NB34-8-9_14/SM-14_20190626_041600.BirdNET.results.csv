@@ -1,0 +1,8 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190626_041600.wav,465.0,468.0,Empidonax alnorum,Alder Flycatcher,0.5135,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190626_041600.wav,498.0,501.0,Empidonax alnorum,Alder Flycatcher,0.9000,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190626_041600.wav,522.0,525.0,Empidonax alnorum,Alder Flycatcher,0.8011,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190626_041600.wav,534.0,537.0,Empidonax alnorum,Alder Flycatcher,0.6823,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190626_041600.wav,822.0,825.0,Empidonax alnorum,Alder Flycatcher,0.7308,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190626_041600.wav,876.0,879.0,Empidonax alnorum,Alder Flycatcher,0.6039,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190626_041600.wav,882.0,885.0,Empidonax alnorum,Alder Flycatcher,0.8731,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

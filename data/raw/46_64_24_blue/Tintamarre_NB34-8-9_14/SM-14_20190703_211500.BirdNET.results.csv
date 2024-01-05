@@ -1,0 +1,15 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,18.0,21.0,Melospiza georgiana,Swamp Sparrow,0.7597,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,24.0,27.0,Dolichonyx oryzivorus,Bobolink,0.8053,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,27.0,30.0,Dolichonyx oryzivorus,Bobolink,0.9921,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,33.0,36.0,Dolichonyx oryzivorus,Bobolink,0.8445,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,207.0,210.0,Melospiza georgiana,Swamp Sparrow,0.8350,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,360.0,363.0,Melospiza georgiana,Swamp Sparrow,0.5978,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,375.0,378.0,Melospiza georgiana,Swamp Sparrow,0.7550,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,438.0,441.0,Melospiza georgiana,Swamp Sparrow,0.6087,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,528.0,531.0,Melospiza georgiana,Swamp Sparrow,0.5737,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,564.0,567.0,Melospiza georgiana,Swamp Sparrow,0.8728,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,576.0,579.0,Melospiza georgiana,Swamp Sparrow,0.8121,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,660.0,663.0,Melospiza georgiana,Swamp Sparrow,0.8862,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,663.0,666.0,Geothlypis trichas,Common Yellowthroat,0.6616,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\46_64_24_blue\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav,747.0,750.0,Melospiza georgiana,Swamp Sparrow,0.5894,46.0000,-64.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
