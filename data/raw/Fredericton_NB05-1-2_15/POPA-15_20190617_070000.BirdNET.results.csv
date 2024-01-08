@@ -1,0 +1,11 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190617_070000.wav,9.0,12.0,Bombycilla cedrorum,Cedar Waxwing,0.7135,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190617_070000.wav,12.0,15.0,Bombycilla cedrorum,Cedar Waxwing,0.8510,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190617_070000.wav,15.0,18.0,Bombycilla cedrorum,Cedar Waxwing,0.6347,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190617_070000.wav,249.0,252.0,Setophaga petechia,Yellow Warbler,0.5536,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190617_070000.wav,285.0,288.0,Setophaga petechia,Yellow Warbler,0.5402,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190617_070000.wav,345.0,348.0,Anas platyrhynchos,Mallard,0.5059,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190617_070000.wav,423.0,426.0,Melospiza georgiana,Swamp Sparrow,0.5672,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190617_070000.wav,678.0,681.0,Vireo philadelphicus,Philadelphia Vireo,0.6192,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190617_070000.wav,864.0,867.0,Setophaga petechia,Yellow Warbler,0.6201,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190617_070000.wav,876.0,879.0,Setophaga petechia,Yellow Warbler,0.6778,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

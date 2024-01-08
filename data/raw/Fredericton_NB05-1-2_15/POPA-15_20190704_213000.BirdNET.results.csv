@@ -1,0 +1,69 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,0,3.0,Catharus fuscescens,Veery,0.9437,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,6.0,9.0,Catharus fuscescens,Veery,0.6515,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,12.0,15.0,Catharus fuscescens,Veery,0.5660,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,21.0,24.0,Catharus fuscescens,Veery,0.8264,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,24.0,27.0,Catharus fuscescens,Veery,0.7224,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,27.0,30.0,Catharus fuscescens,Veery,0.8335,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,30.0,33.0,Catharus fuscescens,Veery,0.8923,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,33.0,36.0,Catharus fuscescens,Veery,0.6711,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,39.0,42.0,Catharus fuscescens,Veery,0.9118,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,48.0,51.0,Catharus fuscescens,Veery,0.5786,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,51.0,54.0,Catharus fuscescens,Veery,0.6087,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,57.0,60.0,Catharus fuscescens,Veery,0.8826,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,63.0,66.0,Catharus fuscescens,Veery,0.7653,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,69.0,72.0,Catharus fuscescens,Veery,0.9530,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,72.0,75.0,Melospiza georgiana,Swamp Sparrow,0.7799,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,75.0,78.0,Catharus fuscescens,Veery,0.7638,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,81.0,84.0,Catharus fuscescens,Veery,0.9123,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,84.0,87.0,Catharus fuscescens,Veery,0.5028,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,96.0,99.0,Catharus fuscescens,Veery,0.8854,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,102.0,105.0,Catharus fuscescens,Veery,0.7824,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,108.0,111.0,Catharus fuscescens,Veery,0.7872,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,114.0,117.0,Catharus fuscescens,Veery,0.8733,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,120.0,123.0,Catharus fuscescens,Veery,0.9495,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,126.0,129.0,Catharus fuscescens,Veery,0.9357,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,132.0,135.0,Catharus fuscescens,Veery,0.7436,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,138.0,141.0,Catharus fuscescens,Veery,0.9732,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,141.0,144.0,Catharus fuscescens,Veery,0.9798,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,144.0,147.0,Catharus fuscescens,Veery,0.8035,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,153.0,156.0,Catharus fuscescens,Veery,0.5254,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,162.0,165.0,Catharus fuscescens,Veery,0.8734,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,168.0,171.0,Catharus fuscescens,Veery,0.9187,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,171.0,174.0,Catharus fuscescens,Veery,0.8524,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,174.0,177.0,Catharus fuscescens,Veery,0.9758,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,177.0,180.0,Catharus fuscescens,Veery,0.5933,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,183.0,186.0,Catharus fuscescens,Veery,0.7727,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,195.0,198.0,Catharus fuscescens,Veery,0.9568,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,198.0,201.0,Catharus fuscescens,Veery,0.8808,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,210.0,213.0,Catharus fuscescens,Veery,0.9331,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,213.0,216.0,Catharus fuscescens,Veery,0.5561,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,222.0,225.0,Catharus fuscescens,Veery,0.8063,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,231.0,234.0,Catharus fuscescens,Veery,0.9278,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,237.0,240.0,Catharus fuscescens,Veery,0.8513,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,240.0,243.0,Catharus fuscescens,Veery,0.8671,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,273.0,276.0,Melospiza georgiana,Swamp Sparrow,0.6946,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,285.0,288.0,Catharus fuscescens,Veery,0.6148,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,291.0,294.0,Catharus fuscescens,Veery,0.9259,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,294.0,297.0,Catharus fuscescens,Veery,0.8912,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,297.0,300.0,Catharus fuscescens,Veery,0.7501,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,321.0,324.0,Catharus fuscescens,Veery,0.7855,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,333.0,336.0,Catharus fuscescens,Veery,0.8416,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,339.0,342.0,Catharus fuscescens,Veery,0.9270,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,345.0,348.0,Catharus fuscescens,Veery,0.6873,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,351.0,354.0,Catharus fuscescens,Veery,0.9282,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,354.0,357.0,Catharus fuscescens,Veery,0.9940,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,357.0,360.0,Catharus fuscescens,Veery,0.7643,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,360.0,363.0,Catharus fuscescens,Veery,0.8766,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,363.0,366.0,Catharus fuscescens,Veery,0.9455,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,366.0,369.0,Catharus fuscescens,Veery,0.9165,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,369.0,372.0,Catharus fuscescens,Veery,0.8810,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,378.0,381.0,Catharus fuscescens,Veery,0.8998,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,381.0,384.0,Catharus fuscescens,Veery,0.8176,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,384.0,387.0,Catharus fuscescens,Veery,0.9279,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,390.0,393.0,Catharus fuscescens,Veery,0.9944,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,393.0,396.0,Catharus fuscescens,Veery,0.9235,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,480.0,483.0,Junco hyemalis,Dark-eyed Junco,0.7501,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,549.0,552.0,Junco hyemalis,Dark-eyed Junco,0.7325,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,801.0,804.0,Junco hyemalis,Dark-eyed Junco,0.7692,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_213000.wav,834.0,837.0,Melospiza georgiana,Swamp Sparrow,0.5170,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,0 +1,16 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,162.0,165.0,Setophaga petechia,Yellow Warbler,0.6639,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,276.0,279.0,Setophaga petechia,Yellow Warbler,0.5776,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,570.0,573.0,Setophaga petechia,Yellow Warbler,0.5466,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,639.0,642.0,Tachycineta bicolor,Tree Swallow,0.6213,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,645.0,648.0,Tachycineta bicolor,Tree Swallow,0.9328,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,651.0,654.0,Tachycineta bicolor,Tree Swallow,0.7355,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,654.0,657.0,Tachycineta bicolor,Tree Swallow,0.7496,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,663.0,666.0,Tachycineta bicolor,Tree Swallow,0.5171,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,693.0,696.0,Bombycilla cedrorum,Cedar Waxwing,0.6251,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,705.0,708.0,Tyrannus tyrannus,Eastern Kingbird,0.5080,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,738.0,741.0,Dumetella carolinensis,Gray Catbird,0.5144,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,792.0,795.0,Setophaga petechia,Yellow Warbler,0.7608,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,816.0,819.0,Bombycilla cedrorum,Cedar Waxwing,0.8063,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,819.0,822.0,Bombycilla cedrorum,Cedar Waxwing,0.6705,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190702_053000.wav,888.0,891.0,Tachycineta bicolor,Tree Swallow,0.5469,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

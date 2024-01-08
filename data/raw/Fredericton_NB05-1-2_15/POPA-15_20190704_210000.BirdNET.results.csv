@@ -1,0 +1,25 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,12.0,15.0,Quiscalus quiscula,Common Grackle,0.6926,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,222.0,225.0,Spinus tristis,American Goldfinch,0.8839,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,270.0,273.0,Agelaius phoeniceus,Red-winged Blackbird,0.5405,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,318.0,321.0,Spinus tristis,American Goldfinch,0.7812,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,321.0,324.0,Spinus tristis,American Goldfinch,0.6544,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,339.0,342.0,Agelaius phoeniceus,Red-winged Blackbird,0.5527,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,342.0,345.0,Agelaius phoeniceus,Red-winged Blackbird,0.5015,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,363.0,366.0,Catharus fuscescens,Veery,0.8616,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,369.0,372.0,Catharus fuscescens,Veery,0.9896,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,372.0,375.0,Catharus fuscescens,Veery,0.7226,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,378.0,381.0,Catharus fuscescens,Veery,0.7165,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,381.0,384.0,Catharus fuscescens,Veery,0.9416,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,387.0,390.0,Catharus fuscescens,Veery,0.9791,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,399.0,402.0,Catharus fuscescens,Veery,0.5499,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,414.0,417.0,Catharus fuscescens,Veery,0.5496,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,420.0,423.0,Catharus fuscescens,Veery,0.6362,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,429.0,432.0,Catharus fuscescens,Veery,0.6095,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,432.0,435.0,Agelaius phoeniceus,Red-winged Blackbird,0.8394,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,435.0,438.0,Agelaius phoeniceus,Red-winged Blackbird,0.7145,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,441.0,444.0,Catharus fuscescens,Veery,0.6867,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,453.0,456.0,Catharus fuscescens,Veery,0.6763,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,477.0,480.0,Catharus fuscescens,Veery,0.5963,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,612.0,615.0,Catharus fuscescens,Veery,0.7364,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190704_210000.wav,645.0,648.0,Parkesia noveboracensis,Northern Waterthrush,0.5945,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

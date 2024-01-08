@@ -1,0 +1,8 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190611_053000.wav,9.0,12.0,Quiscalus quiscula,Common Grackle,0.6397,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190611_053000.wav,132.0,135.0,Catharus fuscescens,Veery,0.6190,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190611_053000.wav,135.0,138.0,Catharus fuscescens,Veery,0.5060,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190611_053000.wav,285.0,288.0,Setophaga ruticilla,American Redstart,0.7025,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190611_053000.wav,417.0,420.0,Catharus fuscescens,Veery,0.7072,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190611_053000.wav,816.0,819.0,Tachycineta bicolor,Tree Swallow,0.5666,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Fredericton_NB05-1-2_15\POPA-15_20190611_053000.wav,867.0,870.0,Melospiza georgiana,Swamp Sparrow,0.8425,46.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

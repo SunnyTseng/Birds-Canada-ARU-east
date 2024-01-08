@@ -1,0 +1,5 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150628_040000.wav,258.0,261.0,Junco hyemalis,Dark-eyed Junco,0.5536,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150628_040000.wav,330.0,333.0,Junco hyemalis,Dark-eyed Junco,0.6522,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150628_040000.wav,504.0,507.0,Junco hyemalis,Dark-eyed Junco,0.6836,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150628_040000.wav,687.0,690.0,Junco hyemalis,Dark-eyed Junco,0.5924,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

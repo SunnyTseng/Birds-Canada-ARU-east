@@ -1,0 +1,25 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,18.0,21.0,Agelaius phoeniceus,Red-winged Blackbird,0.9489,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,117.0,120.0,Melospiza georgiana,Swamp Sparrow,0.7789,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,126.0,129.0,Melospiza georgiana,Swamp Sparrow,0.6533,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,141.0,144.0,Melospiza georgiana,Swamp Sparrow,0.5254,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,150.0,153.0,Melospiza georgiana,Swamp Sparrow,0.6720,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,219.0,222.0,Melospiza georgiana,Swamp Sparrow,0.6828,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,231.0,234.0,Melospiza georgiana,Swamp Sparrow,0.6337,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,243.0,246.0,Melospiza georgiana,Swamp Sparrow,0.6358,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,252.0,255.0,Melospiza georgiana,Swamp Sparrow,0.8224,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,258.0,261.0,Agelaius phoeniceus,Red-winged Blackbird,0.8065,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,261.0,264.0,Agelaius phoeniceus,Red-winged Blackbird,0.5312,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,264.0,267.0,Melospiza georgiana,Swamp Sparrow,0.9262,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,363.0,366.0,Melospiza georgiana,Swamp Sparrow,0.6165,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,372.0,375.0,Melospiza georgiana,Swamp Sparrow,0.8784,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,492.0,495.0,Agelaius phoeniceus,Red-winged Blackbird,0.6980,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,570.0,573.0,Melospiza georgiana,Swamp Sparrow,0.8226,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,582.0,585.0,Melospiza georgiana,Swamp Sparrow,0.8624,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,603.0,606.0,Melospiza georgiana,Swamp Sparrow,0.6388,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,615.0,618.0,Melospiza georgiana,Swamp Sparrow,0.5782,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,627.0,630.0,Melospiza georgiana,Swamp Sparrow,0.7094,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,639.0,642.0,Melospiza georgiana,Swamp Sparrow,0.6707,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,687.0,690.0,Melospiza georgiana,Swamp Sparrow,0.7419,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,846.0,849.0,Melospiza georgiana,Swamp Sparrow,0.5132,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150708_070000.wav,849.0,852.0,Melospiza georgiana,Swamp Sparrow,0.5693,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

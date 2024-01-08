@@ -1,0 +1,11 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150702_060000.wav,15.0,18.0,Geothlypis trichas,Common Yellowthroat,0.7927,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150702_060000.wav,123.0,126.0,Melospiza georgiana,Swamp Sparrow,0.8994,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150702_060000.wav,126.0,129.0,Melospiza georgiana,Swamp Sparrow,0.6513,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150702_060000.wav,138.0,141.0,Melospiza georgiana,Swamp Sparrow,0.8790,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150702_060000.wav,138.0,141.0,Junco hyemalis,Dark-eyed Junco,0.8767,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150702_060000.wav,159.0,162.0,Melospiza georgiana,Swamp Sparrow,0.7493,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150702_060000.wav,159.0,162.0,Junco hyemalis,Dark-eyed Junco,0.7237,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150702_060000.wav,495.0,498.0,Melospiza georgiana,Swamp Sparrow,0.9327,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150702_060000.wav,498.0,501.0,Melospiza georgiana,Swamp Sparrow,0.8409,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150702_060000.wav,513.0,516.0,Melospiza georgiana,Swamp Sparrow,0.9806,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

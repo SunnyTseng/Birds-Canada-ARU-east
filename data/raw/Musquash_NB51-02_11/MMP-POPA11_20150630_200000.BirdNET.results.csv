@@ -1,0 +1,27 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,843.0,846.0,Junco hyemalis,Dark-eyed Junco,0.6318,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,930.0,933.0,Melospiza georgiana,Swamp Sparrow,0.7681,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,1065.0,1068.0,Melospiza georgiana,Swamp Sparrow,0.9449,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,1206.0,1209.0,Melospiza georgiana,Swamp Sparrow,0.8129,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,1206.0,1209.0,Junco hyemalis,Dark-eyed Junco,0.5800,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2397.0,2400.0,Catharus guttatus,Hermit Thrush,0.6521,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2562.0,2565.0,Catharus guttatus,Hermit Thrush,0.6150,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2571.0,2574.0,Catharus guttatus,Hermit Thrush,0.5600,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2667.0,2670.0,Junco hyemalis,Dark-eyed Junco,0.9105,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2685.0,2688.0,Catharus guttatus,Hermit Thrush,0.6414,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2736.0,2739.0,Catharus guttatus,Hermit Thrush,0.9229,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2769.0,2772.0,Junco hyemalis,Dark-eyed Junco,0.8972,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2769.0,2772.0,Melospiza georgiana,Swamp Sparrow,0.7878,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2772.0,2775.0,Junco hyemalis,Dark-eyed Junco,0.6949,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2847.0,2850.0,Catharus guttatus,Hermit Thrush,0.5969,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2913.0,2916.0,Junco hyemalis,Dark-eyed Junco,0.8889,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2925.0,2928.0,Junco hyemalis,Dark-eyed Junco,0.7575,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,2961.0,2964.0,Junco hyemalis,Dark-eyed Junco,0.7843,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,3027.0,3030.0,Junco hyemalis,Dark-eyed Junco,0.7882,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,3126.0,3129.0,Junco hyemalis,Dark-eyed Junco,0.5663,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,3150.0,3153.0,Catharus guttatus,Hermit Thrush,0.5598,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,3195.0,3198.0,Melospiza georgiana,Swamp Sparrow,0.6746,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,3195.0,3198.0,Junco hyemalis,Dark-eyed Junco,0.6108,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,3198.0,3201.0,Melospiza georgiana,Swamp Sparrow,0.8974,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,3198.0,3201.0,Junco hyemalis,Dark-eyed Junco,0.6885,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150630_200000.wav,3516.0,3519.0,Junco hyemalis,Dark-eyed Junco,0.6997,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

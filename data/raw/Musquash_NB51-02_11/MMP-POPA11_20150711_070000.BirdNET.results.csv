@@ -1,0 +1,9 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150711_070000.wav,0,3.0,Agelaius phoeniceus,Red-winged Blackbird,0.7830,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150711_070000.wav,75.0,78.0,Agelaius phoeniceus,Red-winged Blackbird,0.5300,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150711_070000.wav,468.0,471.0,Agelaius phoeniceus,Red-winged Blackbird,0.5984,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150711_070000.wav,471.0,474.0,Agelaius phoeniceus,Red-winged Blackbird,0.7382,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150711_070000.wav,489.0,492.0,Agelaius phoeniceus,Red-winged Blackbird,0.5984,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150711_070000.wav,537.0,540.0,Agelaius phoeniceus,Red-winged Blackbird,0.8328,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150711_070000.wav,543.0,546.0,Agelaius phoeniceus,Red-winged Blackbird,0.5235,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Musquash_NB51-02_11\MMP-POPA11_20150711_070000.wav,546.0,549.0,Agelaius phoeniceus,Red-winged Blackbird,0.6213,45.0000,-66.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -78,13 +78,13 @@ All the analysis will be done on [BirdNET Analyzer](https://github.com/kahst/Bir
 | East Amherst Marsh    | NS02-02     | 1      | Jan.04          | 12:31 - 13:07 |        |                          |
 | East Amherst Marsh    | NS02-05     | 7      | Jan.05          | 11:28 - 12:24 |        |                          |
 | Fredericton           | NB05-04     | 15     | Jan.05          | 10:39         |        | error - file encryption  |
-| Fredericton           | NB05-1-2    | 15     | Jan.05          |               |        | processing               |
-| Gagetown Island       | NB11-06     | 23     |                 |               |        |                          |
+| Fredericton           | NB05-1-2    | 15     | Jan.05          | 15:41 - 18:03 |        |                          |
+| Gagetown Island       | NB11-06     | 23     | Jan.06          | 22:28         |        | error - file encryption  |
 | Holden Meadow         | NB13-11     | 20     | Jan.05          | 10:51 - 11:14 |        |                          |
 | Midgic                | NB38-02     | 3      | Jan.05          | 12:24 - 12:59 |        |                          |
 | Midgic                | NB38-06     | 12     | Jan.05          | 12:59 - 13:49 |        |                          |
-| Musquash              | NB51-02     | 11     |                 |               |        |                          |
-| Petitcodiac           | NB41-02     | 3      |                 |               |        |                          |
+| Musquash              | NB51-02     | 11     | Jan.06          | 22:32 - 23:47 |        |                          |
+| Petitcodiac           | NB41-02     | 3      | Jan.08          | 14:15         |        | processing               |
 | Portobello Center     | NB20-03     | 18     |                 |               |        |                          |
 | St George             | NB32-04     | 20     |                 |               |        |                          |
 | Tintamarre            | NB34-01     | 2      | Jan.05          | 13:49 - 14:24 |        |                          |
