@@ -1,0 +1,12 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170628_220000.wav,6.0,9.0,Anas platyrhynchos,Mallard,0.7066,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170628_220000.wav,21.0,24.0,Anas platyrhynchos,Mallard,0.6629,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170628_220000.wav,24.0,27.0,Anas platyrhynchos,Mallard,0.6466,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170628_220000.wav,27.0,30.0,Anas platyrhynchos,Mallard,0.5562,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170628_220000.wav,45.0,48.0,Anas platyrhynchos,Mallard,0.5049,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170628_220000.wav,96.0,99.0,Anas platyrhynchos,Mallard,0.9282,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170628_220000.wav,315.0,318.0,Anas platyrhynchos,Mallard,0.7518,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170628_220000.wav,318.0,321.0,Anas platyrhynchos,Mallard,0.6547,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170628_220000.wav,330.0,333.0,Anas platyrhynchos,Mallard,0.5167,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170628_220000.wav,339.0,342.0,Anas platyrhynchos,Mallard,0.6849,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170628_220000.wav,450.0,453.0,Anas platyrhynchos,Mallard,0.8229,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

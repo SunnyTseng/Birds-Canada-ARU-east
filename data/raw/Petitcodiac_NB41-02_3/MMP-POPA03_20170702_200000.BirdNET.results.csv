@@ -1,0 +1,53 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,6.0,9.0,Tachycineta bicolor,Tree Swallow,0.5456,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,105.0,108.0,Tachycineta bicolor,Tree Swallow,0.6773,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,123.0,126.0,Tachycineta bicolor,Tree Swallow,0.6937,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,171.0,174.0,Tachycineta bicolor,Tree Swallow,0.8418,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,345.0,348.0,Tachycineta bicolor,Tree Swallow,0.5186,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,354.0,357.0,Tachycineta bicolor,Tree Swallow,0.7378,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,660.0,663.0,Anas platyrhynchos,Mallard,0.6095,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,672.0,675.0,Corvus brachyrhynchos,American Crow,0.6291,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,723.0,726.0,Anas platyrhynchos,Mallard,0.5559,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,930.0,933.0,Quiscalus quiscula,Common Grackle,0.7043,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,957.0,960.0,Anas platyrhynchos,Mallard,0.6307,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,981.0,984.0,Quiscalus quiscula,Common Grackle,0.9409,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1083.0,1086.0,Anas platyrhynchos,Mallard,0.5797,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1086.0,1089.0,Anas platyrhynchos,Mallard,0.8339,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1290.0,1293.0,Anas platyrhynchos,Mallard,0.6868,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1347.0,1350.0,Melospiza georgiana,Swamp Sparrow,0.6826,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1371.0,1374.0,Melospiza georgiana,Swamp Sparrow,0.6947,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1386.0,1389.0,Melospiza melodia,Song Sparrow,0.6517,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1458.0,1461.0,Melospiza georgiana,Swamp Sparrow,0.6878,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1488.0,1491.0,Melospiza georgiana,Swamp Sparrow,0.7428,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1503.0,1506.0,Melospiza georgiana,Swamp Sparrow,0.5868,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1629.0,1632.0,Melospiza georgiana,Swamp Sparrow,0.6446,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1701.0,1704.0,Melospiza georgiana,Swamp Sparrow,0.8274,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1950.0,1953.0,Geothlypis trichas,Common Yellowthroat,0.5057,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1974.0,1977.0,Geothlypis trichas,Common Yellowthroat,0.6608,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,1983.0,1986.0,Geothlypis trichas,Common Yellowthroat,0.6287,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2253.0,2256.0,Melospiza georgiana,Swamp Sparrow,0.9408,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2316.0,2319.0,Bombycilla cedrorum,Cedar Waxwing,0.6731,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2319.0,2322.0,Bombycilla cedrorum,Cedar Waxwing,0.6938,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2325.0,2328.0,Bombycilla cedrorum,Cedar Waxwing,0.9120,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2328.0,2331.0,Bombycilla cedrorum,Cedar Waxwing,0.7563,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2331.0,2334.0,Bombycilla cedrorum,Cedar Waxwing,0.9299,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2334.0,2337.0,Bombycilla cedrorum,Cedar Waxwing,0.5191,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2340.0,2343.0,Bombycilla cedrorum,Cedar Waxwing,0.9462,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2346.0,2349.0,Bombycilla cedrorum,Cedar Waxwing,0.9443,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2349.0,2352.0,Bombycilla cedrorum,Cedar Waxwing,0.8060,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2358.0,2361.0,Bombycilla cedrorum,Cedar Waxwing,0.7965,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2364.0,2367.0,Bombycilla cedrorum,Cedar Waxwing,0.9561,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2367.0,2370.0,Bombycilla cedrorum,Cedar Waxwing,0.8087,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2370.0,2373.0,Bombycilla cedrorum,Cedar Waxwing,0.9197,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2376.0,2379.0,Bombycilla cedrorum,Cedar Waxwing,0.9295,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2379.0,2382.0,Bombycilla cedrorum,Cedar Waxwing,0.6047,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2382.0,2385.0,Bombycilla cedrorum,Cedar Waxwing,0.7435,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2385.0,2388.0,Bombycilla cedrorum,Cedar Waxwing,0.9604,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2466.0,2469.0,Bombycilla cedrorum,Cedar Waxwing,0.7295,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2883.0,2886.0,Empidonax alnorum,Alder Flycatcher,0.7628,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,2946.0,2949.0,Geothlypis trichas,Common Yellowthroat,0.5830,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,3018.0,3021.0,Melospiza melodia,Song Sparrow,0.7561,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,3123.0,3126.0,Geothlypis trichas,Common Yellowthroat,0.5221,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,3126.0,3129.0,Empidonax alnorum,Alder Flycatcher,0.9024,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,3186.0,3189.0,Geothlypis trichas,Common Yellowthroat,0.6202,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Petitcodiac_NB41-02_3\MMP-POPA03_20170702_200000.wav,3492.0,3495.0,Anas platyrhynchos,Mallard,0.8316,46.0000,-65.0000,26,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -84,8 +84,8 @@ All the analysis will be done on [BirdNET Analyzer](https://github.com/kahst/Bir
 | Midgic                | NB38-02     | 3      | Jan.05          | 12:24 - 12:59 |        |                          |
 | Midgic                | NB38-06     | 12     | Jan.05          | 12:59 - 13:49 |        |                          |
 | Musquash              | NB51-02     | 11     | Jan.06          | 22:32 - 23:47 |        |                          |
-| Petitcodiac           | NB41-02     | 3      | Jan.08          | 14:15         |        | processing               |
-| Portobello Center     | NB20-03     | 18     |                 |               |        |                          |
+| Petitcodiac           | NB41-02     | 3      | Jan.08          | 14:15 - 15:23 |        |                          |
+| Portobello Center     | NB20-03     | 18     | Jan.14          | 6:16 -        |        | processing               |
 | St George             | NB32-04     | 20     |                 |               |        |                          |
 | Tintamarre            | NB34-01     | 2      | Jan.05          | 13:49 - 14:24 |        |                          |
 | Tintamarre            | NB34-05     | 1      | Jan.04          | 14:16         |        | error - file encryption  |
