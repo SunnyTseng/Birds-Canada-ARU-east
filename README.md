@@ -84,7 +84,7 @@ model version that used in the GUI is
 | Musquash              | NB51-02     | 11     | Jan.06          | 22:32 - 23:47 |        |                         |
 | Petitcodiac           | NB41-02     | 3      | Jan.08          | 14:15 - 15:23 |        |                         |
 | Portobello Center     | NB20-03     | 18     | Jan.14          | 6:16 - 7:13   |        |                         |
-| St George             | NB32-04     | 20     | Jan.14          | 17:22 -       |        | processing              |
+| St George             | NB32-04     | 20     | Jan.14          | 17:22 - 19:36 |        | processing              |
 | Tintamarre            | NB34-01     | 2      | Jan.05          | 13:49 - 14:24 |        |                         |
 | Tintamarre            | NB34-05     | 1      | Jan.04          | 14:16         |        | error - file encryption |
 | Titamarre             | NB34-8-9    | 14     | Jan.04          | 14:08 - 14:26 |        |                         |
