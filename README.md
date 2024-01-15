@@ -1,6 +1,5 @@
-ARU data processing on BirdNET for Birds Canada
+ARU data processing on BirdNET for Birds Canada (east)
 ================
-Sunny Tseng
 
 ## Introduction
 
@@ -11,10 +10,6 @@ and provide detection information for each of the ARU.
 
 ## Workflow
 
-*This session is still under developing*
-
-[working note](./docs/working-notes.md)
-
 1.  Data organization
 2.  Data exploration
 3.  Processing data through BirdNET GUI
@@ -23,7 +18,7 @@ and provide detection information for each of the ARU.
 
 ## BirdNET Analyzer GUI settings
 
-All the analysis will be done on [BirdNET
+All the analyses were done on [BirdNET
 Analyzer](https://github.com/kahst/BirdNET-Analyzer) GUI on Windows. The
 model version that used in the GUI is
 *BirdNET_GLOBAL_6K_V2.4_Model_FP32.tfile*.
@@ -31,7 +26,8 @@ model version that used in the GUI is
 - Species by location tab
   - latitude: base on site location
   - longitude: base on site location
-  - week: based on recording time
+  - week: based on recording time, calculated by this [date
+    calculater](https://www.timeanddate.com/date/weeknumber.html)
 - Inference settings
   - Minimum confidence: 0.5 (default)
   - Sensitivity: 1 (default)
@@ -65,6 +61,8 @@ model version that used in the GUI is
 | filepath        | file path of the original recording file                                                                                 |
 
 ## Processing schedule
+
+- [Working note](./docs/working-notes.md)
 
 | Site                  | Location ID | ARU ID | Processing date | Time          | Output | Note                    |
 |-----------------------|-------------|--------|-----------------|---------------|--------|-------------------------|
