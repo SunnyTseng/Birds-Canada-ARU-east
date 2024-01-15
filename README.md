@@ -49,7 +49,7 @@ model version that used in the GUI is
 | Column name     | Description                                                                                                              |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------|
 | site            | the site name of ARU employment, one of the 21 sites                                                                     |
-| location        | value being 1 or 2. The first or the second location of ARU within each site                                             |
+| location        | ID for the site, starting with “NB”                                                                                      |
 | aru_id          | a 4 digits number. Unique ID of each ARU unit                                                                            |
 | date            | the date of detection, with the format yyyymmdd                                                                          |
 | hour            | the hour of detection                                                                                                    |
