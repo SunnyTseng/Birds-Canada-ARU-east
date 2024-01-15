@@ -1,0 +1,16 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,30.0,33.0,Junco hyemalis,Dark-eyed Junco,0.9134,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,117.0,120.0,Junco hyemalis,Dark-eyed Junco,0.8413,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,132.0,135.0,Junco hyemalis,Dark-eyed Junco,0.7251,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,135.0,138.0,Junco hyemalis,Dark-eyed Junco,0.8515,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,150.0,153.0,Junco hyemalis,Dark-eyed Junco,0.7902,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,192.0,195.0,Melospiza georgiana,Swamp Sparrow,0.6198,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,228.0,231.0,Junco hyemalis,Dark-eyed Junco,0.7983,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,264.0,267.0,Junco hyemalis,Dark-eyed Junco,0.8823,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,564.0,567.0,Junco hyemalis,Dark-eyed Junco,0.8102,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,615.0,618.0,Actitis macularius,Spotted Sandpiper,0.6218,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,615.0,618.0,Junco hyemalis,Dark-eyed Junco,0.5357,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,717.0,720.0,Junco hyemalis,Dark-eyed Junco,0.5611,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,720.0,723.0,Junco hyemalis,Dark-eyed Junco,0.5212,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,780.0,783.0,Junco hyemalis,Dark-eyed Junco,0.6021,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170613_040000.wav,885.0,888.0,Junco hyemalis,Dark-eyed Junco,0.5661,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

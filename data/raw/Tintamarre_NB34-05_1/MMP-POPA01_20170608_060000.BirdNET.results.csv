@@ -1,0 +1,21 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,63.0,66.0,Setophaga petechia,Yellow Warbler,0.6355,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,78.0,81.0,Setophaga petechia,Yellow Warbler,0.5616,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,114.0,117.0,Setophaga petechia,Yellow Warbler,0.5174,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,249.0,252.0,Branta canadensis,Canada Goose,0.5994,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,255.0,258.0,Branta canadensis,Canada Goose,0.6646,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,258.0,261.0,Branta canadensis,Canada Goose,0.7167,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,261.0,264.0,Branta canadensis,Canada Goose,0.5467,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,264.0,267.0,Branta canadensis,Canada Goose,0.8751,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,267.0,270.0,Branta canadensis,Canada Goose,0.8032,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,270.0,273.0,Branta canadensis,Canada Goose,0.5373,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,273.0,276.0,Branta canadensis,Canada Goose,0.7640,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,276.0,279.0,Branta canadensis,Canada Goose,0.8057,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,279.0,282.0,Branta canadensis,Canada Goose,0.7599,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,288.0,291.0,Branta canadensis,Canada Goose,0.5285,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,363.0,366.0,Geothlypis trichas,Common Yellowthroat,0.5981,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,387.0,390.0,Geothlypis trichas,Common Yellowthroat,0.5567,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,444.0,447.0,Melospiza georgiana,Swamp Sparrow,0.5441,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,795.0,798.0,Melospiza georgiana,Swamp Sparrow,0.9580,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,810.0,813.0,Melospiza georgiana,Swamp Sparrow,0.5591,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170608_060000.wav,855.0,858.0,Setophaga coronata,Yellow-rumped Warbler,0.6060,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

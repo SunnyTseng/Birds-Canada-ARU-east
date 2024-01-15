@@ -1,0 +1,17 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,372.0,375.0,Geothlypis trichas,Common Yellowthroat,0.6730,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,699.0,702.0,Melospiza georgiana,Swamp Sparrow,0.5645,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,786.0,789.0,Melospiza georgiana,Swamp Sparrow,0.5191,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,2769.0,2772.0,Melospiza georgiana,Swamp Sparrow,0.8817,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,2802.0,2805.0,Gavia immer,Common Loon,0.7778,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,2805.0,2808.0,Gavia immer,Common Loon,0.7321,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,2832.0,2835.0,Gavia immer,Common Loon,0.8881,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,2835.0,2838.0,Gavia immer,Common Loon,0.5339,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,2850.0,2853.0,Gavia immer,Common Loon,0.9607,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,2853.0,2856.0,Gavia immer,Common Loon,0.5076,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,2865.0,2868.0,Gavia immer,Common Loon,0.8336,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,2868.0,2871.0,Gavia immer,Common Loon,0.9443,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,2874.0,2877.0,Dolichonyx oryzivorus,Bobolink,0.5605,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,2877.0,2880.0,Gavia immer,Common Loon,0.5720,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,3330.0,3333.0,Melospiza georgiana,Swamp Sparrow,0.7768,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\Tintamarre_NB34-05_1\MMP-POPA01_20170610_050000.wav,3378.0,3381.0,Melospiza georgiana,Swamp Sparrow,0.7108,46.0000,-64.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

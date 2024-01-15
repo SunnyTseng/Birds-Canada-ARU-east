@@ -1,6 +1,6 @@
 Working notes
 ================
-2024-01-05
+2024-01-14
 
 ### Dec. 14, 2023
 
@@ -51,3 +51,16 @@ Working notes
 ## Jan. 03, 2024
 
 - Got a message from David saying that the funding is available now!
+
+## Jan. 14, 2024
+
+- Sent an email to David to update the progress
+
+- Ask about the corrupted files in four sites:
+
+  1.  Baie Verte Port Elgin (site ID: NB43-03; ARU ID: 20)
+  2.  Fredericton (site ID: NB05-04; ARU ID: 15)
+  3.  Gagetown Island (site ID: NB11-06; ARU ID: 23)
+  4.  Westcock (site ID: NB37-01; ARU ID: 21)
+
+- Ask about the file summarize method
