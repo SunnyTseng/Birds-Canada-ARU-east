@@ -1,0 +1,13 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170605_060000.wav,27.0,30.0,Parkesia noveboracensis,Northern Waterthrush,0.7351,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170605_060000.wav,90.0,93.0,Junco hyemalis,Dark-eyed Junco,0.7126,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170605_060000.wav,183.0,186.0,Melospiza georgiana,Swamp Sparrow,0.7582,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170605_060000.wav,201.0,204.0,Parkesia noveboracensis,Northern Waterthrush,0.7808,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170605_060000.wav,294.0,297.0,Junco hyemalis,Dark-eyed Junco,0.5301,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170605_060000.wav,324.0,327.0,Parkesia noveboracensis,Northern Waterthrush,0.5373,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170605_060000.wav,504.0,507.0,Parkesia noveboracensis,Northern Waterthrush,0.7520,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170605_060000.wav,585.0,588.0,Parkesia noveboracensis,Northern Waterthrush,0.7538,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170605_060000.wav,597.0,600.0,Parkesia noveboracensis,Northern Waterthrush,0.9385,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170605_060000.wav,636.0,639.0,Parkesia noveboracensis,Northern Waterthrush,0.9470,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170605_060000.wav,672.0,675.0,Parkesia noveboracensis,Northern Waterthrush,0.9520,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170605_060000.wav,894.0,897.0,Pheucticus ludovicianus,Rose-breasted Grosbeak,0.7484,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

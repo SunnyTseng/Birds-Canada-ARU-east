@@ -1,0 +1,6 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170604_060000.wav,402.0,405.0,Melospiza georgiana,Swamp Sparrow,0.7658,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170604_060000.wav,633.0,636.0,Melospiza georgiana,Swamp Sparrow,0.7166,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170604_060000.wav,678.0,681.0,Melospiza georgiana,Swamp Sparrow,0.8045,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170604_060000.wav,825.0,828.0,Corvus brachyrhynchos,American Crow,0.5548,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170604_060000.wav,852.0,855.0,Corvus brachyrhynchos,American Crow,0.5194,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

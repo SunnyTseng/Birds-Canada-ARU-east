@@ -1,0 +1,6 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170604_010000.wav,339.0,342.0,Gavia immer,Common Loon,0.7860,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170604_010000.wav,360.0,363.0,Gavia immer,Common Loon,0.5170,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170604_010000.wav,369.0,372.0,Gavia immer,Common Loon,0.9896,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170604_010000.wav,384.0,387.0,Gavia immer,Common Loon,0.7079,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\PortobelloCenter_NB20-03_18\MMP-POPA18_20170604_010000.wav,399.0,402.0,Gavia immer,Common Loon,0.6902,46.0000,-66.0000,22,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
