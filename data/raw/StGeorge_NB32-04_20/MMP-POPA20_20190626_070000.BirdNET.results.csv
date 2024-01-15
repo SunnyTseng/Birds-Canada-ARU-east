@@ -1,0 +1,10 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190626_070000.wav,69.0,72.0,Melospiza georgiana,Swamp Sparrow,0.6773,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190626_070000.wav,72.0,75.0,Melospiza georgiana,Swamp Sparrow,0.5783,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190626_070000.wav,195.0,198.0,Melospiza georgiana,Swamp Sparrow,0.8124,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190626_070000.wav,270.0,273.0,Melospiza georgiana,Swamp Sparrow,0.9788,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190626_070000.wav,285.0,288.0,Melospiza georgiana,Swamp Sparrow,0.5306,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190626_070000.wav,462.0,465.0,Melospiza georgiana,Swamp Sparrow,0.5532,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190626_070000.wav,684.0,687.0,Melospiza georgiana,Swamp Sparrow,0.5417,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190626_070000.wav,756.0,759.0,Melospiza georgiana,Swamp Sparrow,0.6619,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190626_070000.wav,834.0,837.0,Tachycineta bicolor,Tree Swallow,0.9028,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

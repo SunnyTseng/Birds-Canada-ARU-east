@@ -1,0 +1,11 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190614_063000.wav,237.0,240.0,Tachycineta bicolor,Tree Swallow,0.6617,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190614_063000.wav,375.0,378.0,Tachycineta bicolor,Tree Swallow,0.6555,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190614_063000.wav,417.0,420.0,Tachycineta bicolor,Tree Swallow,0.6215,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190614_063000.wav,423.0,426.0,Tachycineta bicolor,Tree Swallow,0.9153,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190614_063000.wav,426.0,429.0,Tachycineta bicolor,Tree Swallow,0.5277,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190614_063000.wav,441.0,444.0,Tachycineta bicolor,Tree Swallow,0.6527,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190614_063000.wav,756.0,759.0,Agelaius phoeniceus,Red-winged Blackbird,0.5409,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190614_063000.wav,768.0,771.0,Agelaius phoeniceus,Red-winged Blackbird,0.6038,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190614_063000.wav,801.0,804.0,Agelaius phoeniceus,Red-winged Blackbird,0.5271,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190614_063000.wav,843.0,846.0,Agelaius phoeniceus,Red-winged Blackbird,0.6097,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

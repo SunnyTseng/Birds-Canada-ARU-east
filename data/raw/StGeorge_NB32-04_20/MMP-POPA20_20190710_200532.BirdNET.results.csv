@@ -1,0 +1,6 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_200532.wav,387.0,390.0,Junco hyemalis,Dark-eyed Junco,0.5443,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_200532.wav,387.0,390.0,Melospiza georgiana,Swamp Sparrow,0.5123,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_200532.wav,399.0,402.0,Anas platyrhynchos,Mallard,0.6814,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_200532.wav,486.0,489.0,Troglodytes hiemalis,Winter Wren,0.5610,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_200532.wav,513.0,516.0,Melospiza georgiana,Swamp Sparrow,0.5443,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

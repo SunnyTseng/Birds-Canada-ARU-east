@@ -1,0 +1,10 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190706_063532.wav,30.0,33.0,Melospiza georgiana,Swamp Sparrow,0.6324,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190706_063532.wav,54.0,57.0,Melospiza georgiana,Swamp Sparrow,0.5153,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190706_063532.wav,162.0,165.0,Melospiza georgiana,Swamp Sparrow,0.5281,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190706_063532.wav,183.0,186.0,Melospiza georgiana,Swamp Sparrow,0.5800,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190706_063532.wav,204.0,207.0,Agelaius phoeniceus,Red-winged Blackbird,0.8122,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190706_063532.wav,219.0,222.0,Agelaius phoeniceus,Red-winged Blackbird,0.5544,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190706_063532.wav,291.0,294.0,Melospiza georgiana,Swamp Sparrow,0.5552,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190706_063532.wav,528.0,531.0,Agelaius phoeniceus,Red-winged Blackbird,0.5195,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190706_063532.wav,549.0,552.0,Melospiza georgiana,Swamp Sparrow,0.5257,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

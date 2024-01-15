@@ -1,0 +1,23 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,24.0,27.0,Melospiza georgiana,Swamp Sparrow,0.5543,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,27.0,30.0,Melospiza georgiana,Swamp Sparrow,0.5284,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,51.0,54.0,Melospiza georgiana,Swamp Sparrow,0.5133,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,72.0,75.0,Aix sponsa,Wood Duck,0.5022,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,93.0,96.0,Melospiza georgiana,Swamp Sparrow,0.7340,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,96.0,99.0,Melospiza georgiana,Swamp Sparrow,0.5596,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,111.0,114.0,Melospiza georgiana,Swamp Sparrow,0.7793,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,162.0,165.0,Melospiza georgiana,Swamp Sparrow,0.6238,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,174.0,177.0,Melospiza georgiana,Swamp Sparrow,0.8585,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,189.0,192.0,Melospiza georgiana,Swamp Sparrow,0.6111,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,204.0,207.0,Melospiza georgiana,Swamp Sparrow,0.6250,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,252.0,255.0,Melospiza georgiana,Swamp Sparrow,0.6051,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,300.0,303.0,Melospiza georgiana,Swamp Sparrow,0.7925,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,342.0,345.0,Melospiza georgiana,Swamp Sparrow,0.5641,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,345.0,348.0,Melospiza georgiana,Swamp Sparrow,0.7743,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,369.0,372.0,Empidonax alnorum,Alder Flycatcher,0.7182,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,384.0,387.0,Spinus tristis,American Goldfinch,0.8521,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,423.0,426.0,Spinus tristis,American Goldfinch,0.5694,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,495.0,498.0,Melospiza georgiana,Swamp Sparrow,0.7783,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,498.0,501.0,Melospiza georgiana,Swamp Sparrow,0.5817,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,522.0,525.0,Melospiza georgiana,Swamp Sparrow,0.6288,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190710_063532.wav,537.0,540.0,Melospiza georgiana,Swamp Sparrow,0.7200,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

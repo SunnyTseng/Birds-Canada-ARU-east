@@ -1,0 +1,65 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,15.0,18.0,Tyrannus tyrannus,Eastern Kingbird,0.8018,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,114.0,117.0,Tyrannus tyrannus,Eastern Kingbird,0.7108,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,162.0,165.0,Tyrannus tyrannus,Eastern Kingbird,0.6553,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,216.0,219.0,Tyrannus tyrannus,Eastern Kingbird,0.9575,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,219.0,222.0,Tyrannus tyrannus,Eastern Kingbird,0.8908,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,222.0,225.0,Tyrannus tyrannus,Eastern Kingbird,0.5315,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,225.0,228.0,Tyrannus tyrannus,Eastern Kingbird,0.6230,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,231.0,234.0,Tyrannus tyrannus,Eastern Kingbird,0.7373,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,237.0,240.0,Tyrannus tyrannus,Eastern Kingbird,0.7711,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,243.0,246.0,Tyrannus tyrannus,Eastern Kingbird,0.8162,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,246.0,249.0,Tyrannus tyrannus,Eastern Kingbird,0.7037,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,258.0,261.0,Tyrannus tyrannus,Eastern Kingbird,0.8001,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,270.0,273.0,Tyrannus tyrannus,Eastern Kingbird,0.7702,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,273.0,276.0,Tyrannus tyrannus,Eastern Kingbird,0.7169,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,279.0,282.0,Tyrannus tyrannus,Eastern Kingbird,0.6635,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,294.0,297.0,Tyrannus tyrannus,Eastern Kingbird,0.7070,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,300.0,303.0,Molothrus ater,Brown-headed Cowbird,0.8563,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,303.0,306.0,Tyrannus tyrannus,Eastern Kingbird,0.5673,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,309.0,312.0,Tyrannus tyrannus,Eastern Kingbird,0.5171,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,327.0,330.0,Molothrus ater,Brown-headed Cowbird,0.5843,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,333.0,336.0,Tyrannus tyrannus,Eastern Kingbird,0.7785,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,345.0,348.0,Molothrus ater,Brown-headed Cowbird,0.7372,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,348.0,351.0,Tyrannus tyrannus,Eastern Kingbird,0.5787,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,351.0,354.0,Tyrannus tyrannus,Eastern Kingbird,0.5857,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,354.0,357.0,Tyrannus tyrannus,Eastern Kingbird,0.5144,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,369.0,372.0,Tyrannus tyrannus,Eastern Kingbird,0.5225,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,372.0,375.0,Tyrannus tyrannus,Eastern Kingbird,0.8275,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,375.0,378.0,Agelaius phoeniceus,Red-winged Blackbird,0.6016,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,378.0,381.0,Tyrannus tyrannus,Eastern Kingbird,0.7838,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,381.0,384.0,Tyrannus tyrannus,Eastern Kingbird,0.6809,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,384.0,387.0,Agelaius phoeniceus,Red-winged Blackbird,0.5606,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,387.0,390.0,Tyrannus tyrannus,Eastern Kingbird,0.7781,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,390.0,393.0,Tyrannus tyrannus,Eastern Kingbird,0.5530,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,393.0,396.0,Tyrannus tyrannus,Eastern Kingbird,0.6424,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,399.0,402.0,Tyrannus tyrannus,Eastern Kingbird,0.7718,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,408.0,411.0,Tyrannus tyrannus,Eastern Kingbird,0.8918,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,423.0,426.0,Agelaius phoeniceus,Red-winged Blackbird,0.5192,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,435.0,438.0,Tyrannus tyrannus,Eastern Kingbird,0.6724,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,438.0,441.0,Tyrannus tyrannus,Eastern Kingbird,0.8912,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,447.0,450.0,Tyrannus tyrannus,Eastern Kingbird,0.7503,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,450.0,453.0,Tyrannus tyrannus,Eastern Kingbird,0.7570,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,492.0,495.0,Tyrannus tyrannus,Eastern Kingbird,0.8344,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,507.0,510.0,Tyrannus tyrannus,Eastern Kingbird,0.5629,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,513.0,516.0,Tyrannus tyrannus,Eastern Kingbird,0.5647,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,564.0,567.0,Tyrannus tyrannus,Eastern Kingbird,0.5348,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,621.0,624.0,Tyrannus tyrannus,Eastern Kingbird,0.8172,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,624.0,627.0,Tyrannus tyrannus,Eastern Kingbird,0.9461,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,627.0,630.0,Tyrannus tyrannus,Eastern Kingbird,0.9415,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,630.0,633.0,Tyrannus tyrannus,Eastern Kingbird,0.9852,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,633.0,636.0,Tyrannus tyrannus,Eastern Kingbird,0.9860,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,636.0,639.0,Tyrannus tyrannus,Eastern Kingbird,0.9832,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,639.0,642.0,Tyrannus tyrannus,Eastern Kingbird,0.9554,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,642.0,645.0,Tyrannus tyrannus,Eastern Kingbird,0.7617,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,657.0,660.0,Agelaius phoeniceus,Red-winged Blackbird,0.6535,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,663.0,666.0,Tyrannus tyrannus,Eastern Kingbird,0.5401,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,711.0,714.0,Agelaius phoeniceus,Red-winged Blackbird,0.5828,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,753.0,756.0,Pandion haliaetus,Osprey,0.9567,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,756.0,759.0,Pandion haliaetus,Osprey,0.7973,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,780.0,783.0,Pandion haliaetus,Osprey,0.8203,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,789.0,792.0,Pandion haliaetus,Osprey,0.8995,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,792.0,795.0,Pandion haliaetus,Osprey,0.9894,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,795.0,798.0,Pandion haliaetus,Osprey,0.5631,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,798.0,801.0,Pandion haliaetus,Osprey,0.9196,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+E:\Birds Canada east\StGeorge_NB32-04_20\MMP-POPA20_20190624_053000.wav,849.0,852.0,Tachycineta bicolor,Tree Swallow,0.6880,45.0000,-67.0000,23,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
