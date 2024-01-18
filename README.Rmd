@@ -47,7 +47,7 @@ All the analyses were done on [BirdNET Analyzer](https://github.com/kahst/BirdNE
 -   Columns of the data set are explained below:
 
 | Column name     | Description                                                                                                              |
-|--------------------|----------------------------------------------------|
+|-----------------|--------------------------------------------------------------------------------------------------------------------------|
 | site            | the site name of ARU employment, one of the 21 sites                                                                     |
 | location        | ID for the site, starting with "NB"                                                                                      |
 | aru_id          | a 4 digits number. Unique ID of each ARU unit                                                                            |
@@ -65,7 +65,7 @@ All the analyses were done on [BirdNET Analyzer](https://github.com/kahst/BirdNE
 -   [Working note](./docs/working-notes.md)
 
 | Site                  | Location ID | ARU ID | Processing date | Time          | Output | Note                      |
-|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+|-----------------------|-------------|--------|-----------------|---------------|--------|---------------------------|
 | Baie Verte Port Elgin | NB43-03     | 20     | Jan.04          | 10:28         |        | error - file corrupted    |
 | Baie Verte Port Elgin | NB43-04     | 6      | Dec.15          | 11:47 - 12:19 |        |                           |
 | Baie Verte WFP        | NB44-01     | 7      | Dec.15          | 14:52 - 15:33 |        |                           |
