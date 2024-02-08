@@ -39,7 +39,11 @@ model version that used in the GUI is
 
 ## Output format
 
-- One excel file will be produced for each site, each ARU, with the
+- All the BirdNET output files can be found [HERE](./data/cleaned), and
+  the processing schedule section includes details for individual ARU
+  sites.
+
+- One excel file was produced for each site, each ARU, with the
   following naming rule: `site_location_aruid.csv`
 
 - Each row of the data frame represents single BirdNET detection
