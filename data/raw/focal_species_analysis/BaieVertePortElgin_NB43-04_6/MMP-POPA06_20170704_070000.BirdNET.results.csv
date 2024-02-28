@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+E:\Birds Canada east\focal species analysis\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170704_070000.wav,627.0,630.0,Tringa semipalmata,Willet,0.5979,0.0000,0.0000,-1,0,1.0,0.5,C:\Users\sunny541.stu\AppData\Local\Temp\684088f74cd800171d7d84116b36d9fc94d24255\focal_species_list_with_sci_name.txt,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
