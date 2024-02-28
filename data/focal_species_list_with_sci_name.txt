@@ -1,0 +1,21 @@
+Botaurus lentiginosus_American Bittern
+Fulica americana_American Coot
+Chlidonias niger_Black Tern
+Gallinula galeata_American Moorhen
+Ixobrychus exilis_Least Bittern
+Cistothorus palustris_Marsh Wren
+Ammospiza nelsoni_Nelson's Sparrow
+Podilymbus podiceps_Pied-billed Grebe
+Porzana carolina_Sora
+Rallus limicola_Virginia Rail
+Tringa semipalmata_Willet
+Coturnicops noveboracensis_Yellow Rail
+Dolichonyx oryzivorus_Bobolink
+Riparia riparia_Sand Martin
+Chaetura pelagica_Chimney Swift
+Chordeiles minor_Common Nighthawk
+Euphagus carolinus_Rusty Blackbird
+Myiarchus crinitus_Great Crested Flycatcher
+Vireo gilvus_Warbling Vireo
+Empidonax traillii_Willow Flycatcher
+Parkesia noveboracensis_Northern Waterthrush

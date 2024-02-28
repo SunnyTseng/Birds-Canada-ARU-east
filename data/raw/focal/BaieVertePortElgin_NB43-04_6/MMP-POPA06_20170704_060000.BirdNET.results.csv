@@ -1,3 +1,0 @@
-filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
-E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170704_060000.wav,0,3.0,Tringa semipalmata,Willet,0.5020,0.0000,0.0000,-1,0,1.0,0.5,C:\Users\sunny541.stu\AppData\Local\Temp\21565a45e49d5f8dc6dd6d51dcc6710c369d4f14\list.txt,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-E:\Birds Canada east\BaieVertePortElgin_NB43-04_6\MMP-POPA06_20170704_060000.wav,249.0,252.0,Tringa semipalmata,Willet,0.7031,0.0000,0.0000,-1,0,1.0,0.5,C:\Users\sunny541.stu\AppData\Local\Temp\21565a45e49d5f8dc6dd6d51dcc6710c369d4f14\list.txt,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
