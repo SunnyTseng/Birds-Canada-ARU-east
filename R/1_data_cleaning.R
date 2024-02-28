@@ -5,12 +5,12 @@ library(tidyverse)
 library(here)
 
 # create function ---------------------------------------------------------
-raw2clean <- function(site, location, aru_id){
+raw2clean <- function(site, location, aru_id, type){
   # import data  ------------------------------------------------------------
   
   site_folder <- paste(site, location, aru_id, sep = "_")
   
-  site_data <- list.files(path = here("data", "raw", site_folder), 
+  site_data <- list.files(path = here("data", "raw", type, site_folder), 
                           pattern = ".csv",
                           full.names = TRUE,
                           recursive = TRUE) %>%
@@ -36,12 +36,12 @@ raw2clean <- function(site, location, aru_id){
     select(site, location, aru_id, date, hour, start, end, scientific_name, common_name, confidence, filepath)
   
   # saving the final file ---------------------------------------------------
-  write_csv(site_data_clean, here("data", "cleaned", paste0(site_folder, ".csv")))
+  write_csv(site_data_clean, here("data", "cleaned", "focal", paste0(site_folder, ".csv")))
 }
 
 
 # set parameters ----------------------------------------------------------
-names <- list.files(here("data", "raw")) %>%
+names <- list.files(here("data", "raw", "focal")) %>%
   str_split(pattern = "_")
 
 for (i in 1:length(names)) {
@@ -49,5 +49,5 @@ for (i in 1:length(names)) {
   location <- names[[i]][2]
   aru_id <- names[[i]][3]
   
-  raw2clean(site = site, location = location, aru_id = aru_id)
+  raw2clean(site = site, location = location, aru_id = aru_id, type = "focal")
 }
