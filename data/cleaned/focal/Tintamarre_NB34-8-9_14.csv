@@ -1,0 +1,675 @@
+site,location,aru_id,date,hour,start,end,scientific_name,common_name,confidence,filepath
+Tintamarre,NB34-8-9,14,NA,NA,435,438,Ammospiza nelsoni,Nelson's Sparrow,0.9117,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190620_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,645,648,Botaurus lentiginosus,American Bittern,0.682,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190620_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,12,15,Ammospiza nelsoni,Nelson's Sparrow,0.5645,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,369,372,Dolichonyx oryzivorus,Bobolink,0.9318,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,372,375,Dolichonyx oryzivorus,Bobolink,0.85,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,387,390,Dolichonyx oryzivorus,Bobolink,0.6447,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,396,399,Dolichonyx oryzivorus,Bobolink,0.9301,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,408,411,Dolichonyx oryzivorus,Bobolink,0.9461,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,426,429,Dolichonyx oryzivorus,Bobolink,0.581,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,441,444,Dolichonyx oryzivorus,Bobolink,0.8977,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,453,456,Dolichonyx oryzivorus,Bobolink,0.6069,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,492,495,Dolichonyx oryzivorus,Bobolink,0.9067,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,534,537,Dolichonyx oryzivorus,Bobolink,0.8886,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,564,567,Botaurus lentiginosus,American Bittern,0.6686,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,567,570,Botaurus lentiginosus,American Bittern,0.8565,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,579,582,Dolichonyx oryzivorus,Bobolink,0.8987,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,585,588,Dolichonyx oryzivorus,Bobolink,0.6385,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,654,657,Botaurus lentiginosus,American Bittern,0.8767,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,732,735,Dolichonyx oryzivorus,Bobolink,0.8914,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,738,741,Botaurus lentiginosus,American Bittern,0.8391,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,744,747,Dolichonyx oryzivorus,Bobolink,0.6884,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,753,756,Dolichonyx oryzivorus,Bobolink,0.5848,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,771,774,Dolichonyx oryzivorus,Bobolink,0.6781,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,798,801,Dolichonyx oryzivorus,Bobolink,0.6765,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,834,837,Dolichonyx oryzivorus,Bobolink,0.7496,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,846,849,Dolichonyx oryzivorus,Bobolink,0.6078,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,870,873,Dolichonyx oryzivorus,Bobolink,0.8888,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,873,876,Dolichonyx oryzivorus,Bobolink,0.8286,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,894,897,Dolichonyx oryzivorus,Bobolink,0.7118,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,765,768,Coturnicops noveboracensis,Yellow Rail,0.517,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,771,774,Coturnicops noveboracensis,Yellow Rail,0.7225,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190621_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,576,579,Coturnicops noveboracensis,Yellow Rail,0.5107,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190622_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,801,804,Coturnicops noveboracensis,Yellow Rail,0.6529,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190622_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,21,24,Ammospiza nelsoni,Nelson's Sparrow,0.5143,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190622_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,36,39,Ammospiza nelsoni,Nelson's Sparrow,0.7384,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190622_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,69,72,Ammospiza nelsoni,Nelson's Sparrow,0.8242,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190622_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,141,144,Ammospiza nelsoni,Nelson's Sparrow,0.8824,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190622_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,177,180,Ammospiza nelsoni,Nelson's Sparrow,0.7279,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190622_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,186,189,Ammospiza nelsoni,Nelson's Sparrow,0.5772,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190622_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,192,195,Podilymbus podiceps,Pied-billed Grebe,0.5855,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190622_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,387,390,Botaurus lentiginosus,American Bittern,0.5329,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190622_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,414,417,Coturnicops noveboracensis,Yellow Rail,0.5909,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190622_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,510,513,Botaurus lentiginosus,American Bittern,0.6431,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190622_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,33,36,Dolichonyx oryzivorus,Bobolink,0.73740000000000006,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,51,54,Dolichonyx oryzivorus,Bobolink,0.9045,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,60,63,Dolichonyx oryzivorus,Bobolink,0.939,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,72,75,Dolichonyx oryzivorus,Bobolink,0.9933,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,75,78,Dolichonyx oryzivorus,Bobolink,0.897,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,93,96,Dolichonyx oryzivorus,Bobolink,0.9891,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,111,114,Dolichonyx oryzivorus,Bobolink,0.942,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,135,138,Dolichonyx oryzivorus,Bobolink,0.976,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,138,141,Dolichonyx oryzivorus,Bobolink,0.9992,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,186,189,Dolichonyx oryzivorus,Bobolink,0.696,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,201,204,Dolichonyx oryzivorus,Bobolink,0.9871,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,216,219,Dolichonyx oryzivorus,Bobolink,0.9963,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,219,222,Dolichonyx oryzivorus,Bobolink,0.9737,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,231,234,Dolichonyx oryzivorus,Bobolink,0.947,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,249,252,Dolichonyx oryzivorus,Bobolink,0.9897,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,252,255,Dolichonyx oryzivorus,Bobolink,0.974,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,267,270,Dolichonyx oryzivorus,Bobolink,0.9253,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,273,276,Dolichonyx oryzivorus,Bobolink,0.7493,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,336,339,Botaurus lentiginosus,American Bittern,0.7225,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,348,351,Dolichonyx oryzivorus,Bobolink,0.8099,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,360,363,Dolichonyx oryzivorus,Bobolink,0.7321,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,363,366,Dolichonyx oryzivorus,Bobolink,0.9092,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,375,378,Dolichonyx oryzivorus,Bobolink,0.586,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,405,408,Dolichonyx oryzivorus,Bobolink,0.9312,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,429,432,Dolichonyx oryzivorus,Bobolink,0.8904,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,432,435,Dolichonyx oryzivorus,Bobolink,0.9923,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,444,447,Dolichonyx oryzivorus,Bobolink,0.7824,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,465,468,Dolichonyx oryzivorus,Bobolink,0.9829,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,471,474,Dolichonyx oryzivorus,Bobolink,0.8654,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,477,480,Dolichonyx oryzivorus,Bobolink,0.9335,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,483,486,Dolichonyx oryzivorus,Bobolink,0.7234,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,495,498,Dolichonyx oryzivorus,Bobolink,0.8674,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,507,510,Dolichonyx oryzivorus,Bobolink,0.5732,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,519,522,Dolichonyx oryzivorus,Bobolink,0.5206,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,531,534,Dolichonyx oryzivorus,Bobolink,0.7009,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,552,555,Dolichonyx oryzivorus,Bobolink,0.843,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,555,558,Dolichonyx oryzivorus,Bobolink,0.984,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,579,582,Dolichonyx oryzivorus,Bobolink,0.9697,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,582,585,Dolichonyx oryzivorus,Bobolink,0.747,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,588,591,Dolichonyx oryzivorus,Bobolink,0.7183,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,600,603,Dolichonyx oryzivorus,Bobolink,0.9064,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,603,606,Dolichonyx oryzivorus,Bobolink,0.6667,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,606,609,Dolichonyx oryzivorus,Bobolink,0.8998,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,612,615,Dolichonyx oryzivorus,Bobolink,0.9338,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,615,618,Dolichonyx oryzivorus,Bobolink,0.5526,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,642,645,Dolichonyx oryzivorus,Bobolink,0.958,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,645,648,Dolichonyx oryzivorus,Bobolink,0.9367,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,648,651,Dolichonyx oryzivorus,Bobolink,0.9626,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,663,666,Dolichonyx oryzivorus,Bobolink,0.9683,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,672,675,Dolichonyx oryzivorus,Bobolink,0.9859,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,675,678,Dolichonyx oryzivorus,Bobolink,0.8297,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,702,705,Dolichonyx oryzivorus,Bobolink,0.9613,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,711,714,Dolichonyx oryzivorus,Bobolink,0.5584,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,717,720,Dolichonyx oryzivorus,Bobolink,0.5969,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,729,732,Dolichonyx oryzivorus,Bobolink,0.9803,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,732,735,Dolichonyx oryzivorus,Bobolink,0.7905,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,756,759,Dolichonyx oryzivorus,Bobolink,0.9751,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,759,762,Dolichonyx oryzivorus,Bobolink,0.8856,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,771,774,Dolichonyx oryzivorus,Bobolink,0.9921,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,777,780,Dolichonyx oryzivorus,Bobolink,0.9446,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,783,786,Dolichonyx oryzivorus,Bobolink,0.9754,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,786,789,Dolichonyx oryzivorus,Bobolink,0.7616,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,792,795,Dolichonyx oryzivorus,Bobolink,0.9815,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,807,810,Dolichonyx oryzivorus,Bobolink,0.5582,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,810,813,Dolichonyx oryzivorus,Bobolink,0.9916,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,813,816,Dolichonyx oryzivorus,Bobolink,0.9346,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,831,834,Dolichonyx oryzivorus,Bobolink,0.685,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,837,840,Dolichonyx oryzivorus,Bobolink,0.9719,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,846,849,Dolichonyx oryzivorus,Bobolink,0.8209,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,888,891,Dolichonyx oryzivorus,Bobolink,0.9357,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190623_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,18,21,Dolichonyx oryzivorus,Bobolink,0.9184,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,33,36,Dolichonyx oryzivorus,Bobolink,0.9764,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,36,39,Dolichonyx oryzivorus,Bobolink,0.5414,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,48,51,Dolichonyx oryzivorus,Bobolink,0.6568,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,63,66,Dolichonyx oryzivorus,Bobolink,0.9585,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,93,96,Dolichonyx oryzivorus,Bobolink,0.962,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,105,108,Dolichonyx oryzivorus,Bobolink,0.5969,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,123,126,Dolichonyx oryzivorus,Bobolink,0.8505,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,126,129,Dolichonyx oryzivorus,Bobolink,0.7883,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,138,141,Dolichonyx oryzivorus,Bobolink,0.7936,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,141,144,Dolichonyx oryzivorus,Bobolink,0.8074,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,156,159,Dolichonyx oryzivorus,Bobolink,0.9938,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,171,174,Dolichonyx oryzivorus,Bobolink,0.9692,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,189,192,Dolichonyx oryzivorus,Bobolink,0.9753,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,192,195,Dolichonyx oryzivorus,Bobolink,0.8211,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,204,207,Dolichonyx oryzivorus,Bobolink,0.5448,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,219,222,Dolichonyx oryzivorus,Bobolink,0.5531,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,258,261,Dolichonyx oryzivorus,Bobolink,0.9684,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,261,264,Dolichonyx oryzivorus,Bobolink,0.855,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,288,291,Dolichonyx oryzivorus,Bobolink,0.963,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,291,294,Dolichonyx oryzivorus,Bobolink,0.5297,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,351,354,Dolichonyx oryzivorus,Bobolink,0.8753,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,369,372,Dolichonyx oryzivorus,Bobolink,0.9822,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,381,384,Dolichonyx oryzivorus,Bobolink,0.8905,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,402,405,Dolichonyx oryzivorus,Bobolink,0.7456,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,411,414,Dolichonyx oryzivorus,Bobolink,0.9935,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,432,435,Dolichonyx oryzivorus,Bobolink,0.9106,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,447,450,Dolichonyx oryzivorus,Bobolink,0.9192,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,471,474,Dolichonyx oryzivorus,Bobolink,0.9732,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,474,477,Dolichonyx oryzivorus,Bobolink,0.8713,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,492,495,Dolichonyx oryzivorus,Bobolink,0.9281,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,504,507,Dolichonyx oryzivorus,Bobolink,0.6813,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,519,522,Dolichonyx oryzivorus,Bobolink,0.9533,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,531,534,Dolichonyx oryzivorus,Bobolink,0.6863,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,534,537,Dolichonyx oryzivorus,Bobolink,0.7886,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,546,549,Dolichonyx oryzivorus,Bobolink,0.6973,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,624,627,Dolichonyx oryzivorus,Bobolink,0.5652,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,648,651,Dolichonyx oryzivorus,Bobolink,0.8947,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,651,654,Dolichonyx oryzivorus,Bobolink,0.7344,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,666,669,Dolichonyx oryzivorus,Bobolink,0.9826,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,669,672,Dolichonyx oryzivorus,Bobolink,0.6015,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,693,696,Dolichonyx oryzivorus,Bobolink,0.9937,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,714,717,Dolichonyx oryzivorus,Bobolink,0.9819,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,765,768,Dolichonyx oryzivorus,Bobolink,0.7693,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,768,771,Dolichonyx oryzivorus,Bobolink,0.7394,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,852,855,Dolichonyx oryzivorus,Bobolink,0.7562,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190624_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,186,189,Dolichonyx oryzivorus,Bobolink,0.6671,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,414,417,Dolichonyx oryzivorus,Bobolink,0.9852,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,417,420,Dolichonyx oryzivorus,Bobolink,0.9815,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,627,630,Dolichonyx oryzivorus,Bobolink,0.8866,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,636,639,Dolichonyx oryzivorus,Bobolink,0.6513,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,660,663,Dolichonyx oryzivorus,Bobolink,0.9742,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,663,666,Dolichonyx oryzivorus,Bobolink,0.9866,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,672,675,Dolichonyx oryzivorus,Bobolink,0.5073,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,678,681,Dolichonyx oryzivorus,Bobolink,0.9918,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,693,696,Dolichonyx oryzivorus,Bobolink,0.9691,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,708,711,Dolichonyx oryzivorus,Bobolink,0.9047,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,720,723,Dolichonyx oryzivorus,Bobolink,0.7789,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,726,729,Dolichonyx oryzivorus,Bobolink,0.8219,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,738,741,Dolichonyx oryzivorus,Bobolink,0.9327,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,741,744,Dolichonyx oryzivorus,Bobolink,0.9136,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,744,747,Dolichonyx oryzivorus,Bobolink,0.9909,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,750,753,Dolichonyx oryzivorus,Bobolink,0.8356,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,753,756,Dolichonyx oryzivorus,Bobolink,0.9648,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,759,762,Dolichonyx oryzivorus,Bobolink,0.8645,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,768,771,Dolichonyx oryzivorus,Bobolink,0.9958,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,771,774,Dolichonyx oryzivorus,Bobolink,0.7834,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,774,777,Dolichonyx oryzivorus,Bobolink,0.5677,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,780,783,Dolichonyx oryzivorus,Bobolink,0.5809,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,810,813,Dolichonyx oryzivorus,Bobolink,0.9905,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,813,816,Dolichonyx oryzivorus,Bobolink,0.5798,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,819,822,Dolichonyx oryzivorus,Bobolink,0.826,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,825,828,Dolichonyx oryzivorus,Bobolink,0.5942,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,828,831,Dolichonyx oryzivorus,Bobolink,0.8643,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,831,834,Dolichonyx oryzivorus,Bobolink,0.8665,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,840,843,Dolichonyx oryzivorus,Bobolink,0.9425,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,846,849,Dolichonyx oryzivorus,Bobolink,0.9585,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,852,855,Dolichonyx oryzivorus,Bobolink,0.9836,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,855,858,Dolichonyx oryzivorus,Bobolink,0.9331,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,861,864,Dolichonyx oryzivorus,Bobolink,0.9016,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,864,867,Dolichonyx oryzivorus,Bobolink,0.8108,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,867,870,Dolichonyx oryzivorus,Bobolink,0.9824,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,885,888,Dolichonyx oryzivorus,Bobolink,0.884,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,891,894,Dolichonyx oryzivorus,Bobolink,0.8811,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,894,897,Dolichonyx oryzivorus,Bobolink,0.5111,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,897,900,Dolichonyx oryzivorus,Bobolink,0.9768,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,795,798,Dolichonyx oryzivorus,Bobolink,0.8528,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190625_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,3,6,Dolichonyx oryzivorus,Bobolink,0.9928,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,6,9,Dolichonyx oryzivorus,Bobolink,0.9618,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,12,15,Dolichonyx oryzivorus,Bobolink,0.9933,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,21,24,Dolichonyx oryzivorus,Bobolink,0.7784,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,27,30,Botaurus lentiginosus,American Bittern,0.5798,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,33,36,Dolichonyx oryzivorus,Bobolink,0.9057,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,36,39,Dolichonyx oryzivorus,Bobolink,0.6655,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,66,69,Dolichonyx oryzivorus,Bobolink,0.7129,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,69,72,Dolichonyx oryzivorus,Bobolink,0.6502,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,105,108,Dolichonyx oryzivorus,Bobolink,0.9132,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,108,111,Dolichonyx oryzivorus,Bobolink,0.8876,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,123,126,Dolichonyx oryzivorus,Bobolink,0.9379,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,132,135,Dolichonyx oryzivorus,Bobolink,0.7155,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,165,168,Dolichonyx oryzivorus,Bobolink,0.8109,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,174,177,Dolichonyx oryzivorus,Bobolink,0.6693,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,183,186,Dolichonyx oryzivorus,Bobolink,0.9802,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,186,189,Dolichonyx oryzivorus,Bobolink,0.75,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,195,198,Dolichonyx oryzivorus,Bobolink,0.7079,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,225,228,Dolichonyx oryzivorus,Bobolink,0.8811,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,228,231,Dolichonyx oryzivorus,Bobolink,0.926,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,249,252,Dolichonyx oryzivorus,Bobolink,0.9708,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,255,258,Dolichonyx oryzivorus,Bobolink,0.8641,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,291,294,Dolichonyx oryzivorus,Bobolink,0.8843,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,318,321,Dolichonyx oryzivorus,Bobolink,0.8896,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,336,339,Dolichonyx oryzivorus,Bobolink,0.6689,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,357,360,Dolichonyx oryzivorus,Bobolink,0.9804,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,384,387,Dolichonyx oryzivorus,Bobolink,0.9834,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,390,393,Dolichonyx oryzivorus,Bobolink,0.6638,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,405,408,Dolichonyx oryzivorus,Bobolink,0.7925,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,411,414,Dolichonyx oryzivorus,Bobolink,0.7282,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,420,423,Dolichonyx oryzivorus,Bobolink,0.8441,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,426,429,Dolichonyx oryzivorus,Bobolink,0.5607,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,480,483,Dolichonyx oryzivorus,Bobolink,0.7532,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,495,498,Dolichonyx oryzivorus,Bobolink,0.9646,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,552,555,Dolichonyx oryzivorus,Bobolink,0.5008,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,555,558,Dolichonyx oryzivorus,Bobolink,0.9173,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,603,606,Ammospiza nelsoni,Nelson's Sparrow,0.9967,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,690,693,Dolichonyx oryzivorus,Bobolink,0.7893,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,699,702,Dolichonyx oryzivorus,Bobolink,0.9447,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,735,738,Dolichonyx oryzivorus,Bobolink,0.8992,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,738,741,Dolichonyx oryzivorus,Bobolink,0.9959,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,771,774,Dolichonyx oryzivorus,Bobolink,0.9191,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,780,783,Dolichonyx oryzivorus,Bobolink,0.9025,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,792,795,Dolichonyx oryzivorus,Bobolink,0.7651,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,795,798,Dolichonyx oryzivorus,Bobolink,0.9226,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,801,804,Dolichonyx oryzivorus,Bobolink,0.8575,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,804,807,Dolichonyx oryzivorus,Bobolink,0.9961,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,816,819,Dolichonyx oryzivorus,Bobolink,0.9986,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,822,825,Dolichonyx oryzivorus,Bobolink,0.6099,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,825,828,Dolichonyx oryzivorus,Bobolink,0.7326,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,834,837,Dolichonyx oryzivorus,Bobolink,0.9965,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,843,846,Dolichonyx oryzivorus,Bobolink,0.727,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,846,849,Dolichonyx oryzivorus,Bobolink,0.5815,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,852,855,Dolichonyx oryzivorus,Bobolink,0.9367,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,861,864,Dolichonyx oryzivorus,Bobolink,0.8296,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,897,900,Dolichonyx oryzivorus,Bobolink,0.7317,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,405,408,Ammospiza nelsoni,Nelson's Sparrow,0.9629,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190626_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,168,171,Coturnicops noveboracensis,Yellow Rail,0.5603,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,273,276,Coturnicops noveboracensis,Yellow Rail,0.5933,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,321,324,Dolichonyx oryzivorus,Bobolink,0.9517,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,333,336,Dolichonyx oryzivorus,Bobolink,0.9161,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,339,342,Coturnicops noveboracensis,Yellow Rail,0.7075,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,342,345,Dolichonyx oryzivorus,Bobolink,0.7089,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,366,369,Dolichonyx oryzivorus,Bobolink,0.7625,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,372,375,Dolichonyx oryzivorus,Bobolink,0.8884,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,381,384,Dolichonyx oryzivorus,Bobolink,0.8352,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,384,387,Dolichonyx oryzivorus,Bobolink,0.8935,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,387,390,Dolichonyx oryzivorus,Bobolink,0.6663,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,393,396,Dolichonyx oryzivorus,Bobolink,0.931,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,396,399,Dolichonyx oryzivorus,Bobolink,0.7025,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,417,420,Ammospiza nelsoni,Nelson's Sparrow,0.6485,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,420,423,Dolichonyx oryzivorus,Bobolink,0.9422,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,426,429,Dolichonyx oryzivorus,Bobolink,0.8805,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,432,435,Dolichonyx oryzivorus,Bobolink,0.8312,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,438,441,Ammospiza nelsoni,Nelson's Sparrow,0.9953,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,456,459,Dolichonyx oryzivorus,Bobolink,0.6483,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,465,468,Ammospiza nelsoni,Nelson's Sparrow,0.795,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,471,474,Dolichonyx oryzivorus,Bobolink,0.8113,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,477,480,Dolichonyx oryzivorus,Bobolink,0.9669,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,480,483,Dolichonyx oryzivorus,Bobolink,0.9644,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,483,486,Dolichonyx oryzivorus,Bobolink,0.6851,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,495,498,Dolichonyx oryzivorus,Bobolink,0.7502,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,501,504,Dolichonyx oryzivorus,Bobolink,0.9579,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,507,510,Dolichonyx oryzivorus,Bobolink,0.7598,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,522,525,Dolichonyx oryzivorus,Bobolink,0.5658,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,528,531,Dolichonyx oryzivorus,Bobolink,0.9336,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,540,543,Dolichonyx oryzivorus,Bobolink,0.9624,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,543,546,Dolichonyx oryzivorus,Bobolink,0.9029,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,555,558,Dolichonyx oryzivorus,Bobolink,0.5406,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,567,570,Dolichonyx oryzivorus,Bobolink,0.9291,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,570,573,Dolichonyx oryzivorus,Bobolink,0.6566,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,576,579,Dolichonyx oryzivorus,Bobolink,0.6226,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,579,582,Dolichonyx oryzivorus,Bobolink,0.9299,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,582,585,Dolichonyx oryzivorus,Bobolink,0.6419,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,591,594,Dolichonyx oryzivorus,Bobolink,0.9861,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,594,597,Dolichonyx oryzivorus,Bobolink,0.6067,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,603,606,Dolichonyx oryzivorus,Bobolink,0.8636,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,606,609,Dolichonyx oryzivorus,Bobolink,0.9758,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,615,618,Dolichonyx oryzivorus,Bobolink,0.9572,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,618,621,Dolichonyx oryzivorus,Bobolink,0.9959,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,624,627,Dolichonyx oryzivorus,Bobolink,0.8486,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,639,642,Dolichonyx oryzivorus,Bobolink,0.9658,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,648,651,Dolichonyx oryzivorus,Bobolink,0.9839,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,651,654,Dolichonyx oryzivorus,Bobolink,0.8927,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,663,666,Dolichonyx oryzivorus,Bobolink,0.9045,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,666,669,Dolichonyx oryzivorus,Bobolink,0.8988,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,675,678,Dolichonyx oryzivorus,Bobolink,0.8371,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,678,681,Dolichonyx oryzivorus,Bobolink,0.5777,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,687,690,Dolichonyx oryzivorus,Bobolink,0.8795,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,696,699,Dolichonyx oryzivorus,Bobolink,0.7589,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,711,714,Dolichonyx oryzivorus,Bobolink,0.8616,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,714,717,Dolichonyx oryzivorus,Bobolink,0.9824,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,729,732,Dolichonyx oryzivorus,Bobolink,0.7621,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,732,735,Dolichonyx oryzivorus,Bobolink,0.7081,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,741,744,Dolichonyx oryzivorus,Bobolink,0.6085,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,768,771,Dolichonyx oryzivorus,Bobolink,0.5189,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,771,774,Dolichonyx oryzivorus,Bobolink,0.837,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,777,780,Dolichonyx oryzivorus,Bobolink,0.7165,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,780,783,Dolichonyx oryzivorus,Bobolink,0.8186,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,783,786,Dolichonyx oryzivorus,Bobolink,0.5436,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,789,792,Dolichonyx oryzivorus,Bobolink,0.5349,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,801,804,Dolichonyx oryzivorus,Bobolink,0.7266,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,810,813,Dolichonyx oryzivorus,Bobolink,0.8451,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,822,825,Dolichonyx oryzivorus,Bobolink,0.8648,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,828,831,Dolichonyx oryzivorus,Bobolink,0.5859,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,840,843,Dolichonyx oryzivorus,Bobolink,0.9275,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,855,858,Dolichonyx oryzivorus,Bobolink,0.6243,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,867,870,Dolichonyx oryzivorus,Bobolink,0.6794,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,879,882,Dolichonyx oryzivorus,Bobolink,0.5604,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,885,888,Dolichonyx oryzivorus,Bobolink,0.7741,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,888,891,Dolichonyx oryzivorus,Bobolink,0.8462,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,27,30,Ammospiza nelsoni,Nelson's Sparrow,0.9873,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,42,45,Ammospiza nelsoni,Nelson's Sparrow,0.9541,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,63,66,Ammospiza nelsoni,Nelson's Sparrow,0.9972,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,78,81,Ammospiza nelsoni,Nelson's Sparrow,0.9034,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,84,87,Ammospiza nelsoni,Nelson's Sparrow,0.8591,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,90,93,Ammospiza nelsoni,Nelson's Sparrow,0.8471,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,96,99,Ammospiza nelsoni,Nelson's Sparrow,0.6841,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,102,105,Ammospiza nelsoni,Nelson's Sparrow,0.515,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,117,120,Ammospiza nelsoni,Nelson's Sparrow,0.7131,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190627_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,3,6,Botaurus lentiginosus,American Bittern,0.7982,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190628_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,33,36,Dolichonyx oryzivorus,Bobolink,0.9173,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190628_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,75,78,Dolichonyx oryzivorus,Bobolink,0.7746,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190628_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,78,81,Dolichonyx oryzivorus,Bobolink,0.6814,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190628_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,744,747,Dolichonyx oryzivorus,Bobolink,0.6447,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190628_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,150,153,Ammospiza nelsoni,Nelson's Sparrow,0.5011,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,360,363,Podilymbus podiceps,Pied-billed Grebe,0.53,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,756,759,Ammospiza nelsoni,Nelson's Sparrow,0.9488,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,801,804,Ammospiza nelsoni,Nelson's Sparrow,0.7625,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,813,816,Ammospiza nelsoni,Nelson's Sparrow,0.9124,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,831,834,Ammospiza nelsoni,Nelson's Sparrow,0.6859,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,864,867,Ammospiza nelsoni,Nelson's Sparrow,0.9622,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190628_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,21,24,Dolichonyx oryzivorus,Bobolink,0.6004,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,78,81,Botaurus lentiginosus,American Bittern,0.8262,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,18,21,Botaurus lentiginosus,American Bittern,0.8324,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,30,33,Botaurus lentiginosus,American Bittern,0.6222,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,48,51,Botaurus lentiginosus,American Bittern,0.6578,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,267,270,Ammospiza nelsoni,Nelson's Sparrow,0.968,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,270,273,Ammospiza nelsoni,Nelson's Sparrow,0.9884,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,276,279,Ammospiza nelsoni,Nelson's Sparrow,0.8846,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,288,291,Botaurus lentiginosus,American Bittern,0.9516,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,291,294,Ammospiza nelsoni,Nelson's Sparrow,0.9718,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,303,306,Ammospiza nelsoni,Nelson's Sparrow,0.8189,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,309,312,Ammospiza nelsoni,Nelson's Sparrow,0.95,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,318,321,Ammospiza nelsoni,Nelson's Sparrow,0.8884,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190629_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,3,6,Botaurus lentiginosus,American Bittern,0.6819,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,6,9,Botaurus lentiginosus,American Bittern,0.8665,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,9,12,Botaurus lentiginosus,American Bittern,0.6864,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,117,120,Dolichonyx oryzivorus,Bobolink,0.6456,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,144,147,Dolichonyx oryzivorus,Bobolink,0.6964,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,150,153,Dolichonyx oryzivorus,Bobolink,0.5333,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,162,165,Dolichonyx oryzivorus,Bobolink,0.8528,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,192,195,Dolichonyx oryzivorus,Bobolink,0.9631,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,216,219,Dolichonyx oryzivorus,Bobolink,0.6485,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,264,267,Dolichonyx oryzivorus,Bobolink,0.5429,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,270,273,Dolichonyx oryzivorus,Bobolink,0.5526,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,273,276,Dolichonyx oryzivorus,Bobolink,0.5748,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,282,285,Dolichonyx oryzivorus,Bobolink,0.6306,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,285,288,Dolichonyx oryzivorus,Bobolink,0.9243,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,291,294,Dolichonyx oryzivorus,Bobolink,0.6274,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,309,312,Dolichonyx oryzivorus,Bobolink,0.6788,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,354,357,Dolichonyx oryzivorus,Bobolink,0.963,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,399,402,Dolichonyx oryzivorus,Bobolink,0.8537,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,411,414,Dolichonyx oryzivorus,Bobolink,0.7213,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,414,417,Dolichonyx oryzivorus,Bobolink,0.5327,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,426,429,Dolichonyx oryzivorus,Bobolink,0.8486,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,435,438,Dolichonyx oryzivorus,Bobolink,0.9782,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,447,450,Dolichonyx oryzivorus,Bobolink,0.5599,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,450,453,Dolichonyx oryzivorus,Bobolink,0.8133,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,459,462,Dolichonyx oryzivorus,Bobolink,0.9199,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,462,465,Dolichonyx oryzivorus,Bobolink,0.5807,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,480,483,Dolichonyx oryzivorus,Bobolink,0.7267,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,498,501,Dolichonyx oryzivorus,Bobolink,0.881,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,516,519,Dolichonyx oryzivorus,Bobolink,0.9441,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,522,525,Dolichonyx oryzivorus,Bobolink,0.6887,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,525,528,Dolichonyx oryzivorus,Bobolink,0.8808,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,543,546,Dolichonyx oryzivorus,Bobolink,0.5327,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,591,594,Dolichonyx oryzivorus,Bobolink,0.8808,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,597,600,Dolichonyx oryzivorus,Bobolink,0.9524,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,621,624,Dolichonyx oryzivorus,Bobolink,0.861,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,624,627,Dolichonyx oryzivorus,Bobolink,0.7336,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,627,630,Dolichonyx oryzivorus,Bobolink,0.7536,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,630,633,Dolichonyx oryzivorus,Bobolink,0.9112,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,636,639,Dolichonyx oryzivorus,Bobolink,0.9613,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,648,651,Dolichonyx oryzivorus,Bobolink,0.9204,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,660,663,Dolichonyx oryzivorus,Bobolink,0.6206,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,669,672,Dolichonyx oryzivorus,Bobolink,0.5222,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,678,681,Dolichonyx oryzivorus,Bobolink,0.6785,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,681,684,Dolichonyx oryzivorus,Bobolink,0.5948,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,693,696,Dolichonyx oryzivorus,Bobolink,0.8496,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,708,711,Dolichonyx oryzivorus,Bobolink,0.9681,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,732,735,Dolichonyx oryzivorus,Bobolink,0.8938,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,735,738,Dolichonyx oryzivorus,Bobolink,0.8133,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,741,744,Dolichonyx oryzivorus,Bobolink,0.7048,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,747,750,Dolichonyx oryzivorus,Bobolink,0.9522,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,765,768,Dolichonyx oryzivorus,Bobolink,0.9168,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,867,870,Dolichonyx oryzivorus,Bobolink,0.7979,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,891,894,Dolichonyx oryzivorus,Bobolink,0.5702,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,774,777,Ammospiza nelsoni,Nelson's Sparrow,0.9349,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,777,780,Ammospiza nelsoni,Nelson's Sparrow,0.998,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190630_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,462,465,Ammospiza nelsoni,Nelson's Sparrow,0.9783,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190701_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,615,618,Ammospiza nelsoni,Nelson's Sparrow,0.8796,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190701_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,744,747,Ammospiza nelsoni,Nelson's Sparrow,0.7832,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190701_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,765,768,Ammospiza nelsoni,Nelson's Sparrow,0.7146,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190701_211600.wav
+Tintamarre,NB34-8-9,14,NA,NA,582,585,Dolichonyx oryzivorus,Bobolink,0.6104,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190702_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,597,600,Dolichonyx oryzivorus,Bobolink,0.9458,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190702_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,636,639,Dolichonyx oryzivorus,Bobolink,0.7016,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190702_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,669,672,Dolichonyx oryzivorus,Bobolink,0.7902,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190702_051600.wav
+Tintamarre,NB34-8-9,14,NA,NA,63,66,Dolichonyx oryzivorus,Bobolink,0.9848,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,66,69,Dolichonyx oryzivorus,Bobolink,0.74,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,81,84,Dolichonyx oryzivorus,Bobolink,0.7784,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,84,87,Dolichonyx oryzivorus,Bobolink,0.7141,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,90,93,Dolichonyx oryzivorus,Bobolink,0.6812,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,135,138,Dolichonyx oryzivorus,Bobolink,0.7754,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,144,147,Dolichonyx oryzivorus,Bobolink,0.9826,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,150,153,Dolichonyx oryzivorus,Bobolink,0.7167,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,153,156,Dolichonyx oryzivorus,Bobolink,0.9497,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,204,207,Dolichonyx oryzivorus,Bobolink,0.9183,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,210,213,Dolichonyx oryzivorus,Bobolink,0.9835,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,222,225,Dolichonyx oryzivorus,Bobolink,0.7432,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,231,234,Dolichonyx oryzivorus,Bobolink,0.9444,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,237,240,Dolichonyx oryzivorus,Bobolink,0.965,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,243,246,Dolichonyx oryzivorus,Bobolink,0.9274,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,258,261,Dolichonyx oryzivorus,Bobolink,0.8524,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,270,273,Dolichonyx oryzivorus,Bobolink,0.9561,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,279,282,Dolichonyx oryzivorus,Bobolink,0.5872,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,291,294,Dolichonyx oryzivorus,Bobolink,0.6741,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,318,321,Dolichonyx oryzivorus,Bobolink,0.8697,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,324,327,Dolichonyx oryzivorus,Bobolink,0.9189,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,348,351,Dolichonyx oryzivorus,Bobolink,0.5926,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,360,363,Dolichonyx oryzivorus,Bobolink,0.8541,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,366,369,Dolichonyx oryzivorus,Bobolink,0.9931,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,372,375,Dolichonyx oryzivorus,Bobolink,0.9776,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,384,387,Dolichonyx oryzivorus,Bobolink,0.9781,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,396,399,Dolichonyx oryzivorus,Bobolink,0.8359,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,405,408,Dolichonyx oryzivorus,Bobolink,0.7679,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,411,414,Dolichonyx oryzivorus,Bobolink,0.8889,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,414,417,Dolichonyx oryzivorus,Bobolink,0.7021,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,426,429,Dolichonyx oryzivorus,Bobolink,0.9613,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,432,435,Ammospiza nelsoni,Nelson's Sparrow,0.7708,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,438,441,Dolichonyx oryzivorus,Bobolink,0.9864,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,447,450,Dolichonyx oryzivorus,Bobolink,0.9597,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,465,468,Dolichonyx oryzivorus,Bobolink,0.525,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,468,471,Dolichonyx oryzivorus,Bobolink,0.948,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,489,492,Dolichonyx oryzivorus,Bobolink,0.9914,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,519,522,Dolichonyx oryzivorus,Bobolink,0.5685,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,546,549,Dolichonyx oryzivorus,Bobolink,0.9148,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,552,555,Dolichonyx oryzivorus,Bobolink,0.7157,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,564,567,Dolichonyx oryzivorus,Bobolink,0.8151,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,570,573,Dolichonyx oryzivorus,Bobolink,0.9873,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,579,582,Dolichonyx oryzivorus,Bobolink,0.7809,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,594,597,Dolichonyx oryzivorus,Bobolink,0.9935,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,597,600,Dolichonyx oryzivorus,Bobolink,0.7392,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,627,630,Dolichonyx oryzivorus,Bobolink,0.9543,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,675,678,Dolichonyx oryzivorus,Bobolink,0.9891,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,705,708,Dolichonyx oryzivorus,Bobolink,0.7494,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,714,717,Dolichonyx oryzivorus,Bobolink,0.7085,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,717,720,Dolichonyx oryzivorus,Bobolink,0.6062,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,732,735,Dolichonyx oryzivorus,Bobolink,0.6499,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,744,747,Dolichonyx oryzivorus,Bobolink,0.9837,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,762,765,Dolichonyx oryzivorus,Bobolink,0.7809,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,861,864,Dolichonyx oryzivorus,Bobolink,0.8732,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,897,900,Dolichonyx oryzivorus,Bobolink,0.6905,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,24,27,Dolichonyx oryzivorus,Bobolink,0.8053,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,27,30,Dolichonyx oryzivorus,Bobolink,0.9921,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,33,36,Dolichonyx oryzivorus,Bobolink,0.8445,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190703_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,108,111,Dolichonyx oryzivorus,Bobolink,0.8885,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,321,324,Dolichonyx oryzivorus,Bobolink,0.923,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,429,432,Dolichonyx oryzivorus,Bobolink,0.9315,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,441,444,Dolichonyx oryzivorus,Bobolink,0.8315,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,489,492,Dolichonyx oryzivorus,Bobolink,0.514,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,498,501,Dolichonyx oryzivorus,Bobolink,0.9516,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,531,534,Dolichonyx oryzivorus,Bobolink,0.6077,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,534,537,Dolichonyx oryzivorus,Bobolink,0.661,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,555,558,Dolichonyx oryzivorus,Bobolink,0.93,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,585,588,Dolichonyx oryzivorus,Bobolink,0.5698,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,624,627,Dolichonyx oryzivorus,Bobolink,0.8008,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,633,636,Dolichonyx oryzivorus,Bobolink,0.9725,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,636,639,Dolichonyx oryzivorus,Bobolink,0.5623,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,669,672,Dolichonyx oryzivorus,Bobolink,0.8438,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,783,786,Dolichonyx oryzivorus,Bobolink,0.525,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,831,834,Dolichonyx oryzivorus,Bobolink,0.9358,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,846,849,Dolichonyx oryzivorus,Bobolink,0.8295,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,849,852,Dolichonyx oryzivorus,Bobolink,0.9613,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,105,108,Dolichonyx oryzivorus,Bobolink,0.7403,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,204,207,Dolichonyx oryzivorus,Bobolink,0.8961,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,549,552,Dolichonyx oryzivorus,Bobolink,0.9781,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,645,648,Ammospiza nelsoni,Nelson's Sparrow,0.6092,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,651,654,Ammospiza nelsoni,Nelson's Sparrow,0.8678,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,666,669,Ammospiza nelsoni,Nelson's Sparrow,0.9798,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,672,675,Ammospiza nelsoni,Nelson's Sparrow,0.8888,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,699,702,Ammospiza nelsoni,Nelson's Sparrow,0.9598,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,708,711,Ammospiza nelsoni,Nelson's Sparrow,0.6717,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,717,720,Ammospiza nelsoni,Nelson's Sparrow,0.6125,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,723,726,Ammospiza nelsoni,Nelson's Sparrow,0.5841,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190704_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,456,459,Dolichonyx oryzivorus,Bobolink,0.5266,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190705_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,621,624,Dolichonyx oryzivorus,Bobolink,0.6173,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190705_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,633,636,Dolichonyx oryzivorus,Bobolink,0.6551,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190705_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,729,732,Dolichonyx oryzivorus,Bobolink,0.5947,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190705_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,765,768,Dolichonyx oryzivorus,Bobolink,0.8779,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190705_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,777,780,Dolichonyx oryzivorus,Bobolink,0.5362,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190705_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,480,483,Ammospiza nelsoni,Nelson's Sparrow,0.9079,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190705_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,501,504,Ammospiza nelsoni,Nelson's Sparrow,0.9438,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190705_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,645,648,Ammospiza nelsoni,Nelson's Sparrow,0.9939,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190705_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,711,714,Ammospiza nelsoni,Nelson's Sparrow,0.9279,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190705_211500.wav
+Tintamarre,NB34-8-9,14,NA,NA,339,342,Dolichonyx oryzivorus,Bobolink,0.8696,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190706_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,423,426,Ammospiza nelsoni,Nelson's Sparrow,0.7329,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190706_051500.wav
+Tintamarre,NB34-8-9,14,NA,NA,27,30,Ammospiza nelsoni,Nelson's Sparrow,0.8715,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190706_211400.wav
+Tintamarre,NB34-8-9,14,NA,NA,30,33,Ammospiza nelsoni,Nelson's Sparrow,0.743,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190706_211400.wav
+Tintamarre,NB34-8-9,14,NA,NA,39,42,Ammospiza nelsoni,Nelson's Sparrow,0.8008,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190706_211400.wav
+Tintamarre,NB34-8-9,14,NA,NA,45,48,Ammospiza nelsoni,Nelson's Sparrow,0.9919,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190706_211400.wav
+Tintamarre,NB34-8-9,14,NA,NA,51,54,Ammospiza nelsoni,Nelson's Sparrow,0.9827,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190706_211400.wav
+Tintamarre,NB34-8-9,14,NA,NA,462,465,Ammospiza nelsoni,Nelson's Sparrow,0.5404,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190706_211400.wav
+Tintamarre,NB34-8-9,14,NA,NA,0,3,Dolichonyx oryzivorus,Bobolink,0.7627,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,3,6,Dolichonyx oryzivorus,Bobolink,0.7902,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,21,24,Dolichonyx oryzivorus,Bobolink,0.9162,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,33,36,Dolichonyx oryzivorus,Bobolink,0.851,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,36,39,Dolichonyx oryzivorus,Bobolink,0.5718,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,69,72,Dolichonyx oryzivorus,Bobolink,0.7148,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,75,78,Ammospiza nelsoni,Nelson's Sparrow,0.8197,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,84,87,Dolichonyx oryzivorus,Bobolink,0.6517,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,93,96,Ammospiza nelsoni,Nelson's Sparrow,0.9144,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,99,102,Dolichonyx oryzivorus,Bobolink,0.9477,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,114,117,Ammospiza nelsoni,Nelson's Sparrow,0.7742,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,114,117,Dolichonyx oryzivorus,Bobolink,0.6542,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,117,120,Dolichonyx oryzivorus,Bobolink,0.7548,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,129,132,Dolichonyx oryzivorus,Bobolink,0.9511,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,138,141,Ammospiza nelsoni,Nelson's Sparrow,0.9474,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,144,147,Dolichonyx oryzivorus,Bobolink,0.9603,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,150,153,Ammospiza nelsoni,Nelson's Sparrow,0.896,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,156,159,Dolichonyx oryzivorus,Bobolink,0.5634,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,159,162,Dolichonyx oryzivorus,Bobolink,0.6945,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,177,180,Dolichonyx oryzivorus,Bobolink,0.9432,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,180,183,Dolichonyx oryzivorus,Bobolink,0.7897,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,216,219,Ammospiza nelsoni,Nelson's Sparrow,0.9651,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,219,222,Ammospiza nelsoni,Nelson's Sparrow,0.8952,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,270,273,Dolichonyx oryzivorus,Bobolink,0.5013,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,276,279,Dolichonyx oryzivorus,Bobolink,0.55,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,297,300,Dolichonyx oryzivorus,Bobolink,0.8707,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,309,312,Dolichonyx oryzivorus,Bobolink,0.8708,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,318,321,Ammospiza nelsoni,Nelson's Sparrow,0.8954,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,339,342,Dolichonyx oryzivorus,Bobolink,0.562,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,354,357,Ammospiza nelsoni,Nelson's Sparrow,0.8985,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,366,369,Dolichonyx oryzivorus,Bobolink,0.9078,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,375,378,Dolichonyx oryzivorus,Bobolink,0.6427,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,438,441,Dolichonyx oryzivorus,Bobolink,0.6096,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,438,441,Ammospiza nelsoni,Nelson's Sparrow,0.5656,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,564,567,Ammospiza nelsoni,Nelson's Sparrow,0.6554,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,585,588,Ammospiza nelsoni,Nelson's Sparrow,0.7682,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,639,642,Ammospiza nelsoni,Nelson's Sparrow,0.7397,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,642,645,Dolichonyx oryzivorus,Bobolink,0.5845,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,651,654,Dolichonyx oryzivorus,Bobolink,0.7422,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,729,732,Ammospiza nelsoni,Nelson's Sparrow,0.9662,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,732,735,Ammospiza nelsoni,Nelson's Sparrow,0.9911,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,741,744,Ammospiza nelsoni,Nelson's Sparrow,0.5521,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,744,747,Ammospiza nelsoni,Nelson's Sparrow,0.6391,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,750,753,Ammospiza nelsoni,Nelson's Sparrow,0.9246,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,756,759,Ammospiza nelsoni,Nelson's Sparrow,0.768,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,762,765,Ammospiza nelsoni,Nelson's Sparrow,0.753,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,771,774,Ammospiza nelsoni,Nelson's Sparrow,0.9868,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,777,780,Ammospiza nelsoni,Nelson's Sparrow,0.7652,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,783,786,Ammospiza nelsoni,Nelson's Sparrow,0.8648,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,789,792,Ammospiza nelsoni,Nelson's Sparrow,0.841,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,798,801,Ammospiza nelsoni,Nelson's Sparrow,0.9254,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,804,807,Ammospiza nelsoni,Nelson's Sparrow,0.8747,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,810,813,Ammospiza nelsoni,Nelson's Sparrow,0.9234,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,825,828,Ammospiza nelsoni,Nelson's Sparrow,0.8893,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,834,837,Ammospiza nelsoni,Nelson's Sparrow,0.9802,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,849,852,Ammospiza nelsoni,Nelson's Sparrow,0.9496,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,873,876,Ammospiza nelsoni,Nelson's Sparrow,0.9391,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,876,879,Dolichonyx oryzivorus,Bobolink,0.5935,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,882,885,Ammospiza nelsoni,Nelson's Sparrow,0.9269,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,891,894,Ammospiza nelsoni,Nelson's Sparrow,0.9519,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,108,111,Ammospiza nelsoni,Nelson's Sparrow,0.8921,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190707_211400.wav
+Tintamarre,NB34-8-9,14,NA,NA,57,60,Ammospiza nelsoni,Nelson's Sparrow,0.7498,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,168,171,Dolichonyx oryzivorus,Bobolink,0.6232,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,177,180,Dolichonyx oryzivorus,Bobolink,0.9754,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,195,198,Dolichonyx oryzivorus,Bobolink,0.7422,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,204,207,Dolichonyx oryzivorus,Bobolink,0.9784,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,207,210,Dolichonyx oryzivorus,Bobolink,0.9753,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,210,213,Dolichonyx oryzivorus,Bobolink,0.7976,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,360,363,Dolichonyx oryzivorus,Bobolink,0.5258,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,405,408,Dolichonyx oryzivorus,Bobolink,0.7018,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,432,435,Dolichonyx oryzivorus,Bobolink,0.8746,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,441,444,Dolichonyx oryzivorus,Bobolink,0.8249,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,456,459,Dolichonyx oryzivorus,Bobolink,0.9733,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,459,462,Dolichonyx oryzivorus,Bobolink,0.8178,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,507,510,Ammospiza nelsoni,Nelson's Sparrow,0.861,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,519,522,Dolichonyx oryzivorus,Bobolink,0.5373,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,537,540,Ammospiza nelsoni,Nelson's Sparrow,0.9936,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,561,564,Ammospiza nelsoni,Nelson's Sparrow,0.9536,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,573,576,Ammospiza nelsoni,Nelson's Sparrow,0.9724,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,576,579,Dolichonyx oryzivorus,Bobolink,0.5135,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,585,588,Dolichonyx oryzivorus,Bobolink,0.6314,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,588,591,Dolichonyx oryzivorus,Bobolink,0.9639,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,600,603,Ammospiza nelsoni,Nelson's Sparrow,0.999,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,603,606,Dolichonyx oryzivorus,Bobolink,0.9263,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,612,615,Dolichonyx oryzivorus,Bobolink,0.6927,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,630,633,Dolichonyx oryzivorus,Bobolink,0.6719,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,645,648,Dolichonyx oryzivorus,Bobolink,0.9933,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,657,660,Dolichonyx oryzivorus,Bobolink,0.9713,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,714,717,Dolichonyx oryzivorus,Bobolink,0.9528,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,747,750,Dolichonyx oryzivorus,Bobolink,0.8775,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,768,771,Dolichonyx oryzivorus,Bobolink,0.9752,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,792,795,Dolichonyx oryzivorus,Bobolink,0.9801,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,816,819,Dolichonyx oryzivorus,Bobolink,0.912,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,837,840,Dolichonyx oryzivorus,Bobolink,0.9216,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,840,843,Dolichonyx oryzivorus,Bobolink,0.9125,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,855,858,Dolichonyx oryzivorus,Bobolink,0.7665,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,858,861,Dolichonyx oryzivorus,Bobolink,0.9335,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,894,897,Dolichonyx oryzivorus,Bobolink,0.8461,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190708_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,3,6,Ammospiza nelsoni,Nelson's Sparrow,0.8838,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190709_051400.wav
+Tintamarre,NB34-8-9,14,NA,NA,453,456,Ammospiza nelsoni,Nelson's Sparrow,0.674,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190710_051300.wav
+Tintamarre,NB34-8-9,14,NA,NA,627,630,Ammospiza nelsoni,Nelson's Sparrow,0.5483,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190710_051300.wav
+Tintamarre,NB34-8-9,14,NA,NA,819,822,Ammospiza nelsoni,Nelson's Sparrow,0.674,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190710_051300.wav
+Tintamarre,NB34-8-9,14,NA,NA,780,783,Ammospiza nelsoni,Nelson's Sparrow,0.8094,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190710_211300.wav
+Tintamarre,NB34-8-9,14,NA,NA,45,48,Coturnicops noveboracensis,Yellow Rail,0.7329,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190711_211200.wav
+Tintamarre,NB34-8-9,14,NA,NA,570,573,Ammospiza nelsoni,Nelson's Sparrow,0.8654,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190711_211200.wav
+Tintamarre,NB34-8-9,14,NA,NA,216,219,Botaurus lentiginosus,American Bittern,0.5857,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_051200.wav
+Tintamarre,NB34-8-9,14,NA,NA,231,234,Ammospiza nelsoni,Nelson's Sparrow,0.9762,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,237,240,Ammospiza nelsoni,Nelson's Sparrow,0.9821,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,246,249,Ammospiza nelsoni,Nelson's Sparrow,0.9959,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,258,261,Ammospiza nelsoni,Nelson's Sparrow,0.9104,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,273,276,Ammospiza nelsoni,Nelson's Sparrow,0.8764,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,285,288,Ammospiza nelsoni,Nelson's Sparrow,0.9884,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,300,303,Ammospiza nelsoni,Nelson's Sparrow,0.9964,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,309,312,Ammospiza nelsoni,Nelson's Sparrow,0.9025,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,324,327,Ammospiza nelsoni,Nelson's Sparrow,0.9455,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,348,351,Ammospiza nelsoni,Nelson's Sparrow,0.997,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,363,366,Ammospiza nelsoni,Nelson's Sparrow,0.9887,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,375,378,Ammospiza nelsoni,Nelson's Sparrow,0.9837,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,387,390,Ammospiza nelsoni,Nelson's Sparrow,0.9534,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,399,402,Ammospiza nelsoni,Nelson's Sparrow,0.9109,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,411,414,Ammospiza nelsoni,Nelson's Sparrow,0.9996,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,453,456,Ammospiza nelsoni,Nelson's Sparrow,0.9926,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190712_211100.wav
+Tintamarre,NB34-8-9,14,NA,NA,678,681,Ammospiza nelsoni,Nelson's Sparrow,0.9959,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190721_210500.wav
+Tintamarre,NB34-8-9,14,NA,NA,891,894,Ammospiza nelsoni,Nelson's Sparrow,0.8066,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190721_210500.wav
+Tintamarre,NB34-8-9,14,NA,NA,459,462,Ammospiza nelsoni,Nelson's Sparrow,0.963,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190722_210400.wav
+Tintamarre,NB34-8-9,14,NA,NA,162,165,Ammospiza nelsoni,Nelson's Sparrow,0.8584,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190725_210100.wav
+Tintamarre,NB34-8-9,14,NA,NA,165,168,Ammospiza nelsoni,Nelson's Sparrow,0.6121,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190725_210100.wav
+Tintamarre,NB34-8-9,14,NA,NA,357,360,Ammospiza nelsoni,Nelson's Sparrow,0.6144,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190727_205900.wav
+Tintamarre,NB34-8-9,14,NA,NA,660,663,Chaetura pelagica,Chimney Swift,0.5864,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190727_205900.wav
+Tintamarre,NB34-8-9,14,NA,NA,75,78,Ammospiza nelsoni,Nelson's Sparrow,0.5519,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190730_205500.wav
+Tintamarre,NB34-8-9,14,NA,NA,78,81,Ammospiza nelsoni,Nelson's Sparrow,0.9186,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190730_205500.wav
+Tintamarre,NB34-8-9,14,NA,NA,87,90,Ammospiza nelsoni,Nelson's Sparrow,0.8705,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190730_205500.wav
+Tintamarre,NB34-8-9,14,NA,NA,111,114,Ammospiza nelsoni,Nelson's Sparrow,0.9703,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190730_205500.wav
+Tintamarre,NB34-8-9,14,NA,NA,117,120,Ammospiza nelsoni,Nelson's Sparrow,0.6962,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190730_205500.wav
+Tintamarre,NB34-8-9,14,NA,NA,123,126,Ammospiza nelsoni,Nelson's Sparrow,0.9488,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190730_205500.wav
+Tintamarre,NB34-8-9,14,NA,NA,144,147,Ammospiza nelsoni,Nelson's Sparrow,0.9853,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190730_205500.wav
+Tintamarre,NB34-8-9,14,NA,NA,180,183,Ammospiza nelsoni,Nelson's Sparrow,0.9494,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190730_205500.wav
+Tintamarre,NB34-8-9,14,NA,NA,186,189,Ammospiza nelsoni,Nelson's Sparrow,0.7954,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190730_205500.wav
+Tintamarre,NB34-8-9,14,NA,NA,192,195,Ammospiza nelsoni,Nelson's Sparrow,0.5821,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190730_205500.wav
+Tintamarre,NB34-8-9,14,NA,NA,249,252,Ammospiza nelsoni,Nelson's Sparrow,0.7872,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190730_205500.wav
+Tintamarre,NB34-8-9,14,NA,NA,477,480,Ammospiza nelsoni,Nelson's Sparrow,0.7109,E:\Birds Canada east\focal species analysis\Tintamarre_NB34-8-9_14\SM-14_20190730_205500.wav

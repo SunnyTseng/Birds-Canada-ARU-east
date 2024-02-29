@@ -1,0 +1,657 @@
+site,location,aru_id,date,hour,start,end,scientific_name,common_name,confidence,filepath
+Ward,NB36-03,13,20190612,20,6,9,Ixobrychus exilis,Least Bittern,0.9995,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,12,15,Ixobrychus exilis,Least Bittern,0.9904,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,24,27,Ixobrychus exilis,Least Bittern,0.9099,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,27,30,Botaurus lentiginosus,American Bittern,0.9887,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,48,51,Ixobrychus exilis,Least Bittern,0.9239,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,54,57,Ixobrychus exilis,Least Bittern,0.9951,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,63,66,Ixobrychus exilis,Least Bittern,0.7198,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,90,93,Botaurus lentiginosus,American Bittern,0.9198,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,93,96,Botaurus lentiginosus,American Bittern,0.9885,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,156,159,Botaurus lentiginosus,American Bittern,0.6783,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,159,162,Botaurus lentiginosus,American Bittern,0.995,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,162,165,Botaurus lentiginosus,American Bittern,0.9964,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,240,243,Botaurus lentiginosus,American Bittern,0.9893,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,243,246,Botaurus lentiginosus,American Bittern,0.9865,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,360,363,Botaurus lentiginosus,American Bittern,0.954,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,363,366,Botaurus lentiginosus,American Bittern,0.9952,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,408,411,Botaurus lentiginosus,American Bittern,0.7657,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,417,420,Botaurus lentiginosus,American Bittern,0.9896,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,420,423,Botaurus lentiginosus,American Bittern,0.9791,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,477,480,Ixobrychus exilis,Least Bittern,0.6227,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,561,564,Botaurus lentiginosus,American Bittern,0.9386,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,564,567,Botaurus lentiginosus,American Bittern,0.9809,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,603,606,Ixobrychus exilis,Least Bittern,0.7874,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,630,633,Ixobrychus exilis,Least Bittern,0.9359,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,657,660,Rallus limicola,Virginia Rail,0.9827,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,675,678,Botaurus lentiginosus,American Bittern,0.9955,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,678,681,Botaurus lentiginosus,American Bittern,0.9902,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,693,696,Ixobrychus exilis,Least Bittern,0.9863,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,705,708,Ixobrychus exilis,Least Bittern,0.9893,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,723,726,Ixobrychus exilis,Least Bittern,0.9528,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,735,738,Ixobrychus exilis,Least Bittern,0.5775,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,738,741,Botaurus lentiginosus,American Bittern,0.9976,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,741,744,Botaurus lentiginosus,American Bittern,0.9971,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,813,816,Botaurus lentiginosus,American Bittern,0.9902,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,816,819,Botaurus lentiginosus,American Bittern,0.9939,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_200000.wav
+Ward,NB36-03,13,20190612,20,42,45,Ixobrychus exilis,Least Bittern,0.8616,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,231,234,Botaurus lentiginosus,American Bittern,0.9949,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,321,324,Botaurus lentiginosus,American Bittern,0.9983,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,324,327,Botaurus lentiginosus,American Bittern,0.9909,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,459,462,Botaurus lentiginosus,American Bittern,0.5341,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,462,465,Botaurus lentiginosus,American Bittern,0.9987,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,489,492,Ixobrychus exilis,Least Bittern,0.9991,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,570,573,Ixobrychus exilis,Least Bittern,0.822,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,579,582,Ixobrychus exilis,Least Bittern,0.7528,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,588,591,Ixobrychus exilis,Least Bittern,0.9902,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,633,636,Botaurus lentiginosus,American Bittern,0.7572,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,636,639,Botaurus lentiginosus,American Bittern,0.9067,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,711,714,Botaurus lentiginosus,American Bittern,0.9562,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,714,717,Botaurus lentiginosus,American Bittern,0.994,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,780,783,Botaurus lentiginosus,American Bittern,0.9954,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,20,864,867,Rallus limicola,Virginia Rail,0.6487,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_203000.wav
+Ward,NB36-03,13,20190612,21,96,99,Botaurus lentiginosus,American Bittern,0.9707,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_210000.wav
+Ward,NB36-03,13,20190612,21,99,102,Botaurus lentiginosus,American Bittern,0.9922,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_210000.wav
+Ward,NB36-03,13,20190612,21,525,528,Botaurus lentiginosus,American Bittern,0.9887,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_210000.wav
+Ward,NB36-03,13,20190612,21,528,531,Botaurus lentiginosus,American Bittern,0.9933,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_210000.wav
+Ward,NB36-03,13,20190612,21,696,699,Botaurus lentiginosus,American Bittern,0.5613,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_210000.wav
+Ward,NB36-03,13,20190612,21,699,702,Botaurus lentiginosus,American Bittern,0.9914,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_210000.wav
+Ward,NB36-03,13,20190612,21,702,705,Botaurus lentiginosus,American Bittern,0.9971,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_210000.wav
+Ward,NB36-03,13,20190612,21,858,861,Ixobrychus exilis,Least Bittern,0.7889,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190612_210000.wav
+Ward,NB36-03,13,20190613,01,6,9,Botaurus lentiginosus,American Bittern,0.5799,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_010526.wav
+Ward,NB36-03,13,20190613,03,141,144,Botaurus lentiginosus,American Bittern,0.5124,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_030526.wav
+Ward,NB36-03,13,20190613,03,171,174,Botaurus lentiginosus,American Bittern,0.5163,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_030526.wav
+Ward,NB36-03,13,20190613,03,189,192,Botaurus lentiginosus,American Bittern,0.8622,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_030526.wav
+Ward,NB36-03,13,20190613,03,225,228,Botaurus lentiginosus,American Bittern,0.5902,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_030526.wav
+Ward,NB36-03,13,20190613,04,51,54,Ixobrychus exilis,Least Bittern,0.5426,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_040524.wav
+Ward,NB36-03,13,20190613,04,0,3,Ixobrychus exilis,Least Bittern,0.8442,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,18,21,Ixobrychus exilis,Least Bittern,0.8475,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,24,27,Botaurus lentiginosus,American Bittern,0.996,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,81,84,Botaurus lentiginosus,American Bittern,0.876,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,84,87,Botaurus lentiginosus,American Bittern,0.8744,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,87,90,Botaurus lentiginosus,American Bittern,0.9909,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,150,153,Botaurus lentiginosus,American Bittern,0.9695,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,153,156,Botaurus lentiginosus,American Bittern,0.7003,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,156,159,Botaurus lentiginosus,American Bittern,0.7556,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,213,216,Botaurus lentiginosus,American Bittern,0.9029,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,216,219,Botaurus lentiginosus,American Bittern,0.9927,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,264,267,Botaurus lentiginosus,American Bittern,0.7643,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,267,270,Botaurus lentiginosus,American Bittern,0.8698,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,372,375,Botaurus lentiginosus,American Bittern,0.6703,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,375,378,Botaurus lentiginosus,American Bittern,0.9758,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,378,381,Botaurus lentiginosus,American Bittern,0.7467,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,435,438,Botaurus lentiginosus,American Bittern,0.8143,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,438,441,Botaurus lentiginosus,American Bittern,0.8953,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,441,444,Botaurus lentiginosus,American Bittern,0.9588,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,474,477,Botaurus lentiginosus,American Bittern,0.61,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,477,480,Botaurus lentiginosus,American Bittern,0.9567,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,480,483,Botaurus lentiginosus,American Bittern,0.9293,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,534,537,Botaurus lentiginosus,American Bittern,0.979,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,537,540,Botaurus lentiginosus,American Bittern,0.866,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,04,540,543,Botaurus lentiginosus,American Bittern,0.7626,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_043526.wav
+Ward,NB36-03,13,20190613,05,42,45,Botaurus lentiginosus,American Bittern,0.876,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,45,48,Botaurus lentiginosus,American Bittern,0.7253,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,147,150,Botaurus lentiginosus,American Bittern,0.8295,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,228,231,Botaurus lentiginosus,American Bittern,0.9485,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,231,234,Botaurus lentiginosus,American Bittern,0.9844,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,234,237,Botaurus lentiginosus,American Bittern,0.836,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,309,312,Botaurus lentiginosus,American Bittern,0.8951,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,312,315,Botaurus lentiginosus,American Bittern,0.9506,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,318,321,Ixobrychus exilis,Least Bittern,0.5678,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,354,357,Ixobrychus exilis,Least Bittern,0.8064,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,366,369,Botaurus lentiginosus,American Bittern,0.9733,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,369,372,Botaurus lentiginosus,American Bittern,0.9523,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,372,375,Ixobrychus exilis,Least Bittern,0.6827,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,411,414,Ixobrychus exilis,Least Bittern,0.5291,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,414,417,Botaurus lentiginosus,American Bittern,0.9692,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,417,420,Botaurus lentiginosus,American Bittern,0.7045,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,420,423,Botaurus lentiginosus,American Bittern,0.9586,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,423,426,Botaurus lentiginosus,American Bittern,0.6686,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,474,477,Botaurus lentiginosus,American Bittern,0.6239,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,477,480,Botaurus lentiginosus,American Bittern,0.952,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,480,483,Botaurus lentiginosus,American Bittern,0.8387,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_050524.wav
+Ward,NB36-03,13,20190613,05,0,3,Ixobrychus exilis,Least Bittern,0.9918,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,24,27,Ixobrychus exilis,Least Bittern,0.9803,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,42,45,Ixobrychus exilis,Least Bittern,0.9772,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,48,51,Ixobrychus exilis,Least Bittern,0.7157,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,54,57,Ixobrychus exilis,Least Bittern,0.9834,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,57,60,Botaurus lentiginosus,American Bittern,0.8102,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,60,63,Botaurus lentiginosus,American Bittern,0.7592,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,63,66,Botaurus lentiginosus,American Bittern,0.5845,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,66,69,Ixobrychus exilis,Least Bittern,0.8359,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,90,93,Ixobrychus exilis,Least Bittern,0.9749,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,114,117,Ixobrychus exilis,Least Bittern,0.6791,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,141,144,Botaurus lentiginosus,American Bittern,0.7751,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,144,147,Botaurus lentiginosus,American Bittern,0.9577,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,213,216,Botaurus lentiginosus,American Bittern,0.6761,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,216,219,Botaurus lentiginosus,American Bittern,0.7969,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,219,222,Botaurus lentiginosus,American Bittern,0.629,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,279,282,Botaurus lentiginosus,American Bittern,0.7657,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,282,285,Botaurus lentiginosus,American Bittern,0.7726,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,285,288,Botaurus lentiginosus,American Bittern,0.8102,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,360,363,Botaurus lentiginosus,American Bittern,0.8988,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,363,366,Botaurus lentiginosus,American Bittern,0.8802,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,432,435,Botaurus lentiginosus,American Bittern,0.8955,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,435,438,Botaurus lentiginosus,American Bittern,0.8164,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,438,441,Botaurus lentiginosus,American Bittern,0.6386,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,504,507,Botaurus lentiginosus,American Bittern,0.7705,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,507,510,Botaurus lentiginosus,American Bittern,0.8757,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,510,513,Botaurus lentiginosus,American Bittern,0.9077,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,555,558,Botaurus lentiginosus,American Bittern,0.6577,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,558,561,Botaurus lentiginosus,American Bittern,0.9426,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,05,561,564,Botaurus lentiginosus,American Bittern,0.9067,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_053525.wav
+Ward,NB36-03,13,20190613,06,216,219,Botaurus lentiginosus,American Bittern,0.8284,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_060524.wav
+Ward,NB36-03,13,20190613,06,288,291,Botaurus lentiginosus,American Bittern,0.8544,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_060524.wav
+Ward,NB36-03,13,20190613,06,291,294,Botaurus lentiginosus,American Bittern,0.9771,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_060524.wav
+Ward,NB36-03,13,20190613,06,477,480,Botaurus lentiginosus,American Bittern,0.9057,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_060524.wav
+Ward,NB36-03,13,20190613,06,480,483,Botaurus lentiginosus,American Bittern,0.7059,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_060524.wav
+Ward,NB36-03,13,20190613,06,90,93,Botaurus lentiginosus,American Bittern,0.9741,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_063524.wav
+Ward,NB36-03,13,20190613,06,177,180,Botaurus lentiginosus,American Bittern,0.9923,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_063524.wav
+Ward,NB36-03,13,20190613,06,180,183,Botaurus lentiginosus,American Bittern,0.9844,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_063524.wav
+Ward,NB36-03,13,20190613,06,240,243,Rallus limicola,Virginia Rail,0.8142,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_063524.wav
+Ward,NB36-03,13,20190613,06,243,246,Rallus limicola,Virginia Rail,0.5715,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_063524.wav
+Ward,NB36-03,13,20190613,06,396,399,Botaurus lentiginosus,American Bittern,0.6591,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_063524.wav
+Ward,NB36-03,13,20190613,06,399,402,Botaurus lentiginosus,American Bittern,0.99,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_063524.wav
+Ward,NB36-03,13,20190613,06,402,405,Botaurus lentiginosus,American Bittern,0.9949,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_063524.wav
+Ward,NB36-03,13,20190613,07,132,135,Ixobrychus exilis,Least Bittern,0.8981,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,141,144,Ixobrychus exilis,Least Bittern,0.9518,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,153,156,Ixobrychus exilis,Least Bittern,0.935,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,165,168,Ixobrychus exilis,Least Bittern,0.9336,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,246,249,Ixobrychus exilis,Least Bittern,0.9341,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,267,270,Ixobrychus exilis,Least Bittern,0.8884,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,270,273,Ixobrychus exilis,Least Bittern,0.8466,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,279,282,Ixobrychus exilis,Least Bittern,0.7975,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,285,288,Ixobrychus exilis,Least Bittern,0.6932,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,294,297,Ixobrychus exilis,Least Bittern,0.9509,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,303,306,Ixobrychus exilis,Least Bittern,0.8923,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,312,315,Ixobrychus exilis,Least Bittern,0.8572,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,318,321,Ixobrychus exilis,Least Bittern,0.9154,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,330,333,Ixobrychus exilis,Least Bittern,0.7788,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,339,342,Ixobrychus exilis,Least Bittern,0.8146,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,354,357,Ixobrychus exilis,Least Bittern,0.8956,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,366,369,Ixobrychus exilis,Least Bittern,0.6255,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,378,381,Ixobrychus exilis,Least Bittern,0.7372,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,387,390,Ixobrychus exilis,Least Bittern,0.9759,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,390,393,Ixobrychus exilis,Least Bittern,0.653,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,405,408,Ixobrychus exilis,Least Bittern,0.8552,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,555,558,Chlidonias niger,Black Tern,0.9728,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,558,561,Ixobrychus exilis,Least Bittern,0.9601,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,558,561,Chlidonias niger,Black Tern,0.5937,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,561,564,Chlidonias niger,Black Tern,0.5883,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,564,567,Ixobrychus exilis,Least Bittern,0.9289,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,567,570,Chlidonias niger,Black Tern,0.9508,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,570,573,Ixobrychus exilis,Least Bittern,0.9785,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_070526.wav
+Ward,NB36-03,13,20190613,07,3,6,Ixobrychus exilis,Least Bittern,0.8973,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,12,15,Ixobrychus exilis,Least Bittern,0.8753,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,18,21,Ixobrychus exilis,Least Bittern,0.9951,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,21,24,Ixobrychus exilis,Least Bittern,0.9352,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,30,33,Ixobrychus exilis,Least Bittern,0.9865,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,36,39,Ixobrychus exilis,Least Bittern,0.8774,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,51,54,Ixobrychus exilis,Least Bittern,0.9757,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,96,99,Ixobrychus exilis,Least Bittern,0.9922,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,246,249,Ixobrychus exilis,Least Bittern,0.9847,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,255,258,Ixobrychus exilis,Least Bittern,0.9852,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,273,276,Ixobrychus exilis,Least Bittern,0.9173,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,288,291,Ixobrychus exilis,Least Bittern,0.9307,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,300,303,Ixobrychus exilis,Least Bittern,0.9794,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,306,309,Ixobrychus exilis,Least Bittern,0.919,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,07,318,321,Ixobrychus exilis,Least Bittern,0.89,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_073524.wav
+Ward,NB36-03,13,20190613,20,801,804,Botaurus lentiginosus,American Bittern,0.7498,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_200000.wav
+Ward,NB36-03,13,20190613,21,888,891,Botaurus lentiginosus,American Bittern,0.5411,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_210000.wav
+Ward,NB36-03,13,20190613,21,258,261,Botaurus lentiginosus,American Bittern,0.7446,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190613_213000.wav
+Ward,NB36-03,13,20190614,05,153,156,Botaurus lentiginosus,American Bittern,0.8069,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_050524.wav
+Ward,NB36-03,13,20190614,05,549,552,Porzana carolina,Sora,0.5928,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_050524.wav
+Ward,NB36-03,13,20190614,06,57,60,Porzana carolina,Sora,0.8988,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_060525.wav
+Ward,NB36-03,13,20190614,07,51,54,Porzana carolina,Sora,0.8217,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_070525.wav
+Ward,NB36-03,13,20190614,20,426,429,Botaurus lentiginosus,American Bittern,0.6016,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_200000.wav
+Ward,NB36-03,13,20190614,20,642,645,Botaurus lentiginosus,American Bittern,0.914,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_200000.wav
+Ward,NB36-03,13,20190614,20,645,648,Botaurus lentiginosus,American Bittern,0.7327,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_200000.wav
+Ward,NB36-03,13,20190614,20,711,714,Botaurus lentiginosus,American Bittern,0.8558,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_200000.wav
+Ward,NB36-03,13,20190614,20,795,798,Botaurus lentiginosus,American Bittern,0.9383,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_200000.wav
+Ward,NB36-03,13,20190614,20,849,852,Botaurus lentiginosus,American Bittern,0.9181,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_200000.wav
+Ward,NB36-03,13,20190614,20,852,855,Botaurus lentiginosus,American Bittern,0.7565,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_200000.wav
+Ward,NB36-03,13,20190614,20,132,135,Botaurus lentiginosus,American Bittern,0.6919,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_203000.wav
+Ward,NB36-03,13,20190614,20,324,327,Botaurus lentiginosus,American Bittern,0.7553,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_203000.wav
+Ward,NB36-03,13,20190614,20,411,414,Botaurus lentiginosus,American Bittern,0.6662,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_203000.wav
+Ward,NB36-03,13,20190614,20,414,417,Botaurus lentiginosus,American Bittern,0.8697,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_203000.wav
+Ward,NB36-03,13,20190614,20,516,519,Botaurus lentiginosus,American Bittern,0.5621,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_203000.wav
+Ward,NB36-03,13,20190614,20,519,522,Botaurus lentiginosus,American Bittern,0.9116,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_203000.wav
+Ward,NB36-03,13,20190614,20,660,663,Botaurus lentiginosus,American Bittern,0.5481,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_203000.wav
+Ward,NB36-03,13,20190614,20,780,783,Botaurus lentiginosus,American Bittern,0.9739,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_203000.wav
+Ward,NB36-03,13,20190614,20,783,786,Botaurus lentiginosus,American Bittern,0.9364,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_203000.wav
+Ward,NB36-03,13,20190614,20,852,855,Botaurus lentiginosus,American Bittern,0.821,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_203000.wav
+Ward,NB36-03,13,20190614,20,855,858,Botaurus lentiginosus,American Bittern,0.8522,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_203000.wav
+Ward,NB36-03,13,20190614,21,93,96,Botaurus lentiginosus,American Bittern,0.8413,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,96,99,Botaurus lentiginosus,American Bittern,0.9976,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,99,102,Botaurus lentiginosus,American Bittern,0.9847,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,132,135,Botaurus lentiginosus,American Bittern,0.9336,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,135,138,Botaurus lentiginosus,American Bittern,0.7262,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,138,141,Botaurus lentiginosus,American Bittern,0.9984,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,141,144,Botaurus lentiginosus,American Bittern,0.9995,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,201,204,Botaurus lentiginosus,American Bittern,0.5304,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,204,207,Botaurus lentiginosus,American Bittern,0.9929,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,207,210,Botaurus lentiginosus,American Bittern,0.9957,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,276,279,Botaurus lentiginosus,American Bittern,0.9974,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,279,282,Botaurus lentiginosus,American Bittern,0.9994,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,345,348,Botaurus lentiginosus,American Bittern,0.9894,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,417,420,Botaurus lentiginosus,American Bittern,0.963,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,420,423,Botaurus lentiginosus,American Bittern,0.9934,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,447,450,Botaurus lentiginosus,American Bittern,0.5026,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,504,507,Botaurus lentiginosus,American Bittern,0.983,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,507,510,Botaurus lentiginosus,American Bittern,0.9883,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,570,573,Botaurus lentiginosus,American Bittern,0.9,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,573,576,Botaurus lentiginosus,American Bittern,0.9597,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,600,603,Botaurus lentiginosus,American Bittern,0.6333,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,657,660,Botaurus lentiginosus,American Bittern,0.9979,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,660,663,Botaurus lentiginosus,American Bittern,0.9816,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,723,726,Botaurus lentiginosus,American Bittern,0.9355,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,726,729,Botaurus lentiginosus,American Bittern,0.9941,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,783,786,Botaurus lentiginosus,American Bittern,0.9987,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,786,789,Botaurus lentiginosus,American Bittern,0.9963,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,873,876,Botaurus lentiginosus,American Bittern,0.9966,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,876,879,Botaurus lentiginosus,American Bittern,0.9809,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,879,882,Botaurus lentiginosus,American Bittern,0.9073,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_210000.wav
+Ward,NB36-03,13,20190614,21,198,201,Botaurus lentiginosus,American Bittern,0.995,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_213000.wav
+Ward,NB36-03,13,20190614,21,201,204,Botaurus lentiginosus,American Bittern,0.9994,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190614_213000.wav
+Ward,NB36-03,13,20190615,04,537,540,Botaurus lentiginosus,American Bittern,0.5376,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_043525.wav
+Ward,NB36-03,13,20190615,05,18,21,Botaurus lentiginosus,American Bittern,0.7937,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,21,24,Botaurus lentiginosus,American Bittern,0.9248,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,90,93,Botaurus lentiginosus,American Bittern,0.9578,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,93,96,Botaurus lentiginosus,American Bittern,0.8649,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,147,150,Botaurus lentiginosus,American Bittern,0.9414,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,150,153,Botaurus lentiginosus,American Bittern,0.985,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,153,156,Botaurus lentiginosus,American Bittern,0.8739,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,189,192,Botaurus lentiginosus,American Bittern,0.5793,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,192,195,Botaurus lentiginosus,American Bittern,0.5544,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,195,198,Botaurus lentiginosus,American Bittern,0.7699,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,234,237,Botaurus lentiginosus,American Bittern,0.854,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,237,240,Botaurus lentiginosus,American Bittern,0.5312,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,303,306,Botaurus lentiginosus,American Bittern,0.9252,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,306,309,Botaurus lentiginosus,American Bittern,0.8254,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,369,372,Botaurus lentiginosus,American Bittern,0.97,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,372,375,Botaurus lentiginosus,American Bittern,0.735,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,375,378,Botaurus lentiginosus,American Bittern,0.6801,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,444,447,Botaurus lentiginosus,American Bittern,0.5529,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,447,450,Botaurus lentiginosus,American Bittern,0.9254,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,450,453,Botaurus lentiginosus,American Bittern,0.9284,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,522,525,Botaurus lentiginosus,American Bittern,0.7434,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,525,528,Botaurus lentiginosus,American Bittern,0.9212,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,528,531,Botaurus lentiginosus,American Bittern,0.6438,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_050526.wav
+Ward,NB36-03,13,20190615,05,3,6,Botaurus lentiginosus,American Bittern,0.8233,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_053525.wav
+Ward,NB36-03,13,20190615,05,6,9,Botaurus lentiginosus,American Bittern,0.7281,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_053525.wav
+Ward,NB36-03,13,20190615,05,78,81,Botaurus lentiginosus,American Bittern,0.7997,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_053525.wav
+Ward,NB36-03,13,20190615,05,204,207,Botaurus lentiginosus,American Bittern,0.785,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_053525.wav
+Ward,NB36-03,13,20190615,05,297,300,Botaurus lentiginosus,American Bittern,0.8487,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_053525.wav
+Ward,NB36-03,13,20190615,05,390,393,Botaurus lentiginosus,American Bittern,0.7225,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_053525.wav
+Ward,NB36-03,13,20190615,05,393,396,Botaurus lentiginosus,American Bittern,0.8048,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_053525.wav
+Ward,NB36-03,13,20190615,05,432,435,Botaurus lentiginosus,American Bittern,0.5713,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_053525.wav
+Ward,NB36-03,13,20190615,05,435,438,Botaurus lentiginosus,American Bittern,0.9937,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_053525.wav
+Ward,NB36-03,13,20190615,05,552,555,Botaurus lentiginosus,American Bittern,0.9908,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_053525.wav
+Ward,NB36-03,13,20190615,05,555,558,Botaurus lentiginosus,American Bittern,0.7609,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_053525.wav
+Ward,NB36-03,13,20190615,06,6,9,Botaurus lentiginosus,American Bittern,0.9245,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,9,12,Botaurus lentiginosus,American Bittern,0.99,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,102,105,Botaurus lentiginosus,American Bittern,0.656,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,105,108,Botaurus lentiginosus,American Bittern,0.9795,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,234,237,Botaurus lentiginosus,American Bittern,0.9517,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,237,240,Botaurus lentiginosus,American Bittern,0.8445,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,303,306,Botaurus lentiginosus,American Bittern,0.8739,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,306,309,Botaurus lentiginosus,American Bittern,0.9961,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,354,357,Botaurus lentiginosus,American Bittern,0.9533,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,357,360,Botaurus lentiginosus,American Bittern,0.9946,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,417,420,Botaurus lentiginosus,American Bittern,0.522,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,420,423,Botaurus lentiginosus,American Bittern,0.9919,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,423,426,Botaurus lentiginosus,American Bittern,0.9078,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,504,507,Botaurus lentiginosus,American Bittern,0.949,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,507,510,Botaurus lentiginosus,American Bittern,0.938,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_060526.wav
+Ward,NB36-03,13,20190615,06,6,9,Botaurus lentiginosus,American Bittern,0.9947,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,9,12,Botaurus lentiginosus,American Bittern,0.9956,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,12,15,Botaurus lentiginosus,American Bittern,0.9782,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,117,120,Botaurus lentiginosus,American Bittern,0.5573,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,120,123,Botaurus lentiginosus,American Bittern,0.9533,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,123,126,Botaurus lentiginosus,American Bittern,0.981,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,204,207,Botaurus lentiginosus,American Bittern,0.9928,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,207,210,Botaurus lentiginosus,American Bittern,0.9969,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,282,285,Botaurus lentiginosus,American Bittern,0.9693,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,285,288,Botaurus lentiginosus,American Bittern,0.9977,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,327,330,Botaurus lentiginosus,American Bittern,0.9258,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,330,333,Botaurus lentiginosus,American Bittern,0.993,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,333,336,Botaurus lentiginosus,American Bittern,0.9837,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,408,411,Botaurus lentiginosus,American Bittern,0.991,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,411,414,Botaurus lentiginosus,American Bittern,0.9933,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,564,567,Botaurus lentiginosus,American Bittern,0.6901,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,567,570,Botaurus lentiginosus,American Bittern,0.988,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,06,570,573,Botaurus lentiginosus,American Bittern,0.5541,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_063525.wav
+Ward,NB36-03,13,20190615,20,279,282,Botaurus lentiginosus,American Bittern,0.5978,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_200000.wav
+Ward,NB36-03,13,20190615,20,384,387,Botaurus lentiginosus,American Bittern,0.5337,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_200000.wav
+Ward,NB36-03,13,20190615,20,69,72,Botaurus lentiginosus,American Bittern,0.709,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_203000.wav
+Ward,NB36-03,13,20190615,20,270,273,Botaurus lentiginosus,American Bittern,0.5741,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_203000.wav
+Ward,NB36-03,13,20190615,20,444,447,Botaurus lentiginosus,American Bittern,0.6207,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_203000.wav
+Ward,NB36-03,13,20190615,20,570,573,Botaurus lentiginosus,American Bittern,0.9306,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_203000.wav
+Ward,NB36-03,13,20190615,20,633,636,Botaurus lentiginosus,American Bittern,0.5857,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_203000.wav
+Ward,NB36-03,13,20190615,20,657,660,Rallus limicola,Virginia Rail,0.9828,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_203000.wav
+Ward,NB36-03,13,20190615,20,660,663,Rallus limicola,Virginia Rail,0.9328,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_203000.wav
+Ward,NB36-03,13,20190615,20,720,723,Botaurus lentiginosus,American Bittern,0.8194,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_203000.wav
+Ward,NB36-03,13,20190615,20,879,882,Botaurus lentiginosus,American Bittern,0.5692,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_203000.wav
+Ward,NB36-03,13,20190615,20,882,885,Botaurus lentiginosus,American Bittern,0.923,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_203000.wav
+Ward,NB36-03,13,20190615,21,0,3,Botaurus lentiginosus,American Bittern,0.6775,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_213000.wav
+Ward,NB36-03,13,20190615,21,18,21,Botaurus lentiginosus,American Bittern,0.8024,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_213000.wav
+Ward,NB36-03,13,20190615,21,156,159,Botaurus lentiginosus,American Bittern,0.6055,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_213000.wav
+Ward,NB36-03,13,20190615,21,258,261,Coturnicops noveboracensis,Yellow Rail,0.8278,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_213000.wav
+Ward,NB36-03,13,20190615,21,831,834,Botaurus lentiginosus,American Bittern,0.7881,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_213000.wav
+Ward,NB36-03,13,20190615,21,834,837,Botaurus lentiginosus,American Bittern,0.7281,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_213000.wav
+Ward,NB36-03,13,20190615,21,837,840,Botaurus lentiginosus,American Bittern,0.6907,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190615_213000.wav
+Ward,NB36-03,13,20190616,02,171,174,Porzana carolina,Sora,0.634,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_020525.wav
+Ward,NB36-03,13,20190616,02,288,291,Porzana carolina,Sora,0.9745,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_020525.wav
+Ward,NB36-03,13,20190616,02,294,297,Porzana carolina,Sora,0.767,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_020525.wav
+Ward,NB36-03,13,20190616,02,312,315,Porzana carolina,Sora,0.586,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_020525.wav
+Ward,NB36-03,13,20190616,05,39,42,Botaurus lentiginosus,American Bittern,0.6754,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_050525.wav
+Ward,NB36-03,13,20190616,05,120,123,Botaurus lentiginosus,American Bittern,0.8137,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_050525.wav
+Ward,NB36-03,13,20190616,05,183,186,Botaurus lentiginosus,American Bittern,0.5102,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_050525.wav
+Ward,NB36-03,13,20190616,05,186,189,Botaurus lentiginosus,American Bittern,0.9396,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_050525.wav
+Ward,NB36-03,13,20190616,05,246,249,Botaurus lentiginosus,American Bittern,0.7201,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_050525.wav
+Ward,NB36-03,13,20190616,05,249,252,Botaurus lentiginosus,American Bittern,0.8362,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_050525.wav
+Ward,NB36-03,13,20190616,05,411,414,Botaurus lentiginosus,American Bittern,0.7334,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_050525.wav
+Ward,NB36-03,13,20190616,05,414,417,Botaurus lentiginosus,American Bittern,0.8417,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_050525.wav
+Ward,NB36-03,13,20190616,05,69,72,Botaurus lentiginosus,American Bittern,0.6329,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_053525.wav
+Ward,NB36-03,13,20190616,05,75,78,Porzana carolina,Sora,0.8569,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_053525.wav
+Ward,NB36-03,13,20190616,05,402,405,Botaurus lentiginosus,American Bittern,0.8773,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_053525.wav
+Ward,NB36-03,13,20190616,05,468,471,Botaurus lentiginosus,American Bittern,0.8124,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_053525.wav
+Ward,NB36-03,13,20190616,05,471,474,Botaurus lentiginosus,American Bittern,0.8876,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_053525.wav
+Ward,NB36-03,13,20190616,06,87,90,Botaurus lentiginosus,American Bittern,0.8662,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_060526.wav
+Ward,NB36-03,13,20190616,06,351,354,Botaurus lentiginosus,American Bittern,0.7854,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_060526.wav
+Ward,NB36-03,13,20190616,06,408,411,Botaurus lentiginosus,American Bittern,0.5297,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_060526.wav
+Ward,NB36-03,13,20190616,06,411,414,Botaurus lentiginosus,American Bittern,0.9531,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_060526.wav
+Ward,NB36-03,13,20190616,06,414,417,Botaurus lentiginosus,American Bittern,0.5631,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_060526.wav
+Ward,NB36-03,13,20190616,06,408,411,Botaurus lentiginosus,American Bittern,0.6529,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_063525.wav
+Ward,NB36-03,13,20190616,20,897,900,Botaurus lentiginosus,American Bittern,0.8367,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190616_203000.wav
+Ward,NB36-03,13,20190617,05,63,66,Botaurus lentiginosus,American Bittern,0.8105,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_053527.wav
+Ward,NB36-03,13,20190617,05,138,141,Botaurus lentiginosus,American Bittern,0.6346,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_053527.wav
+Ward,NB36-03,13,20190617,05,216,219,Botaurus lentiginosus,American Bittern,0.8069,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_053527.wav
+Ward,NB36-03,13,20190617,05,546,549,Porzana carolina,Sora,0.7965,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_053527.wav
+Ward,NB36-03,13,20190617,06,426,429,Porzana carolina,Sora,0.5908,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_060525.wav
+Ward,NB36-03,13,20190617,06,0,3,Botaurus lentiginosus,American Bittern,0.6789,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_063527.wav
+Ward,NB36-03,13,20190617,06,63,66,Botaurus lentiginosus,American Bittern,0.8123,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_063527.wav
+Ward,NB36-03,13,20190617,06,144,147,Botaurus lentiginosus,American Bittern,0.8048,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_063527.wav
+Ward,NB36-03,13,20190617,06,147,150,Botaurus lentiginosus,American Bittern,0.82,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_063527.wav
+Ward,NB36-03,13,20190617,06,234,237,Botaurus lentiginosus,American Bittern,0.6638,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_063527.wav
+Ward,NB36-03,13,20190617,06,549,552,Botaurus lentiginosus,American Bittern,0.7676,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_063527.wav
+Ward,NB36-03,13,20190617,07,42,45,Botaurus lentiginosus,American Bittern,0.6368,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_073527.wav
+Ward,NB36-03,13,20190617,21,3,6,Botaurus lentiginosus,American Bittern,0.8167,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_210525.wav
+Ward,NB36-03,13,20190617,21,525,528,Porzana carolina,Sora,0.8305,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_210525.wav
+Ward,NB36-03,13,20190617,21,3,6,Botaurus lentiginosus,American Bittern,0.6127,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_213527.wav
+Ward,NB36-03,13,20190617,21,42,45,Botaurus lentiginosus,American Bittern,0.5733,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_213527.wav
+Ward,NB36-03,13,20190617,21,474,477,Porzana carolina,Sora,0.8097,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_213527.wav
+Ward,NB36-03,13,20190617,21,558,561,Botaurus lentiginosus,American Bittern,0.6491,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190617_213527.wav
+Ward,NB36-03,13,20190618,00,441,444,Porzana carolina,Sora,0.6212,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_000525.wav
+Ward,NB36-03,13,20190618,00,465,468,Porzana carolina,Sora,0.8101,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_000525.wav
+Ward,NB36-03,13,20190618,00,477,480,Porzana carolina,Sora,0.8481,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_000525.wav
+Ward,NB36-03,13,20190618,00,486,489,Porzana carolina,Sora,0.842,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_000525.wav
+Ward,NB36-03,13,20190618,00,495,498,Porzana carolina,Sora,0.9262,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_000525.wav
+Ward,NB36-03,13,20190618,02,357,360,Botaurus lentiginosus,American Bittern,0.8558,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_020527.wav
+Ward,NB36-03,13,20190618,05,36,39,Botaurus lentiginosus,American Bittern,0.777,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_050527.wav
+Ward,NB36-03,13,20190618,05,570,573,Botaurus lentiginosus,American Bittern,0.6642,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_050527.wav
+Ward,NB36-03,13,20190618,05,24,27,Botaurus lentiginosus,American Bittern,0.5158,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,27,30,Botaurus lentiginosus,American Bittern,0.986,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,30,33,Botaurus lentiginosus,American Bittern,0.9907,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,102,105,Botaurus lentiginosus,American Bittern,0.6007,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,105,108,Botaurus lentiginosus,American Bittern,0.9439,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,174,177,Botaurus lentiginosus,American Bittern,0.9946,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,177,180,Botaurus lentiginosus,American Bittern,0.909,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,294,297,Botaurus lentiginosus,American Bittern,0.8174,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,297,300,Botaurus lentiginosus,American Bittern,0.9477,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,384,387,Botaurus lentiginosus,American Bittern,0.7142,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,387,390,Botaurus lentiginosus,American Bittern,0.8391,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,390,393,Botaurus lentiginosus,American Bittern,0.6646,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,519,522,Botaurus lentiginosus,American Bittern,0.6963,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,05,522,525,Botaurus lentiginosus,American Bittern,0.8989,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_053525.wav
+Ward,NB36-03,13,20190618,06,48,51,Botaurus lentiginosus,American Bittern,0.8798,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_060527.wav
+Ward,NB36-03,13,20190618,06,51,54,Botaurus lentiginosus,American Bittern,0.9122,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_060527.wav
+Ward,NB36-03,13,20190618,06,213,216,Botaurus lentiginosus,American Bittern,0.7375,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_060527.wav
+Ward,NB36-03,13,20190618,06,342,345,Botaurus lentiginosus,American Bittern,0.8399,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_060527.wav
+Ward,NB36-03,13,20190618,06,345,348,Botaurus lentiginosus,American Bittern,0.7036,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_060527.wav
+Ward,NB36-03,13,20190618,20,237,240,Chlidonias niger,Black Tern,0.6374,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_200527.wav
+Ward,NB36-03,13,20190618,20,240,243,Chlidonias niger,Black Tern,0.8605,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190618_200527.wav
+Ward,NB36-03,13,20190619,00,483,486,Porzana carolina,Sora,0.7642,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_000526.wav
+Ward,NB36-03,13,20190619,00,486,489,Porzana carolina,Sora,0.9087,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_000526.wav
+Ward,NB36-03,13,20190619,00,513,516,Porzana carolina,Sora,0.5995,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_000526.wav
+Ward,NB36-03,13,20190619,01,48,51,Porzana carolina,Sora,0.7259,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,57,60,Porzana carolina,Sora,0.9485,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,60,63,Porzana carolina,Sora,0.5967,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,99,102,Porzana carolina,Sora,0.8389,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,108,111,Porzana carolina,Sora,0.6468,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,111,114,Porzana carolina,Sora,0.7401,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,252,255,Porzana carolina,Sora,0.631,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,255,258,Porzana carolina,Sora,0.5544,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,270,273,Porzana carolina,Sora,0.5214,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,288,291,Porzana carolina,Sora,0.7902,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,330,333,Porzana carolina,Sora,0.8985,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,336,339,Porzana carolina,Sora,0.6617,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,348,351,Porzana carolina,Sora,0.8175,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,384,387,Porzana carolina,Sora,0.7401,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,387,390,Porzana carolina,Sora,0.745,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,396,399,Porzana carolina,Sora,0.7939,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,408,411,Porzana carolina,Sora,0.7386,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,411,414,Porzana carolina,Sora,0.7894,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,414,417,Porzana carolina,Sora,0.9135,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,420,423,Porzana carolina,Sora,0.7993,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,01,555,558,Porzana carolina,Sora,0.5347,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_010528.wav
+Ward,NB36-03,13,20190619,02,120,123,Botaurus lentiginosus,American Bittern,0.5119,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_020525.wav
+Ward,NB36-03,13,20190619,03,54,57,Porzana carolina,Sora,0.5396,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_030527.wav
+Ward,NB36-03,13,20190619,03,66,69,Porzana carolina,Sora,0.7293,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_030527.wav
+Ward,NB36-03,13,20190619,03,96,99,Porzana carolina,Sora,0.737,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_030527.wav
+Ward,NB36-03,13,20190619,03,564,567,Porzana carolina,Sora,0.7403,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_030527.wav
+Ward,NB36-03,13,20190619,06,27,30,Rallus limicola,Virginia Rail,0.5041,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_060528.wav
+Ward,NB36-03,13,20190619,07,102,105,Porzana carolina,Sora,0.6469,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190619_070528.wav
+Ward,NB36-03,13,20190620,20,141,144,Chlidonias niger,Black Tern,0.9453,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190620_200526.wav
+Ward,NB36-03,13,20190620,20,156,159,Chlidonias niger,Black Tern,0.7658,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190620_200526.wav
+Ward,NB36-03,13,20190621,07,528,531,Porzana carolina,Sora,0.8656,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190621_070526.wav
+Ward,NB36-03,13,20190621,20,252,255,Chaetura pelagica,Chimney Swift,0.5764,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190621_203526.wav
+Ward,NB36-03,13,20190621,21,345,348,Chordeiles minor,Common Nighthawk,0.9145,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190621_213526.wav
+Ward,NB36-03,13,20190622,05,150,153,Dolichonyx oryzivorus,Bobolink,0.506,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190622_053526.wav
+Ward,NB36-03,13,20190622,07,198,201,Porzana carolina,Sora,0.9187,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190622_070528.wav
+Ward,NB36-03,13,20190622,07,201,204,Porzana carolina,Sora,0.5478,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190622_070528.wav
+Ward,NB36-03,13,20190623,01,552,555,Porzana carolina,Sora,0.9701,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190623_010527.wav
+Ward,NB36-03,13,20190623,01,561,564,Porzana carolina,Sora,0.8169,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190623_010527.wav
+Ward,NB36-03,13,20190623,05,501,504,Botaurus lentiginosus,American Bittern,0.5394,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190623_053529.wav
+Ward,NB36-03,13,20190623,06,21,24,Porzana carolina,Sora,0.919,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190623_063528.wav
+Ward,NB36-03,13,20190623,21,138,141,Botaurus lentiginosus,American Bittern,0.5946,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190623_213528.wav
+Ward,NB36-03,13,20190623,21,453,456,Botaurus lentiginosus,American Bittern,0.7561,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190623_213528.wav
+Ward,NB36-03,13,20190624,05,6,9,Botaurus lentiginosus,American Bittern,0.5291,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190624_053527.wav
+Ward,NB36-03,13,20190624,05,309,312,Botaurus lentiginosus,American Bittern,0.7632,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190624_053527.wav
+Ward,NB36-03,13,20190624,05,417,420,Botaurus lentiginosus,American Bittern,0.6132,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190624_053527.wav
+Ward,NB36-03,13,20190624,05,561,564,Botaurus lentiginosus,American Bittern,0.5461,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190624_053527.wav
+Ward,NB36-03,13,20190624,07,69,72,Botaurus lentiginosus,American Bittern,0.6172,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190624_070527.wav
+Ward,NB36-03,13,20190624,21,198,201,Porzana carolina,Sora,0.8338,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav
+Ward,NB36-03,13,20190624,21,201,204,Porzana carolina,Sora,0.9822,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav
+Ward,NB36-03,13,20190624,21,204,207,Porzana carolina,Sora,0.938,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav
+Ward,NB36-03,13,20190624,21,234,237,Porzana carolina,Sora,0.6149,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav
+Ward,NB36-03,13,20190624,21,282,285,Porzana carolina,Sora,0.7502,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav
+Ward,NB36-03,13,20190624,21,288,291,Porzana carolina,Sora,0.57,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav
+Ward,NB36-03,13,20190624,21,399,402,Porzana carolina,Sora,0.7126,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190624_210522.wav
+Ward,NB36-03,13,20190625,00,99,102,Porzana carolina,Sora,0.6097,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_000522.wav
+Ward,NB36-03,13,20190625,00,105,108,Porzana carolina,Sora,0.6961,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_000522.wav
+Ward,NB36-03,13,20190625,00,114,117,Porzana carolina,Sora,0.823,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_000522.wav
+Ward,NB36-03,13,20190625,00,132,135,Porzana carolina,Sora,0.8234,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_000522.wav
+Ward,NB36-03,13,20190625,00,135,138,Porzana carolina,Sora,0.8698,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_000522.wav
+Ward,NB36-03,13,20190625,00,279,282,Porzana carolina,Sora,0.8556,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_000522.wav
+Ward,NB36-03,13,20190625,00,309,312,Porzana carolina,Sora,0.7677,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_000522.wav
+Ward,NB36-03,13,20190625,00,438,441,Porzana carolina,Sora,0.5225,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_000522.wav
+Ward,NB36-03,13,20190625,00,492,495,Porzana carolina,Sora,0.7564,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_000522.wav
+Ward,NB36-03,13,20190625,00,495,498,Porzana carolina,Sora,0.7013,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_000522.wav
+Ward,NB36-03,13,20190625,02,402,405,Porzana carolina,Sora,0.7789,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_020522.wav
+Ward,NB36-03,13,20190625,03,42,45,Porzana carolina,Sora,0.6477,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_030522.wav
+Ward,NB36-03,13,20190625,04,309,312,Botaurus lentiginosus,American Bittern,0.5328,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_043522.wav
+Ward,NB36-03,13,20190625,05,153,156,Porzana carolina,Sora,0.9084,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_053522.wav
+Ward,NB36-03,13,20190625,20,126,129,Porzana carolina,Sora,0.5815,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_200523.wav
+Ward,NB36-03,13,20190625,20,396,399,Porzana carolina,Sora,0.6276,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_203523.wav
+Ward,NB36-03,13,20190625,20,423,426,Ixobrychus exilis,Least Bittern,0.5241,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_203523.wav
+Ward,NB36-03,13,20190625,21,87,90,Porzana carolina,Sora,0.534,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_210523.wav
+Ward,NB36-03,13,20190625,21,51,54,Porzana carolina,Sora,0.8353,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190625_213523.wav
+Ward,NB36-03,13,20190626,03,486,489,Porzana carolina,Sora,0.6009,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_030523.wav
+Ward,NB36-03,13,20190626,05,528,531,Porzana carolina,Sora,0.5684,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_050523.wav
+Ward,NB36-03,13,20190626,05,276,279,Porzana carolina,Sora,0.8006,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_053523.wav
+Ward,NB36-03,13,20190626,05,285,288,Porzana carolina,Sora,0.9686,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_053523.wav
+Ward,NB36-03,13,20190626,06,66,69,Chlidonias niger,Black Tern,0.704,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_063523.wav
+Ward,NB36-03,13,20190626,07,546,549,Chlidonias niger,Black Tern,0.7002,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_070523.wav
+Ward,NB36-03,13,20190626,20,222,225,Porzana carolina,Sora,0.967,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_200523.wav
+Ward,NB36-03,13,20190626,20,552,555,Euphagus carolinus,Rusty Blackbird,0.6939,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_203523.wav
+Ward,NB36-03,13,20190626,20,567,570,Euphagus carolinus,Rusty Blackbird,0.5474,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_203523.wav
+Ward,NB36-03,13,20190626,21,231,234,Porzana carolina,Sora,0.7013,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_213523.wav
+Ward,NB36-03,13,20190626,21,240,243,Porzana carolina,Sora,0.8204,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_213523.wav
+Ward,NB36-03,13,20190626,21,246,249,Porzana carolina,Sora,0.9171,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_213523.wav
+Ward,NB36-03,13,20190626,21,249,252,Porzana carolina,Sora,0.8025,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_213523.wav
+Ward,NB36-03,13,20190626,21,261,264,Porzana carolina,Sora,0.8281,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190626_213523.wav
+Ward,NB36-03,13,20190627,06,405,408,Porzana carolina,Sora,0.6503,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190627_060523.wav
+Ward,NB36-03,13,20190627,06,444,447,Rallus limicola,Virginia Rail,0.5461,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190627_060523.wav
+Ward,NB36-03,13,20190627,06,531,534,Porzana carolina,Sora,0.8317,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190627_063523.wav
+Ward,NB36-03,13,20190627,07,312,315,Porzana carolina,Sora,0.9519,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190627_070523.wav
+Ward,NB36-03,13,20190627,07,450,453,Porzana carolina,Sora,0.9075,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190627_070523.wav
+Ward,NB36-03,13,20190627,20,402,405,Porzana carolina,Sora,0.9927,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190627_200523.wav
+Ward,NB36-03,13,20190627,20,405,408,Porzana carolina,Sora,0.9852,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190627_200523.wav
+Ward,NB36-03,13,20190627,20,66,69,Porzana carolina,Sora,0.7265,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190627_203523.wav
+Ward,NB36-03,13,20190627,20,81,84,Porzana carolina,Sora,0.8475,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190627_203523.wav
+Ward,NB36-03,13,20190628,04,111,114,Porzana carolina,Sora,0.7915,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_043523.wav
+Ward,NB36-03,13,20190628,04,120,123,Porzana carolina,Sora,0.9915,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_043523.wav
+Ward,NB36-03,13,20190628,04,318,321,Porzana carolina,Sora,0.8917,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_043523.wav
+Ward,NB36-03,13,20190628,04,321,324,Porzana carolina,Sora,0.7039,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_043523.wav
+Ward,NB36-03,13,20190628,05,348,351,Porzana carolina,Sora,0.5682,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_050523.wav
+Ward,NB36-03,13,20190628,05,48,51,Porzana carolina,Sora,0.678,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_053523.wav
+Ward,NB36-03,13,20190628,06,204,207,Ixobrychus exilis,Least Bittern,0.5826,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_060523.wav
+Ward,NB36-03,13,20190628,06,237,240,Chlidonias niger,Black Tern,0.9704,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_060523.wav
+Ward,NB36-03,13,20190628,06,243,246,Chlidonias niger,Black Tern,0.5868,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_060523.wav
+Ward,NB36-03,13,20190628,06,249,252,Chlidonias niger,Black Tern,0.7665,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_060523.wav
+Ward,NB36-03,13,20190628,06,252,255,Chlidonias niger,Black Tern,0.8739,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_060523.wav
+Ward,NB36-03,13,20190628,06,261,264,Chlidonias niger,Black Tern,0.975,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_060523.wav
+Ward,NB36-03,13,20190628,06,264,267,Chlidonias niger,Black Tern,0.8656,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_060523.wav
+Ward,NB36-03,13,20190628,07,459,462,Porzana carolina,Sora,0.96,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_070523.wav
+Ward,NB36-03,13,20190628,07,411,414,Vireo gilvus,Warbling Vireo,0.6108,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_073523.wav
+Ward,NB36-03,13,20190628,20,198,201,Porzana carolina,Sora,0.9516,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_200524.wav
+Ward,NB36-03,13,20190628,21,27,30,Porzana carolina,Sora,0.5856,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_213524.wav
+Ward,NB36-03,13,20190628,21,45,48,Porzana carolina,Sora,0.6695,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_213524.wav
+Ward,NB36-03,13,20190628,21,447,450,Chordeiles minor,Common Nighthawk,0.9395,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190628_213524.wav
+Ward,NB36-03,13,20190629,04,114,117,Porzana carolina,Sora,0.6545,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_040524.wav
+Ward,NB36-03,13,20190629,04,123,126,Porzana carolina,Sora,0.8531,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_040524.wav
+Ward,NB36-03,13,20190629,04,132,135,Porzana carolina,Sora,0.5409,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_040524.wav
+Ward,NB36-03,13,20190629,04,144,147,Porzana carolina,Sora,0.6997,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_040524.wav
+Ward,NB36-03,13,20190629,06,483,486,Porzana carolina,Sora,0.8787,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_060524.wav
+Ward,NB36-03,13,20190629,06,63,66,Porzana carolina,Sora,0.6088,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_063524.wav
+Ward,NB36-03,13,20190629,06,78,81,Ixobrychus exilis,Least Bittern,0.9656,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_063524.wav
+Ward,NB36-03,13,20190629,06,300,303,Podilymbus podiceps,Pied-billed Grebe,0.6457,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_063524.wav
+Ward,NB36-03,13,20190629,07,183,186,Porzana carolina,Sora,0.7773,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_070524.wav
+Ward,NB36-03,13,20190629,07,405,408,Rallus limicola,Virginia Rail,0.9293,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_070524.wav
+Ward,NB36-03,13,20190629,07,531,534,Porzana carolina,Sora,0.8136,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_070524.wav
+Ward,NB36-03,13,20190629,07,69,72,Porzana carolina,Sora,0.5832,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_073524.wav
+Ward,NB36-03,13,20190629,07,375,378,Porzana carolina,Sora,0.7575,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_073524.wav
+Ward,NB36-03,13,20190629,07,507,510,Porzana carolina,Sora,0.5829,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_073524.wav
+Ward,NB36-03,13,20190629,07,510,513,Porzana carolina,Sora,0.8347,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190629_073524.wav
+Ward,NB36-03,13,20190630,04,138,141,Rallus limicola,Virginia Rail,0.6395,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_040524.wav
+Ward,NB36-03,13,20190630,05,162,165,Porzana carolina,Sora,0.6686,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_050524.wav
+Ward,NB36-03,13,20190630,05,327,330,Porzana carolina,Sora,0.9342,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_053524.wav
+Ward,NB36-03,13,20190630,06,327,330,Porzana carolina,Sora,0.9699,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_060524.wav
+Ward,NB36-03,13,20190630,06,501,504,Porzana carolina,Sora,0.5711,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_060524.wav
+Ward,NB36-03,13,20190630,06,396,399,Porzana carolina,Sora,0.7095,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_063524.wav
+Ward,NB36-03,13,20190630,06,432,435,Botaurus lentiginosus,American Bittern,0.5391,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_063524.wav
+Ward,NB36-03,13,20190630,07,51,54,Botaurus lentiginosus,American Bittern,0.5327,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_070524.wav
+Ward,NB36-03,13,20190630,07,108,111,Porzana carolina,Sora,0.9657,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_070524.wav
+Ward,NB36-03,13,20190630,07,411,414,Porzana carolina,Sora,0.5378,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_070524.wav
+Ward,NB36-03,13,20190630,07,264,267,Porzana carolina,Sora,0.695,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_073524.wav
+Ward,NB36-03,13,20190630,07,504,507,Botaurus lentiginosus,American Bittern,0.507,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_073524.wav
+Ward,NB36-03,13,20190630,21,96,99,Chordeiles minor,Common Nighthawk,0.9565,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_210524.wav
+Ward,NB36-03,13,20190630,21,99,102,Chordeiles minor,Common Nighthawk,0.9337,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_210524.wav
+Ward,NB36-03,13,20190630,21,102,105,Chordeiles minor,Common Nighthawk,0.9902,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_210524.wav
+Ward,NB36-03,13,20190630,21,105,108,Chordeiles minor,Common Nighthawk,0.9701,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190630_210524.wav
+Ward,NB36-03,13,20190701,04,201,204,Porzana carolina,Sora,0.5601,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190701_043524.wav
+Ward,NB36-03,13,20190701,06,228,231,Porzana carolina,Sora,0.8167,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190701_063524.wav
+Ward,NB36-03,13,20190702,05,405,408,Porzana carolina,Sora,0.9519,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190702_053524.wav
+Ward,NB36-03,13,20190702,05,408,411,Porzana carolina,Sora,0.5025,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190702_053524.wav
+Ward,NB36-03,13,20190702,06,153,156,Porzana carolina,Sora,0.7126,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190702_063524.wav
+Ward,NB36-03,13,20190702,06,414,417,Porzana carolina,Sora,0.5503,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190702_063524.wav
+Ward,NB36-03,13,20190702,07,303,306,Porzana carolina,Sora,0.7516,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190702_070524.wav
+Ward,NB36-03,13,20190702,07,510,513,Porzana carolina,Sora,0.9194,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190702_070524.wav
+Ward,NB36-03,13,20190702,07,90,93,Ixobrychus exilis,Least Bittern,0.5472,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190702_073524.wav
+Ward,NB36-03,13,20190703,05,522,525,Porzana carolina,Sora,0.5029,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_050525.wav
+Ward,NB36-03,13,20190703,05,552,555,Porzana carolina,Sora,0.9575,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_053525.wav
+Ward,NB36-03,13,20190703,06,78,81,Porzana carolina,Sora,0.5146,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_060525.wav
+Ward,NB36-03,13,20190703,06,159,162,Porzana carolina,Sora,0.5419,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_060525.wav
+Ward,NB36-03,13,20190703,06,324,327,Chlidonias niger,Black Tern,0.8269,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_060525.wav
+Ward,NB36-03,13,20190703,06,330,333,Chlidonias niger,Black Tern,0.5378,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_060525.wav
+Ward,NB36-03,13,20190703,06,570,573,Chlidonias niger,Black Tern,0.9323,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_060525.wav
+Ward,NB36-03,13,20190703,06,279,282,Porzana carolina,Sora,0.9048,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_063525.wav
+Ward,NB36-03,13,20190703,06,303,306,Porzana carolina,Sora,0.5649,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_063525.wav
+Ward,NB36-03,13,20190703,07,495,498,Porzana carolina,Sora,0.8775,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_070525.wav
+Ward,NB36-03,13,20190703,07,216,219,Porzana carolina,Sora,0.8752,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_073525.wav
+Ward,NB36-03,13,20190703,07,234,237,Porzana carolina,Sora,0.9391,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_073525.wav
+Ward,NB36-03,13,20190703,07,237,240,Porzana carolina,Sora,0.9408,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_073525.wav
+Ward,NB36-03,13,20190703,07,282,285,Porzana carolina,Sora,0.5314,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_073525.wav
+Ward,NB36-03,13,20190703,21,3,6,Ixobrychus exilis,Least Bittern,0.7379,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_210525.wav
+Ward,NB36-03,13,20190703,21,327,330,Botaurus lentiginosus,American Bittern,0.5153,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_210525.wav
+Ward,NB36-03,13,20190703,21,192,195,Porzana carolina,Sora,0.8636,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,204,207,Porzana carolina,Sora,0.6298,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,222,225,Porzana carolina,Sora,0.9685,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,225,228,Porzana carolina,Sora,0.6585,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,228,231,Porzana carolina,Sora,0.9956,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,231,234,Porzana carolina,Sora,0.6468,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,237,240,Porzana carolina,Sora,0.8888,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,240,243,Porzana carolina,Sora,0.8743,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,243,246,Porzana carolina,Sora,0.7388,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,249,252,Porzana carolina,Sora,0.9315,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,264,267,Porzana carolina,Sora,0.7863,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,267,270,Porzana carolina,Sora,0.9573,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,270,273,Porzana carolina,Sora,0.8935,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,276,279,Porzana carolina,Sora,0.7618,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,285,288,Porzana carolina,Sora,0.9541,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,288,291,Porzana carolina,Sora,0.7823,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,291,294,Porzana carolina,Sora,0.6395,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,297,300,Porzana carolina,Sora,0.8907,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,309,312,Porzana carolina,Sora,0.8536,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,318,321,Porzana carolina,Sora,0.8186,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,321,324,Porzana carolina,Sora,0.7599,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,324,327,Porzana carolina,Sora,0.8755,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,336,339,Porzana carolina,Sora,0.978,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,339,342,Porzana carolina,Sora,0.5305,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,354,357,Porzana carolina,Sora,0.651,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,369,372,Porzana carolina,Sora,0.597,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,372,375,Porzana carolina,Sora,0.5332,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,378,381,Porzana carolina,Sora,0.5064,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,387,390,Porzana carolina,Sora,0.6038,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,402,405,Porzana carolina,Sora,0.7145,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,414,417,Porzana carolina,Sora,0.7441,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,420,423,Porzana carolina,Sora,0.8043,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,426,429,Porzana carolina,Sora,0.8961,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,432,435,Porzana carolina,Sora,0.8498,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,444,447,Porzana carolina,Sora,0.9454,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,447,450,Porzana carolina,Sora,0.9297,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,450,453,Porzana carolina,Sora,0.8495,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,453,456,Porzana carolina,Sora,0.896,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,456,459,Porzana carolina,Sora,0.9047,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,459,462,Porzana carolina,Sora,0.8323,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,462,465,Porzana carolina,Sora,0.6573,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,468,471,Porzana carolina,Sora,0.7559,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,471,474,Porzana carolina,Sora,0.8605,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,474,477,Porzana carolina,Sora,0.9662,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,477,480,Porzana carolina,Sora,0.7237,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,480,483,Porzana carolina,Sora,0.9282,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,483,486,Porzana carolina,Sora,0.8216,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,486,489,Porzana carolina,Sora,0.9443,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190703,21,489,492,Porzana carolina,Sora,0.7955,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190703_213525.wav
+Ward,NB36-03,13,20190704,02,120,123,Rallus limicola,Virginia Rail,0.9731,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190704_020525.wav
+Ward,NB36-03,13,20190704,04,405,408,Porzana carolina,Sora,0.6074,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190704_040525.wav
+Ward,NB36-03,13,20190704,07,408,411,Porzana carolina,Sora,0.7755,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190704_070525.wav
+Ward,NB36-03,13,20190704,07,324,327,Rallus limicola,Virginia Rail,0.5138,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190704_073525.wav
+Ward,NB36-03,13,20190704,07,348,351,Porzana carolina,Sora,0.552,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190704_073525.wav
+Ward,NB36-03,13,20190704,07,351,354,Porzana carolina,Sora,0.5135,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190704_073525.wav
+Ward,NB36-03,13,20190704,20,147,150,Porzana carolina,Sora,0.5116,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190704_203525.wav
+Ward,NB36-03,13,20190704,20,195,198,Ixobrychus exilis,Least Bittern,0.9041,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190704_203525.wav
+Ward,NB36-03,13,20190705,04,399,402,Porzana carolina,Sora,0.627,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_040525.wav
+Ward,NB36-03,13,20190705,04,225,228,Chordeiles minor,Common Nighthawk,0.5396,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_043525.wav
+Ward,NB36-03,13,20190705,04,237,240,Chordeiles minor,Common Nighthawk,0.7387,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_043525.wav
+Ward,NB36-03,13,20190705,04,249,252,Chordeiles minor,Common Nighthawk,0.8681,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_043525.wav
+Ward,NB36-03,13,20190705,04,258,261,Chordeiles minor,Common Nighthawk,0.8383,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_043525.wav
+Ward,NB36-03,13,20190705,04,261,264,Chordeiles minor,Common Nighthawk,0.8926,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_043525.wav
+Ward,NB36-03,13,20190705,04,267,270,Chordeiles minor,Common Nighthawk,0.9821,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_043525.wav
+Ward,NB36-03,13,20190705,04,270,273,Chordeiles minor,Common Nighthawk,0.7523,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_043525.wav
+Ward,NB36-03,13,20190705,04,276,279,Chordeiles minor,Common Nighthawk,0.867,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_043525.wav
+Ward,NB36-03,13,20190705,04,279,282,Chordeiles minor,Common Nighthawk,0.8229,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_043525.wav
+Ward,NB36-03,13,20190705,04,282,285,Chordeiles minor,Common Nighthawk,0.9773,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_043525.wav
+Ward,NB36-03,13,20190705,21,75,78,Ixobrychus exilis,Least Bittern,0.6279,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_210525.wav
+Ward,NB36-03,13,20190705,21,327,330,Porzana carolina,Sora,0.9727,E:\Birds Canada east\focal species analysis\Ward_NB36-03_13\MMP-POPA13_20190705_213525.wav
