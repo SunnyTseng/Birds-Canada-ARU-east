@@ -67,3 +67,7 @@ knitr::opts_chunk$set(echo = TRUE)
     4.  Westcock (site ID: NB37-01; ARU ID: 21)
 
 -   Ask about the file summarize method
+
+## Mar. 1, 2024
+
+-   Re run all the analysis on the focal species. The species list is the same as the one used in the east

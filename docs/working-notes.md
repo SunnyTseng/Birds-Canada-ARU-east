@@ -1,6 +1,6 @@
 Working notes
 ================
-2024-01-14
+2024-03-01
 
 ### Dec. 14, 2023
 
@@ -64,3 +64,8 @@ Working notes
   4.  Westcock (site ID: NB37-01; ARU ID: 21)
 
 - Ask about the file summarize method
+
+## Mar. 1, 2024
+
+- Re run all the analysis on the focal species. The species list is the
+  same as the one used in the east
